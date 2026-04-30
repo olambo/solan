@@ -1,0 +1,2 @@
+# Marker config so Hugo recognises this Go module as a Hugo module.
+# Mounts are declared by the importing site (kaisune).
