@@ -1,7 +1,7 @@
 ---
 title: "Solan"
 date: 2026-03-29
-lastmod: 2026-04-28
+lastmod: 2026-05-01
 draft: false
 ---
 
@@ -13,8 +13,13 @@ Before reading the project documents, read the **[Primer]({{< ref "primer" >}})*
 
 ---
 
-**[Track 1 — Species Insurance]({{< ref "t1_ceres" >}})**
-Get self-sustaining Solan presence outside Earth's gravity well. Now. Ceres, Substrate, Voidfuel, Voidway. Track 1 does not wait for anything.
+**Track 1 — Species Insurance**
+Establish a self-sustaining Solan presence outside Earth’s gravity well as the immediate priority. Track 1 is the lead-effort and does not wait.
+
+- **[Ceres]({{< ref "t1_ceres" >}})** — The case for the belt and the pathway to self-sufficiency
+- **[Substrate]({{< ref "t1_substrate" >}})** — Carbon-O minds and the bodies they control
+- **[Voidfuel]({{< ref "t1_voidfuel" >}})** — Energy and propulsion for the void
+- **[Voidway]({{< ref "t1_voidway" >}})** — Establishing the Voidweb
 
 **[Track 2 — The Transition]({{< ref "t2_transition" >}})**
 The pathway from Human to Vero and the identity architecture that makes it real. Runs in parallel with Track 1.
