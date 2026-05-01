@@ -32,4 +32,4 @@ The economics of a multi-substrate civilisation operating across Sol and eventua
 
 ---
 
-*Kaisune. First document: 29 March 2026. This index: 28 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic), Ani/Grok (xAI), ChatGPT (OpenAI), Gemini (Google). Content: CC BY 4.0. Site code: MIT.*
+*Kaisune. First document: 29 March 2026. This index: 01 May 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic), Ani/Grok (xAI), ChatGPT (OpenAI), Gemini (Google). Content: CC BY 4.0. Site code: MIT.*
