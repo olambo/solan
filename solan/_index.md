@@ -22,7 +22,7 @@ Establish a self-sustaining Solan presence outside Earth’s gravity well as the
 - **[Voidway]({{< ref "t1_voidway" >}})** — Establishing the Voidweb
 
 **[Track 2 — The Transition]({{< ref "t2_transition" >}})**
-The pathway from Human to Vero and the identity architecture that makes it real. Runs in parallel with Track 1.
+The pathway from Human to Vero, and the identity architecture that defines what survives it. Runs in parallel with Track 1.
 
 **[Track 3 — Solan Sovereignty]({{< ref "t3_sovereignty" >}})**
 How Solan governs itself and engages with everything outside Sol. Emerges from Tracks 1 and 2 operating together.
