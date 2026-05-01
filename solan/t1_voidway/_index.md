@@ -78,7 +78,7 @@ The primary probe aggregates subprobe telemetry and transmits the full picture b
 
 A one-shot probe is a knock on the door. A persistent probe is someone standing quietly outside, narrating their own existence, for as long as it takes.
 
-**The launch constraint.** The pioneer Voidnaught is not launched until the minimum observation window has elapsed and the subprobe baseline is complete. If indicators of active civilisation are detected — structured electromagnetic signals, orbital anomalies, spectral signatures inconsistent with natural processes — the pioneer does not launch. The Contact protocols take precedence. See [Contact]({{< ref "t3_sovereignty/contact" >}}).
+**The launch constraint.** The pioneer Voidnaught is not launched until the minimum observation window has elapsed and the subprobe baseline is complete. If indicators of active civilisation are detected — structured electromagnetic signals, orbital anomalies, spectral signatures inconsistent with natural processes — the pioneer does not launch. The Contact protocols take precedence. See [Contact]({{< ref "contact" >}}).
 
 If no indicators are detected after sufficient observation, "no contact found" becomes a credible finding rather than an assumption. The probe's long-duration baseline earned that conclusion.
 
@@ -104,9 +104,9 @@ A Voidnaught is the Solan making the crossing — the mind that goes, whether a 
 
 The pioneer is a Voidnaught. The establishment mission is a fleet of Voidnaughts. A Solan who chooses the journey over data transmission travels as a Voidnaught.
 
-The name carries its meaning. Dreadnought — fear nothing — named the class of vessel so capable it made everything before it obsolete. A Voidnaught fears nothing in the void: no oxygen requirement, no radiation exposure limit, no fatigue, no biological decay across a century of transit. The word also carries the zero — naught as nothing, as void. A Voidnaught is a mind that operates in the nothing. See [Substrate]({{< ref "t1_substrate/_index.md" >}}) for the physical architecture of the vessel.
+The name carries its meaning. Dreadnought — fear nothing — named the class of vessel so capable it made everything before it obsolete. A Voidnaught fears nothing in the void: no oxygen requirement, no radiation exposure limit, no fatigue, no biological decay across a century of transit. The word also carries the zero — naught as nothing, as void. A Voidnaught is a mind that operates in the nothing. See [Substrate]({{< ref "_index" >}}) for the physical architecture of the vessel.
 
-**Who goes first.** The pioneer mission profile fits a Solan built for the void from the start — no life support, no biological decay, a century of transit as operational phase rather than existential crossing. Whether the first pioneer is a Carbon-O or a Vero carries different implications for what arrives — emergence or continuity. See [Threshold]({{< ref "t2_transition/threshold.md" >}}) for that distinction.
+**Who goes first.** The pioneer mission profile fits a Solan built for the void from the start — no life support, no biological decay, a century of transit as operational phase rather than existential crossing. Whether the first pioneer is a Carbon-O or a Vero carries different implications for what arrives — emergence or continuity. See [Threshold]({{< ref "threshold" >}}) for that distinction.
 
 ---
 

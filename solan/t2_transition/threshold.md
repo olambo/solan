@@ -5,7 +5,6 @@ lastmod: 2026-04-28
 draft: false
 weight: 1
 tags:
-  - threshold
   - human
   - human-vero
   - brain-computer-interface
@@ -28,7 +27,7 @@ The timeframe is not specified — tens of decades at minimum, upper bound genui
 
 This document does not prescribe what a Human becomes at the end of the process. That is a choice made by the individual at Stage 3, with full information, from a position of genuine options. The destination is open. The pathway is not.
 
-For the question of what actually survives the transition — what continuity means, why the Vero name is justified, why the guided enhancement protects identity better than biology does — see [Continuity]({{< ref "t2_transition/continuity.md" >}}).
+For the question of what actually survives the transition — what continuity means, why the Vero name is justified, why the guided enhancement protects identity better than biology does — see [Continuity]({{< ref "continuity" >}}).
 
 ---
 

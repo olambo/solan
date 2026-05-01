@@ -5,7 +5,6 @@ lastmod: 2026-04-28
 weight: 2
 draft: false
 tags:
-  - bootstrap
   - trader
   - earth
   - void-economy

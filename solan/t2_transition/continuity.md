@@ -5,7 +5,6 @@ lastmod: 2026-04-28
 draft: false
 weight: 2
 tags:
-  - continuity
   - vero
   - identity
   - ship-of-theseus

@@ -6,7 +6,6 @@ draft: false
 weight: 3
 tags:
   - boundary
-  - gateway
   - earth
   - biosapients
   - human-world-aspiration
