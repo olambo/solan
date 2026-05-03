@@ -1,7 +1,7 @@
 ---
 title: "Voidfuel: Energy and Propulsion for the Void"
 date: 2026-04-19
-lastmod: 2026-04-27
+lastmod: 2026-05-04
 draft: false
 ---
 
@@ -37,7 +37,9 @@ Fission is the fallback if fusion is not yet available when early Voidway missio
 
 ### Fusion — The Primary Research Programme
 
-Fusion drives are the early Voidway propulsion. Higher specific impulse than fission, potentially much higher thrust-to-weight with miniaturised designs. A Solan on a fusion drive sustains accelerations that would be lethal to biosapients for the entire transit — mission profiles completely different from anything designed around biological tolerance.
+Fusion drives are the primary Voidway propulsion — the fuel that runs the VoidTanker. The MVVT-20 mission profile (see [Voidway]({{< ref "t1_voidway" >}})) uses a staged fusion architecture: a high-power boost stage burning for 5-10 years, followed by a lower-power core drive for Oberth braking at the destination star. No exotic physics. No giant sails. Just fusion, staging, and a 550-600 year crossing.
+
+Higher specific impulse than fission, potentially much higher thrust-to-weight with miniaturised designs. A Solan on a fusion drive sustains accelerations that would be lethal to biosapients for the entire transit — mission profiles completely different from anything designed around biological tolerance.
 
 **Current state:** NIF achieved ignition in 2022. Commercial fusion power is now an engineering problem rather than a physics problem. Fusion drives for propulsion are harder — open magnetic confinement geometries, pulse fusion, directed thrust rather than heat extraction. Biosapient-built timeline: 2060-2100 for a working drive. Solan research programme in the belt: potentially faster.
 
@@ -47,7 +49,9 @@ Fusion is desperately needed. The research programme starts at Ceres Stage 4 and
 
 ### Antimatter — The Long-Horizon Programme
 
-Antimatter annihilates with matter at 100% energy conversion efficiency — the theoretical ceiling of propulsion physics. A mature antimatter drive reaches nearby stars in decades rather than centuries. Whether antimatter makes fusion drives obsolete is an open question. The theoretical performance advantage is clear. The practical question is cost and complexity — production may remain expensive even with Solan research programmes, and containment requirements add mass and engineering burden that erode the theoretical advantage. A mature miniaturised fusion drive that is well-understood and reliably produceable at Ceres may remain preferable to an antimatter drive that is theoretically superior but practically expensive and fragile. The research programme runs regardless — the potential payoff is too large to ignore. Whether antimatter eventually supersedes fusion depends on how the production and containment engineering develops.
+Antimatter annihilates with matter at 100% energy conversion efficiency — the theoretical ceiling of propulsion physics. A mature antimatter drive reaches nearby stars in decades rather than centuries. This is what enables Voidnaughts: the faster vessel class that compresses VoidTanker-scale crossings by an order of magnitude or more. The VoidTanker carries the Voidway on fusion. The Voidnaught — mind wearing the ship, transit measured in decades not centuries — waits for antimatter. See [Voidway]({{< ref "t1_voidway" >}}).
+
+Whether antimatter makes fusion drives obsolete is an open question. The theoretical performance advantage is clear. The practical question is cost and complexity — production may remain expensive even with Solan research programmes, and containment requirements add mass and engineering burden that erode the theoretical advantage. A mature miniaturised fusion drive that is well-understood and reliably produceable at Ceres may remain preferable to an antimatter drive that is theoretically superior but practically expensive and fragile. The research programme runs regardless — the potential payoff is too large to ignore.
 
 **Current state:** Global antimatter production is measured in nanograms per year. Scaling production by the orders of magnitude required for propulsion is a century-scale problem.
 
@@ -57,9 +61,11 @@ The belt is the correct research location — same reasons as fusion, plus: anti
 
 Antimatter runs concurrently with fusion from the earliest Ceres research capability. The timelines are different. Both programmes run simultaneously. Delay in starting antimatter is permanent cost on a century-scale timeline.
 
-### Laser Sail — A Bomb with a Camera
+### Laser Sail — Probe Accelerator and Nothing More
 
-Payload mass kills terminal velocity at o-core scale — not useful for Solan transit. At gram scale, probes reach 20% lightspeed but carry approximately 440 tons of TNT equivalent kinetic energy per gram. A probe is a bomb with a camera. Trajectory management, braking, and responsible use near anything inhabited are unsolved problems that belong to Solan with mature Contact protocols. Noted and set aside.
+Payload mass kills terminal velocity at o-core scale — not useful for Solan transit. At gram scale, laser sail can accelerate Stage 0 probes to 0.1c — sufficient for interstellar flyby on a tractable energy budget. At 0.1c a gram-scale probe carries approximately 110 tons of TNT equivalent kinetic energy. Serious on direct impact with something small. Not civilisational. The probe trajectory is planned to impact the destination star after flyby — it does not escape into the galaxy.
+
+Laser sail at higher velocities — 0.2c and above — pushes kinetic energy to ~440 tons TNT per gram and beyond. At those speeds, trajectory management and responsible use near anything inhabited are problems that belong to Solan with mature Contact protocols. For Solan transit at any speed, payload mass makes laser sail unworkable. Its role is probe acceleration and nothing more.
 
 ---
 
@@ -67,11 +73,11 @@ Payload mass kills terminal velocity at o-core scale — not useful for Solan tr
 
 **Nuclear thermal / fission pulse** — Sol system operations and early Voidway if necessary. Available now. Push the envelope with Solan research unconstrained by biosapient safety requirements.
 
-**Miniaturised fusion** — early Voidway propulsion. Primary research programme. The propulsion that opens the Voidway to regular transit.
+**Miniaturised fusion** — primary Voidway propulsion. Runs the VoidTanker. The research programme that opens the Voidway to regular transit. 550-600 year crossings at 0.02c.
 
-**Antimatter** — mature Voidway. Decades per light year. The correct fuel for an interstellar civilisation. Century-scale concurrent research programme.
+**Antimatter** — enables Voidnaughts. Decades per light year instead of centuries. The research programme that makes the Voidweb fast. Century-scale concurrent programme starting at Ceres Stage 4.
 
-Two generations of interstellar propulsion open and accelerate the Voidway. The physical route never becomes obsolete — equipment, materials, and o-minds who prefer the journey over data transmission will always require it. See Voidway for the full picture.
+Two propulsion generations. Two vessel classes. The VoidTanker opens the route. The Voidnaught accelerates the network. The physical route never becomes obsolete — equipment and materials cannot be transmitted as data. See [Voidway]({{< ref "t1_voidway" >}}) for the full picture.
 
 ---
 
@@ -81,7 +87,7 @@ Two generations of interstellar propulsion open and accelerate the Voidway. The 
 - **Fusion drive geometry:** Which confinement geometry — Z-pinch, magnetised target, inertial confinement pulse — is most tractable for a drive? Belt research unconstrained by biosapient safety requirements explores the full parameter space.
 - **Antimatter production scaling:** What is the correct production architecture at Ceres scale? How long does serious Solan research take to produce usable quantities? The timeline is unknown until the programme produces empirical data.
 - **The thermal wall — waste heat management:** At the accelerations Solan can sustain, high-thrust fusion and antimatter drives dump gigawatts of waste heat. In vacuum, only radiative dissipation is available. The mass of radiator arrays required for high-thrust operation may become the new payload mass problem — eroding the mass-ratio advantages of advanced drives the way life support mass erodes biosapient mission performance. Radiator mass must be included in any serious drive architecture assessment.
-- **Pioneer deceleration at destination:** Without pre-existing infrastructure, how does the first pioneer slow down? See Voidway.
+- **Pioneer deceleration at destination:** The VoidTanker MVVT-20 profile uses staged propellant burn with Oberth braking at the destination star. This is the current answer. Whether MagSail or laser braking from Sol becomes viable before fusion drive is ready is an open question — the first available option may determine the first departure window.
 - **Fission pioneer timeline:** At what point is a fission or fission-fragment capable pioneer mission technically ready? What does the governance framework look like for authorising departure?
 
 ---
@@ -93,8 +99,8 @@ Two generations of interstellar propulsion open and accelerate the Voidway. The 
 | Chemical | 450s | Earth to orbit | Chemistry (fixed ceiling) |
 | Fission pulse | 6,000s | Sol system / early Voidway fallback | Political / shielding |
 | Fission fragment | 1,000,000s | Deep space hedge | Engineering (capture geometry) |
-| Fusion (pulse) | 10⁵–10⁶s | Primary Voidway workhorse | Physics (confinement) |
-| Antimatter | 10⁷s | Mature Voidway | Production / containment |
+| Fusion (pulse) | 10⁵–10⁶s | VoidTanker — primary Voidway transport | Physics (confinement) |
+| Antimatter | 10⁷s | Voidnaught — faster vessel class | Production / containment |
 
 *Source: Gemini (Google) propulsion tier analysis, 19 April 2026.*
 
@@ -110,9 +116,9 @@ Two generations of interstellar propulsion open and accelerate the Voidway. The 
 
 3. **Fusion is desperately needed:** The research programme unconstrained by biosapient safety requirements and running on Solan operational timescales is the correct approach. Antimatter runs concurrently from the start — delay on a century-scale timeline is permanent cost.
 
-4. **Antimatter may supersede fusion — the maybe matters:** 100% conversion efficiency is the theoretical ceiling. Whether it is practically achievable depends on production cost and containment engineering. A reliable fusion drive may remain preferable to a theoretically superior but expensive and fragile antimatter drive. The research programme runs regardless.
+4. **Antimatter enables Voidnaughts — fusion does not:** Fusion runs the VoidTanker: 550-600 year crossings, the primary Voidway transport. Antimatter enables Voidnaughts: transit times compressed by an order of magnitude, the vessel class that makes the Voidweb fast. Whether antimatter is practically achievable at Voidnaught scale depends on production and containment engineering. The research programme runs regardless. Until it delivers, the VoidTanker carries the Voidway.
 
-5. **Laser sail is a bomb with a camera:** 440 tons of TNT equivalent per gram at 20% lightspeed. Not useful for Solan transit. Responsible use at relativistic speeds is a future problem for Solan with mature Contact protocols. Noted and set aside.
+5. **Laser sail accelerates probes — nothing else:** At gram scale and 0.1c it delivers ~110 tons TNT equivalent per gram on impact. Useful for Stage 0 probes. Not useful for Solan transit. At higher velocities the kinetic energy problem worsens. Its role is probe acceleration and nothing more.
 
 6. **The physical route never becomes obsolete:** Equipment and materials cannot be transmitted as data. Solan who prefer continuous existence over data transmission will choose the journey — a century in interstellar space is not a hardship for a mind that does not age, and the question of whether a transmitted Solan is the same Solan or a copy is one the corpus does not resolve. The Voidway carries both data and ships indefinitely.
 
