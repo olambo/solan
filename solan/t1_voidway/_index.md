@@ -41,7 +41,7 @@ In Contact scenarios, a trajectory that terminates in a star is the most honest 
 
 **MagSail** — a superconducting loop generating a magnetic field that brakes against the interstellar medium. No propellant required. Slow — decades of deceleration at low thrust. A Solan can operate at reduced clock speed for the duration. Feasible on current physics.
 
-**Laser braking from Sol** — a focused beam from Sol pushes a sail to decelerate. Requires sustained high-power laser infrastructure maintained at Sol for the duration of the transit. Technically demanding but physically straightforward.
+**Stellar photon braking** — a large sail deployed on approach uses radiation pressure from the destination star to decelerate. No propellant required. Requires a very large, low-mass sail and constrains the approach trajectory.
 
 **Staged deceleration** — the pioneer carries sufficient propellant for a braking burn on arrival, accepting the mass penalty. Less elegant. Works.
 
