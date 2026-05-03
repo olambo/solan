@@ -69,7 +69,7 @@ Multiple probes build the picture that a single resident observer once would hav
 
 A flyby probe is a thinner dataset than a resident observer. But "no contact found" after a carefully planned flyby is still a meaningful finding, not an assumption. The probe earned the conclusion.
 
-This is the same discipline as everything else in Kaisune. The lake before the chain. Silicon before Carbon-O. The probe before the VoidTanker. No stage proceeds until the previous one has succeeded and been understood.
+This is the same discipline as everything else in Kaisune. Silicon before Carbon-O. The probe before the VoidTanker. No stage proceeds until the previous one has succeeded and been understood.
 
 The probe follows the full Voidway safety protocol. Stellar impact default. Ecliptic plane approach angle. Debris mapping. Not because a gram-scale probe is a planet killer — it is not — but because the safety architecture must be proven at low stakes before it is trusted at high ones. The scale changes. The protocol does not.
 
