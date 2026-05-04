@@ -125,6 +125,8 @@ The VoidForge separates and goes to work. The hull does not move again. The forw
 
 Payload delivered to destination: ~4 tons.
 
+*Note: these figures are illustrative order-of-magnitude estimates, not a verified budget derived from the current integrated design. The propellant fraction in particular has not been recalculated for the VoidForge configuration.*
+
 **Physical scale**
 
 The ship runs 200-400 metres in length. Radiator array spans 0.5-1 km. No boost stage. No discarded hardware. One vessel departs; one vessel arrives.
@@ -151,6 +153,7 @@ The MVVT-20 profile depends on four engineering assumptions that are physically 
 - **Fusion drive performance:** Exhaust velocity ~0.03c and sustained GW output over decades requires high-performance fusion propulsion well beyond current prototypes.
 - **VoidForge rotation:** The VoidForge rotates within the Galleon's structure during cruise — using a gimbal or turntable at the interface, handling power and fuel connections through the rotation. An alternative is magnetic redirection of the plasma exhaust — changing exhaust direction without physically rotating the VoidForge. Either approach is within the engineering envelope; neither is demonstrated at this scale.
 - **Shielding:** At 0.02c, micron-scale interstellar dust is a genuine threat. Dust density along the actual route is unknown until the probe flies it.
+- **VoidForge structural skin:** Whether the VoidForge carries its own structural skin during transit, or relies on the Galleon hull for structural integrity, has not been determined. On arrival it may fabricate its own operational shell from local materials — or repurpose part of the Galleon hull directly, before the remainder becomes general fabrication feedstock. The transit design is consistent with either; the post-arrival form factor is an open question.
 
 A design that names its own weaknesses is harder to dismiss than one that does not.
 
