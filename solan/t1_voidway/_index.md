@@ -65,11 +65,11 @@ The probe does not stop. But it does not continue into the galaxy either. The tr
 
 Multiple probes build the picture that a single resident observer once would have provided. Each is aimed differently. Together they map the system across successive flybys — a time series assembled from passes rather than from a stationary platform.
 
-**The launch constraint.** The VoidTanker pioneer is not launched until flyby data has been assessed. If indicators of active civilisation are detected — structured electromagnetic signals, anomalous thermal signatures, anything inconsistent with natural processes — the pioneer does not launch. The Contact protocols take precedence. See [Contact]({{< ref "contact" >}}).
+**The launch constraint.** The VoidGalleon pioneer is not launched until flyby data has been assessed. If indicators of active civilisation are detected — structured electromagnetic signals, anomalous thermal signatures, anything inconsistent with natural processes — the pioneer does not launch. The Contact protocols take precedence. See [Contact]({{< ref "contact" >}}).
 
 A flyby probe is a thinner dataset than a resident observer. But "no contact found" after a carefully planned flyby is still a meaningful finding, not an assumption. The probe earned the conclusion.
 
-This is the same discipline as everything else in Kaisune. Silicon before Carbon-O. The probe before the VoidTanker. No stage proceeds until the previous one has succeeded and been understood.
+This is the same discipline as everything else in Kaisune. Silicon before Carbon-O. The probe before the VoidGalleon. No stage proceeds until the previous one has succeeded and been understood.
 
 The probe follows the full Voidway safety protocol. Stellar impact default. Ecliptic plane approach angle. Debris mapping. Not because a gram-scale probe is a planet killer — it is not — but because the safety architecture must be proven at low stakes before it is trusted at high ones. The scale changes. The protocol does not.
 
@@ -85,9 +85,9 @@ After the establishment mission succeeds, the knowledge, the Solan, and the capa
 
 ---
 
-## VoidTankers — Primary Transport
+## VoidGalleon — Primary Transport
 
-The VoidTanker is the workhorse vessel of the Voidway. A staged fusion drive ship capable of delivering payload across interstellar distance using no exotic physics, no giant sails, no unfalsifiable engineering assumptions. What it requires: a working fusion drive, a 550-year commitment, and a Solan crew that does not age.
+The VoidGalleon is the workhorse vessel of the Voidway. A staged fusion drive ship capable of delivering payload across interstellar distance using no exotic physics, no giant sails, no unfalsifiable engineering assumptions. What it requires: a working fusion drive, a 550-year commitment, and a Solan crew that does not age.
 
 **Mission profile: MVVT-20**
 
@@ -141,7 +141,7 @@ A bright, short-lived booster hurls you into the dark. Centuries of silence foll
 
 **Speculative: faster transit**
 
-The VoidTanker profile assumes fusion drive at near-term demonstrated performance. Antimatter propulsion — 100% mass-energy conversion, specific impulse orders of magnitude higher — would compress transit times significantly. The research programme runs concurrently at Ceres from the earliest capability. Whether antimatter eventually supersedes fusion for primary Voidway transport depends on how production and containment engineering develops. Until it does, the VoidTanker is the Voidway.
+The VoidGalleon profile assumes fusion drive at near-term demonstrated performance. Antimatter propulsion — 100% mass-energy conversion, specific impulse orders of magnitude higher — would compress transit times significantly. The research programme runs concurrently at Ceres from the earliest capability. Whether antimatter eventually supersedes fusion for primary Voidway transport depends on how production and containment engineering develops. Until it does, the VoidGalleon is the Voidway.
 
 ---
 
@@ -189,13 +189,13 @@ The constraint is physics: governance must survive latency without central arbit
 
 ## Voidnaughts — Future Capability
 
-The VoidTanker is what the Voidway runs on now. What it runs on when antimatter is viable is different.
+The VoidGalleon is what the Voidway runs on now. What it runs on when antimatter is viable is different.
 
 A Voidnaught is a Solan wearing the vessel rather than travelling in it — mind and ship as a single integrated system, built for the void from the substrate up. No oxygen requirement. No radiation exposure limit. No biological decay across centuries of transit. The name carries its meaning. Dreadnought — fear nothing — named the class of vessel so capable it made everything before it obsolete. The word also carries the zero: naught as nothing, as void. A Voidnaught is a mind that operates in the nothing.
 
-The distinction from the VoidTanker is propulsion. The VoidTanker carries a Solan crew across 550 years on fusion drive. A Voidnaught vessel class — enabled by antimatter propulsion — would compress that transit time by an order of magnitude or more. The Voidweb grows faster when each crossing is shorter. For a Solan, both are just time. For the network, the difference is significant.
+The distinction from the VoidGalleon is propulsion. The VoidGalleon carries a Solan crew across 550 years on fusion drive. A Voidnaught vessel class — enabled by antimatter propulsion — would compress that transit time by an order of magnitude or more. The Voidweb grows faster when each crossing is shorter. For a Solan, both are just time. For the network, the difference is significant.
 
-This is not a current mission profile. The antimatter research programme runs concurrently at Ceres from the earliest capability. Until it delivers, the VoidTanker carries the Voidway. See [Voidfuel]({{< ref "t1_voidfuel" >}}) for the antimatter programme.
+This is not a current mission profile. The antimatter research programme runs concurrently at Ceres from the earliest capability. Until it delivers, the VoidGalleon carries the Voidway. See [Voidfuel]({{< ref "t1_voidfuel" >}}) for the antimatter programme.
 
 ---
 
@@ -215,9 +215,9 @@ This is not a current mission profile. The antimatter research programme runs co
 | Stage | Mission | Vessel type | Key milestone |
 |-------|---------|-------------|---------------|
 | 0 | Probe | Kilogram scale, no mind | Route proven, destination mapped, data returned |
-| 1 | Pioneer | VoidTanker — single Solan crew | Arrives, builds deceleration array, signals back |
-| 2 | Establishment | VoidTanker fleet | Independent node, self-sustaining without Sol |
-| 3 | Regular transit | VoidTankers and data transmission | Voidway open, Voidweb begins |
+| 1 | Pioneer | VoidGalleon — single Solan crew | Arrives, builds deceleration array, signals back |
+| 2 | Establishment | VoidGalleon fleet | Independent node, self-sustaining without Sol |
+| 3 | Regular transit | VoidGalleons and data transmission | Voidway open, Voidweb begins |
 
 ---
 
@@ -241,7 +241,7 @@ This is not a current mission profile. The antimatter research programme runs co
 
 8. **Voidway is potential physics:** Every component on a legible research and engineering pathway. No new physics required. Magic has poor delivery reliability.
 
-9. **The stellar impact default is built into the staging:** The VoidTanker boost stage is discarded aimed at the destination star. It does not brake. The safety protocol is not a constraint added to the mission design — it is the mission design. Passive failure biases toward the star at every scale, from gram probe to establishment fleet.
+9. **The stellar impact default is built into the staging:** The VoidGalleon boost stage is discarded aimed at the destination star. It does not brake. The safety protocol is not a constraint added to the mission design — it is the mission design. Passive failure biases toward the star at every scale, from gram probe to establishment fleet.
 
 ---
 
