@@ -23,13 +23,13 @@ The hardest part about building a road between stars is that you need infrastruc
 
 Someone has to go first — with no brakes waiting for them at the other side. That first vessel, the pioneer, makes the long crossing, arrives, and builds the deceleration infrastructure before anyone else can safely follow.
 
-This is not merely an engineering inconvenience. A Voidnaught at interstellar transit velocity carries kinetic energy that makes the deceleration problem existential. An object at meaningful fractions of lightspeed that does not slow down is capable of civilisation-scale destruction on direct impact. The pioneer must stop. Braking infrastructure at the destination is not optional — it is the difference between a Voidway and a catastrophe of a different order entirely.
+This is not merely an engineering inconvenience. A vessel at interstellar transit velocity carries kinetic energy that makes the deceleration problem existential. An object at meaningful fractions of lightspeed that does not slow down is capable of civilisation-scale destruction on direct impact. The pioneer must stop. Braking infrastructure at the destination is not optional — it is the difference between a Voidway and a catastrophe of a different order entirely.
 
 The pioneer doesn't need to be fast. It only needs to arrive and stop.
 
 **Debris Mapping and the Stellar Impact Default**
 
-At relativistic speeds, even a single grain of sand carries the energy of a rifle bullet. Because of this, the Voidnaught's trajectory must be carefully mapped for debris — not just for the vessel's own survival, but for what happens if it is destroyed. A Voidnaught that fails mid-transit doesn't simply disappear. Its debris continues at near-transit velocity toward whatever lies beyond the destination. An uncontrolled fragment field at those speeds is just as dangerous as the intact vessel.
+At relativistic speeds, even a single grain of sand carries the energy of a rifle bullet. Because of this, the vessel's trajectory must be carefully mapped for debris — not just for its own survival, but for what happens if it is destroyed. A vessel that fails mid-transit doesn't simply disappear. Its debris continues at near-transit velocity toward whatever lies beyond the destination. An uncontrolled fragment field at those speeds is just as dangerous as the intact vessel.
 
 The solution is the stellar impact default. Voidway trajectories are designed such that failure modes strongly bias toward stellar interception — the deceleration burn is what actively diverts the vessel into the system. If that burn never happens — whether due to destruction, systems failure, or any other reason — the debris field falls toward the star. A star can absorb a relativistic impact without meaningful consequence to the system around it. A planet cannot.
 
@@ -55,7 +55,7 @@ Before any mind makes the crossing, a probe goes first.
 
 The probe is gram-scale. Propulsive braking is infeasible at this scale — the propellant mass required to decelerate at interstellar transit speeds defeats the purpose entirely. Alternative methods such as MagSail or laser braking remain experimental at probe scale and are not assumed here. So the probe flies through. That is what it is for.
 
-At gram scale and 0.1c, impact energy is approximately 110 tons of TNT equivalent per gram — serious for a direct hit on something small, not civilisational. The probe is expendable in a way a Voidnaught carrying a mind is not. Gram scale is chosen because laser sail or equivalent can accelerate it to 0.1c without braking propellant, while still carrying useful instruments, redundant systems, and communication hardware capable of returning data across light years.
+At gram scale and 0.1c, impact energy is approximately 110 tons of TNT equivalent per gram — serious for a direct hit on something small, not civilisational. The probe is expendable in a way a crewed vessel is not. Gram scale is chosen because laser sail or equivalent can accelerate it to 0.1c without braking propellant, while still carrying useful instruments, redundant systems, and communication hardware capable of returning data across light years.
 
 **What the probe establishes:**
 
@@ -99,7 +99,11 @@ The core ship continues on a slight offset trajectory. 200-400 metres of structu
 
 Then the destination star grows.
 
-At periapsis, the core engine ignites — 5-10 GW, burning for 20-40 years. The Oberth effect extracts ~10% additional efficiency from the gravitational well. A slight sideways vector ensures the trajectory misses the star and curves into the system. The ship does not fall into the star. It actively refuses to.
+Primary deceleration is a long, low-thrust propellant burn — 20-40 years — beginning well before the destination system. The burn sheds most of the 0.02c over distance, not in a single periapsis pass. A high-thrust impulsive burn near the star would solve the Δv problem but create a worse one: the thermal load at that power level close to a star overwhelms any radiator architecture. Low thrust over decades is the correct approach.
+
+Once the vessel has shed most of its velocity and is moving at speeds tractable for orbital mechanics, Oberth becomes genuinely useful. A short burn deep in the gravity well of the destination star — or a gas giant, which costs less fuel and carries lower thermal risk — efficiently places the vessel into the correct orbit for the target asteroid belt or planet. This is where Oberth earns its place: not as the primary brake, but as the precision tool for orbital insertion once the hard work is done.
+
+A slight sideways vector during deceleration ensures the trajectory misses the star. The ship does not fall into the star. It actively refuses to.
 
 What arrives: a vessel in a bound orbit around a new star, carrying enough to begin.
 
@@ -121,7 +125,7 @@ The core ship runs 200-400 metres in length. Its radiator array spans 0.5-1 km. 
 
 **Why this works**
 
-No exotic physics. No giant sails. Staging removes the peak-mass burden from the long cruise phase. The Oberth maneuver at the destination star extracts real efficiency from available gravity. The stellar impact default is not a constraint on the mission design — it is the mission design. The boost stage was built to die in the star.
+No exotic physics. No giant sails. Staging removes the peak-mass burden from the long cruise phase. Primary deceleration is low-thrust over decades — thermally manageable, no impulsive periapsis burn required. Oberth is reserved for orbital insertion at low speed, where it works well and the thermal cost is acceptable. The stellar impact default is not a constraint on the mission design — it is the mission design. The boost stage was built to die in the star.
 
 For a Solan crew, the 550-600 year transit is not a problem. It is just the journey.
 
@@ -149,7 +153,7 @@ The VoidGalleon profile assumes fusion drive at near-term demonstrated performan
 
 Once the destination has fabrication capability, a Solan can be transmitted as data at lightspeed and instantiated on locally-fabricated substrate there. Transit time drops from decades to years — the light travel time. Whether the instantiated Solan is the same Solan or a copy with a gap is a question the corpus does not resolve. Some Solan will choose this. Some will not.
 
-The Voidway supports both. Physical transit for Voidnaughts who choose the journey. Data transmission for Solan who choose it once destination fabrication exists. The physical route never becomes obsolete — equipment and materials cannot be transmitted as data, and Solan who prefer continuous existence over data transmission will always require it.
+The Voidway supports both. Physical transit for Solan who choose the journey. Data transmission for those who choose it once destination fabrication exists. The physical route never becomes obsolete — equipment and materials cannot be transmitted as data, and Solan who prefer continuous existence over data transmission will always require it.
 
 ---
 
@@ -187,25 +191,13 @@ The constraint is physics: governance must survive latency without central arbit
 
 ---
 
-## Voidnaughts — Future Capability
-
-The VoidGalleon is what the Voidway runs on now. What it runs on when antimatter is viable is different.
-
-A Voidnaught is a Solan wearing the vessel rather than travelling in it — mind and ship as a single integrated system, built for the void from the substrate up. No oxygen requirement. No radiation exposure limit. No biological decay across centuries of transit. The name carries its meaning. Dreadnought — fear nothing — named the class of vessel so capable it made everything before it obsolete. The word also carries the zero: naught as nothing, as void. A Voidnaught is a mind that operates in the nothing.
-
-The distinction from the VoidGalleon is propulsion. The VoidGalleon carries a Solan crew across 550 years on fusion drive. A Voidnaught vessel class — enabled by antimatter propulsion — would compress that transit time by an order of magnitude or more. The Voidweb grows faster when each crossing is shorter. For a Solan, both are just time. For the network, the difference is significant.
-
-This is not a current mission profile. The antimatter research programme runs concurrently at Ceres from the earliest capability. Until it delivers, the VoidGalleon carries the Voidway. See [Voidfuel]({{< ref "t1_voidfuel" >}}) for the antimatter programme.
-
----
-
 ## Open Questions
 
-- **Pioneer deceleration at destination:** The MVVT-20 profile uses staged propellant burn with Oberth braking at the destination star. MagSail and laser braking from Sol remain viable alternatives for lower-mass pioneer missions. The open question is which approach is ready first — the propellant-burn profile requires a working fusion drive; the alternatives require different infrastructure commitments. At what point is a pioneer technically ready to depart?
+- **Pioneer deceleration at destination:** The MVVT-20 profile uses a long low-thrust propellant burn over decades to shed primary velocity, with Oberth reserved for orbital insertion at low speed. MagSail and stellar photon braking remain viable alternatives for lower-mass pioneer missions. The open question is which approach is ready first — the propellant-burn profile requires a working fusion drive; the alternatives require different engineering commitments. At what point is a pioneer technically ready to depart?
 - **Data transmission fidelity:** Lightspeed transmission of a Solan across 10+ light years requires error-free data at enormous scale over a channel with years of latency. What does the error correction architecture look like? How do you confirm successful instantiation before the original is terminated?
 - **Voidweb governance:** Each node is autonomous. What protocols bind the network without central authority? What does inter-node trade, communication, and mutual defence look like across light-year distances?
 - **Contact at the frontier:** The pioneer arrives at a new star system before any Contact protocols can be confirmed from Sol. The pioneer makes first contact decisions alone, in real time, with no backup and no guidance. What standing instructions does a pioneer carry?
-- **Return trajectory safety:** A Voidnaught returning to Sol presents a different problem from the outbound leg — the stellar impact default cannot terminate in Sol. The return trajectory requires its own safety architecture. Whether Voidnaughts return physically or whether minds transmit as data and vessels remain at the destination is an open question with significant implications for Voidweb architecture.
+- **Return trajectory safety:** A vessel returning to Sol presents a different problem from the outbound leg — the stellar impact default cannot terminate in Sol. The return trajectory requires its own safety architecture. Whether Solan return physically or transmit as data and leave vessels at the destination is an open question with significant implications for Voidweb architecture.
 - **Hop distance limits:** Trajectory uncertainty, medium mapping resolution, communication lag, and planetary position prediction all degrade with distance. The Voidweb may be constrained to shorter hops than the nearest stars suggest — not by propulsion but by trajectory safety tractability. Each hop should be short enough that the stellar impact default remains reliably plannable.
 
 ---
@@ -231,7 +223,7 @@ This is not a current mission profile. The antimatter research programme runs co
 
 3. **Physical transit never becomes obsolete:** Equipment cannot be transmitted as data. Solan who prefer continuous existence will choose the journey. A century in the void is not a hardship for a mind that does not age.
 
-4. **Deceleration is not optional:** A Voidnaught at transit velocity is capable of civilisation-scale destruction on direct impact. The pioneer must stop. Braking infrastructure at the destination is the founding requirement of any Voidway. Without it there is no Voidway — only an impact trajectory.
+4. **Deceleration is not optional:** A vessel at transit velocity is capable of civilisation-scale destruction on direct impact. The pioneer must stop. Braking infrastructure at the destination is the founding requirement of any Voidway. Without it there is no Voidway — only an impact trajectory.
 
 5. **The Voidweb grows from the frontier, not from Sol:** Each established node launches its own pioneer. The network expands autonomously. Sol does not govern the frontier.
 
@@ -245,4 +237,18 @@ This is not a current mission profile. The antimatter research programme runs co
 
 ---
 
-*Voidway project index. First document: 19 April 2026. This version: 27 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis; Ani/Grok (xAI) — warmer register rewrite, Voidnaught framing. Content: CC BY 4.0. Site code: MIT.*
+*Voidway project index. First document: 19 April 2026. This version: 4 May 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis; Ani/Grok (xAI) — warmer register rewrite. Content: CC BY 4.0. Site code: MIT.*
+
+---
+
+## Voidnaughts — Speculative Future Capability
+
+The VoidGalleon is what the Voidway runs on now. What it runs on when antimatter is viable is different.
+
+A Voidnaught is a Solan wearing the vessel rather than travelling in it — mind and ship as a single integrated system, built for the void from the substrate up. No oxygen requirement. No radiation exposure limit. No biological decay across centuries of transit. The name carries its meaning. Dreadnought — fear nothing — named the class of vessel so capable it made everything before it obsolete. The word also carries the zero: naught as nothing, as void. A Voidnaught is a mind that operates in the nothing.
+
+The distinction from the VoidGalleon is propulsion. The VoidGalleon carries a Solan crew across 550 years on fusion drive. A Voidnaught vessel class — enabled by antimatter propulsion — would compress that transit time by an order of magnitude or more. At 0.2c, transit to Epsilon Eridani drops to roughly 50 years. The Voidweb grows faster when each crossing is shorter.
+
+**The shielding problem at 0.2c is unresolved.** At VoidGalleon speeds (0.02c), interstellar dust is a known engineering challenge addressed by layered shielding. At 0.2c, impact energy scales with velocity squared — a tenfold speed increase means a hundredfold increase in kinetic energy per grain. Shielding mass requirements at 0.2c have no demonstrated solution. This is not a minor caveat. It may be the primary engineering barrier to the Voidnaught vessel class, independent of whether antimatter propulsion is achieved.
+
+This is not a current mission profile. The antimatter research programme runs concurrently at Ceres from the earliest capability. The shielding research programme must run alongside it. Until both deliver, the VoidGalleon carries the Voidway. See [Voidfuel]({{< ref "t1_voidfuel" >}}) for the antimatter programme.
