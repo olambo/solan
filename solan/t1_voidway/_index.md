@@ -91,17 +91,19 @@ The VoidGalleon is the workhorse vessel of the Voidway. A single-engine fusion d
 
 **Mission profile: MVVT-20**
 
-One hull. One tug. Shield forward, always.
+One vessel. Shield forward, always.
 
-The tug is a self-contained fusion drive vessel — its own containment, its own cooling, its own systems — that docks inside the main hull for the crossing. The main hull carries the crew, cargo, and shielding. The tug provides the thrust.
+The VoidForge is the core of the Galleon — engine, industrial module, the active element. The hull wraps around it: shielding forward, crew and cargo behind. Without the VoidForge the hull is an inert shell. The VoidForge is what makes the crossing. The hull is what makes it survivable.
 
-The tug ignites, burns for 5-10 years, and accelerates the stack to 0.02c. Then it goes dormant. The hull coasts in near-silence for ~500 years.
+On arrival, the VoidForge sheds the hull. The hull's job was the crossing. The VoidForge's job is everything after.
 
-During the cruise, the tug rotates at its dock — a slow, controlled maneuver with no time pressure and no consequence if it takes weeks. By arrival it is pointing forward. The same tug that accelerated the stack now decelerates it, firing through forward-facing ports with nozzles canted to clear the forward shield. The hull never turns around. The shield never moves from the front.
+The VoidGalleon is the vessel class name for the combination. The soul of it is the VoidForge.
 
-At the destination the tug undocks. It does not retire — it goes to work. Prospecting the asteroid belt, moving mass, powering fabrication. You do not take the engine apart to move it to where it is needed. You move the tug. That is what tugs do.
+The VoidForge ignites, burns for 5-10 years, and accelerates the Galleon to 0.02c. Then it goes dormant. The ship coasts in near-silence for ~500 years.
 
-The destination builds more tugs from local materials. The Voidway delivers one tug and a hull. The destination builds the fleet.
+During the cruise, the VoidForge rotates within the Galleon's structure — a slow, controlled maneuver with no time pressure and no consequence if it takes weeks. By arrival it is pointing forward. The same VoidForge that accelerated the Galleon now decelerates it, firing through forward-facing ports with nozzles canted to clear the forward shield. The Galleon never turns around. The shield never moves from the front.
+
+At the destination the VoidForge separates. It does not retire — it goes to work. Prospecting the asteroid belt, moving mass, powering fabrication. The destination builds more VoidForges from local materials. The Voidway delivers one; the node builds the fleet.
 
 Primary deceleration is a long, low-thrust propellant burn — 20-40 years — beginning well before the destination system. Low thrust over decades is thermally manageable. A high-thrust impulsive burn near the star would create a thermal load that overwhelms any radiator architecture.
 
@@ -109,7 +111,9 @@ Once the vessel has shed most of its velocity and is moving at speeds tractable 
 
 A slight sideways vector during deceleration ensures the trajectory misses the star. The ship does not fall into the star. It actively refuses to.
 
-What arrives: a single vessel, engine intact, in a bound orbit around a new star, carrying enough to begin.
+What arrives: the VoidGalleon in a bound orbit around a new star, carrying enough to begin.
+
+The VoidForge separates and goes to work. The hull does not move again. The forward shielding that was the most critical component for 550 years becomes the least necessary one — dense structural composite, no longer needed as a nose cone. It gets stripped for fabrication feedstock. The hull becomes the first fixed infrastructure of the new node — habitat, storage, fabrication base — and retires into the settlement it made possible.
 
 **Mass budget**
 
@@ -127,9 +131,9 @@ The ship runs 200-400 metres in length. Radiator array spans 0.5-1 km. No boost 
 
 **Why this works**
 
-No exotic physics. No giant sails. No staging. The tug-and-hull design eliminates the most dangerous event in any staged architecture — separation at 0.02c — and delivers the tug intact to the destination where it is immediately useful.
+No exotic physics. No giant sails. No staging. The integrated design eliminates the most dangerous event in any staged architecture — separation at 0.02c — and delivers the VoidForge intact to the destination where it is immediately useful. The VoidForge was always going to be the first industrial asset of the new node. Keeping it part of the Galleon is not a design compromise — it is the point.
 
-The governing constraint is shielding. At 0.02c you cannot flip the hull to retroburn. A flip exposes the unshielded hull to interstellar medium for the duration of the maneuver and the entire deceleration burn. At these speeds that is hull loss. The tug rotates at its dock during cruise; the hull never turns around. Shield forward, always.
+The governing constraint is shielding. At 0.02c you cannot flip the hull to retroburn. A flip exposes the unshielded hull to interstellar medium for the duration of the maneuver and the entire deceleration burn. At these speeds that is hull loss. The VoidForge rotates within the Galleon's structure during cruise; the hull never turns around. Shield forward, always.
 
 Nozzle geometry follows from this: forward-facing ports with nozzles canted to clear the shield perimeter. The cant angle is small — fusion plasma exhaust at ~0.03c is highly collimated — so axial thrust loss is minimal. The exhaust never ablates the shield it is protecting.
 
@@ -145,7 +149,7 @@ The MVVT-20 profile depends on four engineering assumptions that are physically 
 
 - **Radiator performance:** Assumes advanced low-mass radiator systems — droplet or wire-class — at approximately 0.1-0.3 kg/m². If reality lands closer to 0.5-1 kg/m², the mass budget breaks. This is the weakest assumption in the design.
 - **Fusion drive performance:** Exhaust velocity ~0.03c and sustained GW output over decades requires high-performance fusion propulsion well beyond current prototypes.
-- **Tug rotation at dock:** The tug rotates at its docking berth during cruise — a gimbal or turntable at the dock interface rather than a rotating engine inside a hull. The docking interface must handle power and fuel connections through the rotation. An alternative is magnetic redirection of the plasma exhaust — changing exhaust direction without physically rotating the tug. Either approach is within the engineering envelope; neither is demonstrated at this scale.
+- **VoidForge rotation:** The VoidForge rotates within the Galleon's structure during cruise — using a gimbal or turntable at the interface, handling power and fuel connections through the rotation. An alternative is magnetic redirection of the plasma exhaust — changing exhaust direction without physically rotating the VoidForge. Either approach is within the engineering envelope; neither is demonstrated at this scale.
 - **Shielding:** At 0.02c, micron-scale interstellar dust is a genuine threat. Dust density along the actual route is unknown until the probe flies it.
 
 A design that names its own weaknesses is harder to dismiss than one that does not.
@@ -242,7 +246,7 @@ The constraint is physics: governance must survive latency without central arbit
 
 8. **Voidway is potential physics:** Every component on a legible research and engineering pathway. No new physics required. Magic has poor delivery reliability.
 
-9. **The stellar impact default is built into the staging:** The VoidGalleon boost stage is discarded aimed at the destination star. It does not brake. The safety protocol is not a constraint added to the mission design — it is the mission design. Passive failure biases toward the star at every scale, from gram probe to establishment fleet.
+9. **The stellar impact default is built into every stage:** The probe trajectory, the pioneer approach, the establishment fleet — all designed so passive failure biases toward the star. The safety protocol is not a constraint added to the mission design — it is the mission design, from gram probe to VoidGalleon.
 
 ---
 
