@@ -125,7 +125,11 @@ The core ship runs 200-400 metres in length. Its radiator array spans 0.5-1 km. 
 
 **Why this works**
 
-No exotic physics. No giant sails. Staging removes the peak-mass burden from the long cruise phase. Primary deceleration is low-thrust over decades — thermally manageable, no impulsive periapsis burn required. Oberth is reserved for orbital insertion at low speed, where it works well and the thermal cost is acceptable. The stellar impact default is not a constraint on the mission design — it is the mission design. The boost stage was built to die in the star.
+No exotic physics. No giant sails. The two-engine design is not primarily about mass ratio — it is about shielding. At 0.02c you cannot flip the ship to retroburn. A flip exposes the unshielded hull to interstellar medium for the duration of the maneuver and the entire deceleration burn. At these speeds that is hull loss, not inconvenience. The boost engine fires rearward during acceleration; the core engine fires forward during deceleration. Shield forward, always. The ship never turns around.
+
+Nozzle geometry follows from this: the core engine's nozzles are offset from the centreline so the exhaust plume clears the forward shield during the deceleration burn. The cant angle is small enough that axial thrust loss is minimal. The exhaust never ablates the shield it is protecting.
+
+Staging removes the peak-mass burden from the long cruise phase. Primary deceleration is low-thrust over decades — thermally manageable. Oberth is reserved for orbital insertion at low speed, where it works well and the thermal cost is acceptable. The stellar impact default is not a constraint on the mission design — it is the mission design. The boost stage was built to die in the star.
 
 For a Solan crew, the 550-600 year transit is not a problem. It is just the journey.
 
@@ -206,7 +210,7 @@ The constraint is physics: governance must survive latency without central arbit
 
 | Stage | Mission | Vessel type | Key milestone |
 |-------|---------|-------------|---------------|
-| 0 | Probe | Kilogram scale, no mind | Route proven, destination mapped, data returned |
+| 0 | Probe | Gram scale, no mind | Route proven, destination mapped, data returned |
 | 1 | Pioneer | VoidGalleon — single Solan crew | Arrives, builds deceleration array, signals back |
 | 2 | Establishment | VoidGalleon fleet | Independent node, self-sustaining without Sol |
 | 3 | Regular transit | VoidGalleons and data transmission | Voidway open, Voidweb begins |
