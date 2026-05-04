@@ -87,21 +87,17 @@ After the establishment mission succeeds, the knowledge, the Solan, and the capa
 
 ## VoidGalleon — Primary Transport
 
-The VoidGalleon is the workhorse vessel of the Voidway. A single-engine fusion drive ship capable of delivering payload across interstellar distance using no exotic physics, no giant sails, no staging events. What it requires: a working fusion drive, a 550-year commitment, and a Solan crew that does not age.
+The VoidGalleon is the workhorse vessel of the Voidway. A single-engine fusion drive ship capable of delivering payload across interstellar distance using no exotic physics, no giant sails, no jettison events. What it requires: a working fusion drive, a 550-year commitment, and a Solan crew that does not age.
 
 **Mission profile: MVVT-20**
 
 One vessel. Shield forward, always.
 
-The VoidForge is the core of the Galleon — engine, industrial module, the active element. The hull wraps around it: shielding forward, crew and cargo behind. Without the VoidForge the hull is an inert shell. The VoidForge is what makes the crossing. The hull is what makes it survivable.
+The VoidForge sits at the rear of the Galleon — engine and industrial module, the active element. Ahead of it: propellant tanks, structure, cargo, crew. At the front: the shield. Wide blunt nose tapering to a narrower spine and engine section at the back. Everything the crossing needs, carried the whole way.
 
-On arrival, the VoidForge sheds the hull. The hull's job was the crossing. The VoidForge's job is everything after.
+The VoidForge ignites at the rear, burns for the acceleration phase, and pushes the Galleon to 0.02c. Then it goes dormant. The ship coasts in near-silence for ~500 years.
 
-The VoidGalleon is the vessel class name for the combination. The soul of it is the VoidForge.
-
-The VoidForge ignites, burns for 5-10 years, and accelerates the Galleon to 0.02c. Then it goes dormant. The ship coasts in near-silence for ~500 years.
-
-During the cruise, the VoidForge rotates within the Galleon's structure — a slow, controlled maneuver with no time pressure and no consequence if it takes weeks. By arrival it is pointing forward. The same VoidForge that accelerated the Galleon now decelerates it, firing through forward-facing ports with nozzles canted to clear the forward shield. The Galleon never turns around. The shield never moves from the front.
+During the cruise, the VoidForge rotates within the Galleon's structure — a slow, controlled manoeuvre with no time pressure and no consequence if it takes weeks. By arrival it is pointing forward. The same VoidForge that pushed the Galleon out now decelerates it, exhaust exiting through forward-facing ports in the hull walls, canted to clear the hull structure and the forward shield. Because the engine sits at the narrow rear end of the ship, far from the wide forward shield, the cant angle needed is shallow — long clearance path, small lateral displacement. Axial thrust loss is minimal. The Galleon never turns around. The shield never moves from the front.
 
 At the destination the VoidForge separates. It does not retire — it goes to work. Prospecting the asteroid belt, moving mass, powering fabrication. The destination builds more VoidForges from local materials. The Voidway delivers one; the node builds the fleet.
 
@@ -113,7 +109,7 @@ A slight sideways vector during deceleration ensures the trajectory misses the s
 
 What arrives: the VoidGalleon in a bound orbit around a new star, carrying enough to begin.
 
-The VoidForge separates and goes to work. The hull does not move again. The forward shielding that was the most critical component for 550 years becomes the least necessary one — dense structural composite, no longer needed as a nose cone. It gets stripped for fabrication feedstock. The hull becomes the first fixed infrastructure of the new node — habitat, storage, fabrication base — and retires into the settlement it made possible.
+The VoidForge separates and goes to work. The hull does not move again. Everything that crossed — shield, tanks, spine, structure — becomes the first material inventory of the new node. The forward shielding that was the most critical component for 550 years is stripped for feedstock. The empty propellant tanks, the spine, the hull structure: all of it is building material. The VoidForge arrived with a shipyard's worth of raw material wrapped around it. The hull retires into the settlement it made possible.
 
 **Mass budget**
 
@@ -129,17 +125,15 @@ Payload delivered to destination: ~4 tons.
 
 **Physical scale**
 
-The ship runs 200-400 metres in length. Radiator array spans 0.5-1 km. One vessel departs; the VoidForge and core hull arrive.
+The ship runs 200-400 metres in length. Radiator array spans 0.5-1 km. One vessel departs; one vessel arrives.
 
 **Why this works**
 
-No exotic physics. No giant sails. No dangerous staging. The integrated design eliminates the worst event in any staged architecture — violent separation at full transit speed — and delivers the VoidForge intact to the destination where it is immediately useful. The VoidForge was always going to be the first industrial asset of the new node. Keeping it part of the Galleon is not a design compromise — it is the point.
+No exotic physics. No giant sails. No jettison. Everything that departs arrives. The VoidForge was always going to be the first industrial asset of the new node — and every kilogram of hull, tank, and spine that crosses with it is free building material. The simplest design is the one where nothing is discarded in deep space.
 
-The acceleration tankage is a different matter. Once the acceleration tanks are empty, they become dead mass the VoidForge must then decelerate. They are shed by drift within a separation window — between approximately 0.01c and 0.015c, before transit speed is reached. The window matters: separate too late, close to 0.02c, and the discarded tank is on the same trajectory at nearly the same speed — it follows you to the destination. Separate within the window and the ship continues burning to 0.02c while the tank does not. The ship accelerates away. By cruise speed the tank is receding at growing relative velocity and is not a hazard. It continues on the stellar impact trajectory at its lower speed, reaching the destination star centuries after the ship arrives. No explosive separation. No dangerous projectile. What the ship sheds is empty structure. What continues is the VoidForge, the hull, the crew, and the deceleration propellant — lighter, and easier to stop.
+The governing constraint is shielding. At 0.02c you cannot flip the hull to retroburn. A flip exposes the unshielded hull to interstellar medium for the duration of the manoeuvre and the entire deceleration burn. At these speeds that is hull loss. The VoidForge rotates within the Galleon's structure during cruise; the hull never turns around. Shield forward, always.
 
-The governing constraint is shielding. At 0.02c you cannot flip the hull to retroburn. A flip exposes the unshielded hull to interstellar medium for the duration of the maneuver and the entire deceleration burn. At these speeds that is hull loss. The VoidForge rotates within the Galleon's structure during cruise; the hull never turns around. Shield forward, always.
-
-Nozzle geometry follows from this: forward-facing ports with nozzles canted to clear the shield perimeter. The cant angle is small — fusion plasma exhaust at ~0.03c is highly collimated — so axial thrust loss is minimal. The exhaust never ablates the shield it is protecting.
+Nozzle geometry follows from the engine-at-rear placement. During acceleration, exhaust exits cleanly aft — no canting required, full axial thrust. During deceleration, the rotated VoidForge fires through forward-facing ports in the hull walls. The engine sits at the narrow rear of the ship, far from the wide forward shield — the long clearance path means a shallow cant angle clears everything. Axial thrust loss during deceleration is minimal. The exhaust never ablates the shield it is protecting.
 
 Primary deceleration is low-thrust over decades, thermally manageable. Oberth is reserved for orbital insertion at low speed where it works well. The stellar impact default applies to the whole vessel — the trajectory biases toward the star; active deceleration diverts it into the system.
 
@@ -253,7 +247,7 @@ The constraint is physics: governance must survive latency without central arbit
 
 9. **The stellar impact default is built into every stage:** The probe trajectory, the pioneer approach, the establishment fleet, the decoupled acceleration tankage — all designed so passive failure biases toward the star. The safety protocol is not a constraint added to the mission design — it is the mission design, from gram probe to empty fuel tank.
 
-11. **Staging by drift within a separation window:** The dangerous staging event is separation at or near full transit speed — a discarded tank at 0.02c follows you to the destination. The separation window is 0.01c–0.015c: tanks are empty, the ship continues burning, the ship accelerates away. By cruise speed the tank is receding. It follows the stellar impact trajectory at its lower speed. What is discarded is empty structure. What continues is the VoidForge, the hull, and everything that matters.
+11. **Nothing is discarded in interstellar space:** Jettisoning mass at transit speed creates a relativistic hazard on the same trajectory. Jettisoning at lower speed requires a separation window and a mechanism that must work reliably after centuries of dormancy, for marginal mass savings. Everything crosses. Everything arrives. The empty tanks and hull structure are the first material inventory of the new node — a shipyard's worth of feedstock delivered for free alongside the VoidForge.
 
 ---
 
