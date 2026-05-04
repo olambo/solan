@@ -129,11 +129,13 @@ Payload delivered to destination: ~4 tons.
 
 **Physical scale**
 
-The ship runs 200-400 metres in length. Radiator array spans 0.5-1 km. No boost stage. No discarded hardware. One vessel departs; one vessel arrives.
+The ship runs 200-400 metres in length. Radiator array spans 0.5-1 km. One vessel departs; the VoidForge and core hull arrive.
 
 **Why this works**
 
-No exotic physics. No giant sails. No staging. The integrated design eliminates the most dangerous event in any staged architecture — separation at 0.02c — and delivers the VoidForge intact to the destination where it is immediately useful. The VoidForge was always going to be the first industrial asset of the new node. Keeping it part of the Galleon is not a design compromise — it is the point.
+No exotic physics. No giant sails. No dangerous staging. The integrated design eliminates the worst event in any staged architecture — violent separation at full transit speed — and delivers the VoidForge intact to the destination where it is immediately useful. The VoidForge was always going to be the first industrial asset of the new node. Keeping it part of the Galleon is not a design compromise — it is the point.
+
+The acceleration tankage is a different matter. Once the acceleration burn is complete — at approximately 0.01c, halfway to transit speed — the empty tanks are no longer useful and become dead mass the VoidForge must then decelerate. They are decoupled by drift: the ship continues accelerating, the tanks do not. Relative separation velocity is near-zero. No explosive event. No dangerous projectile. The tanks continue on the same trajectory at ~0.01c, following the stellar impact default, and eventually reach the destination star. What the ship sheds is empty structure. What continues is the VoidForge, the hull, the crew, and the deceleration propellant — lighter, and easier to stop.
 
 The governing constraint is shielding. At 0.02c you cannot flip the hull to retroburn. A flip exposes the unshielded hull to interstellar medium for the duration of the maneuver and the entire deceleration burn. At these speeds that is hull loss. The VoidForge rotates within the Galleon's structure during cruise; the hull never turns around. Shield forward, always.
 
@@ -249,7 +251,9 @@ The constraint is physics: governance must survive latency without central arbit
 
 8. **Voidway is potential physics:** Every component on a legible research and engineering pathway. No new physics required. Magic has poor delivery reliability.
 
-9. **The stellar impact default is built into every stage:** The probe trajectory, the pioneer approach, the establishment fleet — all designed so passive failure biases toward the star. The safety protocol is not a constraint added to the mission design — it is the mission design, from gram probe to VoidGalleon.
+9. **The stellar impact default is built into every stage:** The probe trajectory, the pioneer approach, the establishment fleet, the decoupled acceleration tankage — all designed so passive failure biases toward the star. The safety protocol is not a constraint added to the mission design — it is the mission design, from gram probe to empty fuel tank.
+
+11. **Staging by drift, not by explosion:** The dangerous staging event is violent separation at full transit speed. The acceleration tanks are shed at ~0.01c by simply stopping their acceleration — near-zero relative velocity, no hazard. The ship continues to transit speed lighter. The tanks continue to the star. What is discarded is empty. What continues is everything that matters.
 
 ---
 
