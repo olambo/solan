@@ -37,7 +37,7 @@ Fission is the fallback if fusion is not yet available when early Voidway missio
 
 ### Fusion — The Primary Research Programme
 
-Fusion drives are the primary Voidway propulsion — the fuel that runs the VoidGalleon. The MVVT-20 mission profile (see [Voidway]({{< ref "t1_voidway" >}})) uses a staged fusion architecture: a high-power boost stage burning for 5-10 years, followed by a lower-power core drive for Oberth braking at the destination star. No exotic physics. No giant sails. Just fusion, staging, and a 550-600 year crossing.
+Fusion drives are the primary Voidway propulsion — the fuel that runs the VoidGalleon. The MVVT-20 mission profile (see [Voidway]({{< ref "t1_voidway" >}})) uses a fusion tug — a self-contained drive vessel that docks inside the main hull, rotates at its berth during the 500-year cruise, and decelerates on arrival. No staging. No jettison. No exotic physics. The tug departs with the hull and arrives with it — then undocks and goes to work in the destination system.
 
 Higher specific impulse than fission, potentially much higher thrust-to-weight with miniaturised designs. A Solan on a fusion drive sustains accelerations that would be lethal to biosapients for the entire transit — mission profiles completely different from anything designed around biological tolerance.
 

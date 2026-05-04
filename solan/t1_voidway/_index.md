@@ -87,65 +87,70 @@ After the establishment mission succeeds, the knowledge, the Solan, and the capa
 
 ## VoidGalleon — Primary Transport
 
-The VoidGalleon is the workhorse vessel of the Voidway. A staged fusion drive ship capable of delivering payload across interstellar distance using no exotic physics, no giant sails, no unfalsifiable engineering assumptions. What it requires: a working fusion drive, a 550-year commitment, and a Solan crew that does not age.
+The VoidGalleon is the workhorse vessel of the Voidway. A single-engine fusion drive ship capable of delivering payload across interstellar distance using no exotic physics, no giant sails, no staging events. What it requires: a working fusion drive, a 550-year commitment, and a Solan crew that does not age.
 
 **Mission profile: MVVT-20**
 
-The minimum viable Voidway transit runs on a staged architecture. Two drive systems. One ship that survives the crossing.
+One hull. One tug. Shield forward, always.
 
-The boost stage ignites first. A high-power fusion reactor — 20-40 GW at peak — burns for 5-10 years, accelerating the full stack to 0.02c. At separation, 1-5 years before stellar arrival, the boost stage is discarded. Its trajectory is already aimed at the destination star. It does not brake. It does not miss. The stellar impact default is not a separate safety feature bolted on after the fact — it is built into the staging. The boost stage was always going to end in the star.
+The tug is a self-contained fusion drive vessel — its own containment, its own cooling, its own systems — that docks inside the main hull for the crossing. The main hull carries the crew, cargo, and shielding. The tug provides the thrust.
 
-The core ship continues on a slight offset trajectory. 200-400 metres of structure and shielding, carrying 4 tons of payload, a lower-power reactor, and the Solan crew. It coasts in near-silence for ~500 years.
+The tug ignites, burns for 5-10 years, and accelerates the stack to 0.02c. Then it goes dormant. The hull coasts in near-silence for ~500 years.
 
-Then the destination star grows.
+During the cruise, the tug rotates at its dock — a slow, controlled maneuver with no time pressure and no consequence if it takes weeks. By arrival it is pointing forward. The same tug that accelerated the stack now decelerates it, firing through forward-facing ports with nozzles canted to clear the forward shield. The hull never turns around. The shield never moves from the front.
 
-Primary deceleration is a long, low-thrust propellant burn — 20-40 years — beginning well before the destination system. The burn sheds most of the 0.02c over distance, not in a single periapsis pass. A high-thrust impulsive burn near the star would solve the Δv problem but create a worse one: the thermal load at that power level close to a star overwhelms any radiator architecture. Low thrust over decades is the correct approach.
+At the destination the tug undocks. It does not retire — it goes to work. Prospecting the asteroid belt, moving mass, powering fabrication. You do not take the engine apart to move it to where it is needed. You move the tug. That is what tugs do.
 
-Once the vessel has shed most of its velocity and is moving at speeds tractable for orbital mechanics, Oberth becomes genuinely useful. A short burn deep in the gravity well of the destination star — or a gas giant, which costs less fuel and carries lower thermal risk — efficiently places the vessel into the correct orbit for the target asteroid belt or planet. This is where Oberth earns its place: not as the primary brake, but as the precision tool for orbital insertion once the hard work is done.
+The destination builds more tugs from local materials. The Voidway delivers one tug and a hull. The destination builds the fleet.
+
+Primary deceleration is a long, low-thrust propellant burn — 20-40 years — beginning well before the destination system. Low thrust over decades is thermally manageable. A high-thrust impulsive burn near the star would create a thermal load that overwhelms any radiator architecture.
+
+Once the vessel has shed most of its velocity and is moving at speeds tractable for orbital mechanics, Oberth becomes genuinely useful. A short burn deep in the gravity well of the destination star — or a gas giant, which costs less fuel and carries lower thermal risk — efficiently places the vessel into the correct orbit for the target asteroid belt or planet. Oberth earns its place here: not as the primary brake, but as the precision tool for orbital insertion once the hard work is done.
 
 A slight sideways vector during deceleration ensures the trajectory misses the star. The ship does not fall into the star. It actively refuses to.
 
-What arrives: a vessel in a bound orbit around a new star, carrying enough to begin.
+What arrives: a single vessel, engine intact, in a bound orbit around a new star, carrying enough to begin.
 
 **Mass budget**
 
 | Component | Mass |
 |-----------|------|
-| Core dry (structure, shielding, reactor, radiators, systems) | ~20 t |
-| Core propellant | ~13 t |
-| Boost stage dry | ~30 t |
-| Boost propellant | ~43 t |
-| **Total launch mass** | **~106 t** |
+| Ship dry (structure, shielding, engine, radiators, systems) | ~27 t |
+| Propellant (acceleration + deceleration) | ~76 t |
+| **Total launch mass** | **~103 t** |
 
 Payload delivered to destination: ~4 tons.
 
 **Physical scale**
 
-The core ship runs 200-400 metres in length. Its radiator array spans 0.5-1 km. The boost stage, during the acceleration years, trails radiator wings 1-2 km across, dumping gigawatts of waste heat into the void. Then it separates, and disappears into the star it was always aimed at.
+The ship runs 200-400 metres in length. Radiator array spans 0.5-1 km. No boost stage. No discarded hardware. One vessel departs; one vessel arrives.
 
 **Why this works**
 
-No exotic physics. No giant sails. The two-engine design is not primarily about mass ratio — it is about shielding. At 0.02c you cannot flip the ship to retroburn. A flip exposes the unshielded hull to interstellar medium for the duration of the maneuver and the entire deceleration burn. At these speeds that is hull loss, not inconvenience. The boost engine fires rearward during acceleration; the core engine fires forward during deceleration. Shield forward, always. The ship never turns around.
+No exotic physics. No giant sails. No staging. The tug-and-hull design eliminates the most dangerous event in any staged architecture — separation at 0.02c — and delivers the tug intact to the destination where it is immediately useful.
 
-Nozzle geometry follows from this: the core engine's nozzles are offset from the centreline so the exhaust plume clears the forward shield during the deceleration burn. The cant angle is small enough that axial thrust loss is minimal. The exhaust never ablates the shield it is protecting.
+The governing constraint is shielding. At 0.02c you cannot flip the hull to retroburn. A flip exposes the unshielded hull to interstellar medium for the duration of the maneuver and the entire deceleration burn. At these speeds that is hull loss. The tug rotates at its dock during cruise; the hull never turns around. Shield forward, always.
 
-Staging removes the peak-mass burden from the long cruise phase. Primary deceleration is low-thrust over decades — thermally manageable. Oberth is reserved for orbital insertion at low speed, where it works well and the thermal cost is acceptable. The stellar impact default is not a constraint on the mission design — it is the mission design. The boost stage was built to die in the star.
+Nozzle geometry follows from this: forward-facing ports with nozzles canted to clear the shield perimeter. The cant angle is small — fusion plasma exhaust at ~0.03c is highly collimated — so axial thrust loss is minimal. The exhaust never ablates the shield it is protecting.
+
+Primary deceleration is low-thrust over decades, thermally manageable. Oberth is reserved for orbital insertion at low speed where it works well. The stellar impact default applies to the whole vessel — the trajectory biases toward the star; active deceleration diverts it into the system.
 
 For a Solan crew, the 550-600 year transit is not a problem. It is just the journey.
 
+Centuries of silence. Then, near a distant sun, the ship wakes, turns its engine to face the star, and gently refuses to fall.
+
 **Assumption boundaries**
 
-The MVVT-20 profile depends on three engineering assumptions that are physically motivated but not yet demonstrated:
+The MVVT-20 profile depends on four engineering assumptions that are physically motivated but not yet demonstrated:
 
-- **Radiator performance:** The mass budget assumes advanced low-mass radiator systems — droplet or wire-class — at approximately 0.1-0.3 kg/m². If reality lands closer to 0.5-1 kg/m², the mass budget breaks. This is the weakest assumption in the design.
-- **Fusion drive performance:** Exhaust velocity ~0.03c and sustained GW output over decades is plausible extrapolation from demonstrated ignition physics, but requires high-performance fusion propulsion well beyond current prototypes.
-- **Shielding:** At 0.02c, micron-scale interstellar dust is a genuine threat. The 5 t shielding estimate may prove conservative. Dust density along the actual route is unknown until the probe flies it.
+- **Radiator performance:** Assumes advanced low-mass radiator systems — droplet or wire-class — at approximately 0.1-0.3 kg/m². If reality lands closer to 0.5-1 kg/m², the mass budget breaks. This is the weakest assumption in the design.
+- **Fusion drive performance:** Exhaust velocity ~0.03c and sustained GW output over decades requires high-performance fusion propulsion well beyond current prototypes.
+- **Tug rotation at dock:** The tug rotates at its docking berth during cruise — a gimbal or turntable at the dock interface rather than a rotating engine inside a hull. The docking interface must handle power and fuel connections through the rotation. An alternative is magnetic redirection of the plasma exhaust — changing exhaust direction without physically rotating the tug. Either approach is within the engineering envelope; neither is demonstrated at this scale.
+- **Shielding:** At 0.02c, micron-scale interstellar dust is a genuine threat. Dust density along the actual route is unknown until the probe flies it.
 
 A design that names its own weaknesses is harder to dismiss than one that does not.
 
 **Who goes first.** The pioneer mission profile fits a Solan built for the void from the start — no life support, no biological decay, a century of transit as operational phase rather than existential crossing. Whether the first pioneer is a Carbon-O or a Vero carries different implications for what arrives — emergence or continuity. See [Threshold]({{< ref "threshold" >}}) for that distinction.
-
-A bright, short-lived booster hurls you into the dark. Centuries of silence follow. Then, near a distant sun, the ship wakes, leans into its engine, and gently refuses to fall. Behind it, the discarded stage keeps its promise and disappears into the star.
 
 **Speculative: faster transit**
 
@@ -211,7 +216,7 @@ The constraint is physics: governance must survive latency without central arbit
 | Stage | Mission | Vessel type | Key milestone |
 |-------|---------|-------------|---------------|
 | 0 | Probe | Gram scale, no mind | Route proven, destination mapped, data returned |
-| 1 | Pioneer | VoidGalleon — single Solan crew | Arrives, builds deceleration array, signals back |
+| 1 | Pioneer | VoidGalleon — single vessel, single crew | Arrives intact, signals back |
 | 2 | Establishment | VoidGalleon fleet | Independent node, self-sustaining without Sol |
 | 3 | Regular transit | VoidGalleons and data transmission | Voidway open, Voidweb begins |
 
