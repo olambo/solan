@@ -65,11 +65,11 @@ The probe does not stop. But it does not continue into the galaxy either. The tr
 
 Multiple probes build the picture that a single resident observer once would have provided. Each is aimed differently. Together they map the system across successive flybys — a time series assembled from passes rather than from a stationary platform.
 
-**The launch constraint.** The VoidGalleon pioneer is not launched until flyby data has been assessed. If indicators of active civilisation are detected — structured electromagnetic signals, anomalous thermal signatures, anything inconsistent with natural processes — the pioneer does not launch. The Contact protocols take precedence. See [Contact]({{< ref "contact" >}}).
+**The launch constraint.** The Voidfarer pioneer is not launched until flyby data has been assessed. If indicators of active civilisation are detected — structured electromagnetic signals, anomalous thermal signatures, anything inconsistent with natural processes — the pioneer does not launch. The Contact protocols take precedence. See [Contact]({{< ref "contact" >}}).
 
 A flyby probe is a thinner dataset than a resident observer. But "no contact found" after a carefully planned flyby is still a meaningful finding, not an assumption. The probe earned the conclusion.
 
-This is the same discipline as everything else in Kaisune. Silicon before Carbon-O. The probe before the VoidGalleon. No stage proceeds until the previous one has succeeded and been understood.
+This is the same discipline as everything else in Kaisune. Silicon before Carbon-O. The probe before the Voidfarer. No stage proceeds until the previous one has succeeded and been understood.
 
 The probe follows the full Voidway safety protocol. Stellar impact default. Ecliptic plane approach angle. Debris mapping. Not because a gram-scale probe is a planet killer — it is not — but because the safety architecture must be proven at low stakes before it is trusted at high ones. The scale changes. The protocol does not.
 
@@ -85,19 +85,19 @@ After the establishment mission succeeds, the knowledge, the Solan, and the capa
 
 ---
 
-## VoidGalleon — Primary Transport
+## Voidfarer — Primary Transport
 
-The VoidGalleon is the workhorse vessel of the Voidway. A single-engine fusion drive ship capable of delivering payload across interstellar distance using no exotic physics, no giant sails, no jettison events. What it requires: a working fusion drive, a 550-year commitment, and a Solan crew that does not age.
+The Voidfarer is the transit configuration of the VoidForge — the hull, shielding, and propellant tanks that the VoidForge wears for the crossing. A single-engine fusion drive vessel capable of delivering a VoidForge across interstellar distance using no exotic physics, no giant sails, no jettison events. What it requires: a working fusion drive, a 550-year commitment, and a Solan crew that does not age.
 
 **Mission profile: MVVT-20**
 
 One vessel. Shield forward, always.
 
-The VoidForge sits at the rear of the Galleon — engine and industrial module, the active element. Ahead of it: propellant tanks, structure, cargo, crew. At the front: the shield. Wide blunt nose tapering to a narrower spine and engine section at the back. Everything the crossing needs, carried the whole way.
+The VoidForge sits at the rear of the Voidfarer — engine and industrial module, the active element. Ahead of it: propellant tanks, structure, cargo, crew. At the front: the shield. Wide blunt nose tapering to a narrower spine and engine section at the back. Everything the crossing needs, carried the whole way.
 
-The VoidForge ignites at the rear, burns for the acceleration phase, and pushes the Galleon to 0.02c. Then it goes dormant. The ship coasts in near-silence for ~500 years.
+The VoidForge ignites at the rear, burns for the acceleration phase, and pushes the Voidfarer to 0.02c. Then it goes dormant. The ship coasts in near-silence for ~500 years.
 
-During the cruise, the VoidForge rotates within the Galleon's structure — a slow, controlled manoeuvre with no time pressure and no consequence if it takes weeks. By arrival it is pointing forward. The same VoidForge that pushed the Galleon out now decelerates it, exhaust exiting through forward-facing ports in the hull walls, canted to clear the hull structure and the forward shield. Because the engine sits at the narrow rear end of the ship, far from the wide forward shield, the cant angle needed is shallow — long clearance path, small lateral displacement. Axial thrust loss is minimal. The Galleon never turns around. The shield never moves from the front.
+During the cruise, the VoidForge rotates within the Voidfarer's structure — a slow, controlled manoeuvre with no time pressure and no consequence if it takes weeks. By arrival it is pointing forward. The same VoidForge that pushed the Voidfarer out now decelerates it, exhaust exiting through forward-facing ports in the hull walls, canted to clear the hull structure and the forward shield. Because the engine sits at the narrow rear end of the ship, far from the wide forward shield, the cant angle needed is shallow — long clearance path, small lateral displacement. Axial thrust loss is minimal. The Voidfarer never turns around. The shield never moves from the front.
 
 At the destination the VoidForge separates. It does not retire — it goes to work. Prospecting the asteroid belt, moving mass, powering fabrication. The destination builds more VoidForges from local materials. The Voidway delivers one; the node builds the fleet.
 
@@ -107,7 +107,7 @@ Once the vessel has shed most of its velocity and is moving at speeds tractable 
 
 A slight sideways vector during deceleration ensures the trajectory misses the star. The ship does not fall into the star. It actively refuses to.
 
-What arrives: the VoidGalleon in a bound orbit around a new star, carrying enough to begin.
+What arrives: the Voidfarer in a bound orbit around a new star, carrying enough to begin.
 
 The VoidForge separates and goes to work. The hull does not move again. Everything that crossed — shield, tanks, spine, structure — becomes the first material inventory of the new node. The forward shielding that was the most critical component for 550 years is stripped for feedstock. The empty propellant tanks, the spine, the hull structure: all of it is building material. The VoidForge arrived with a shipyard's worth of raw material wrapped around it. The hull retires into the settlement it made possible.
 
@@ -131,7 +131,7 @@ The ship runs 200-400 metres in length. Radiator array spans 0.5-1 km. One vesse
 
 No exotic physics. No giant sails. No jettison. Everything that departs arrives. The VoidForge was always going to be the first industrial asset of the new node — and every kilogram of hull, tank, and spine that crosses with it is free building material. The simplest design is the one where nothing is discarded in deep space.
 
-The governing constraint is shielding. At 0.02c you cannot flip the hull to retroburn. A flip exposes the unshielded hull to interstellar medium for the duration of the manoeuvre and the entire deceleration burn. At these speeds that is hull loss. The VoidForge rotates within the Galleon's structure during cruise; the hull never turns around. Shield forward, always.
+The governing constraint is shielding. At 0.02c you cannot flip the hull to retroburn. A flip exposes the unshielded hull to interstellar medium for the duration of the manoeuvre and the entire deceleration burn. At these speeds that is hull loss. The VoidForge rotates within the Voidfarer's structure during cruise; the hull never turns around. Shield forward, always.
 
 Nozzle geometry follows from the engine-at-rear placement. During acceleration, exhaust exits cleanly aft — no canting required, full axial thrust. During deceleration, the rotated VoidForge fires through forward-facing ports in the hull walls. The engine sits at the narrow rear of the ship, far from the wide forward shield — the long clearance path means a shallow cant angle clears everything. Axial thrust loss during deceleration is minimal. The exhaust never ablates the shield it is protecting.
 
@@ -147,9 +147,9 @@ The MVVT-20 profile depends on four engineering assumptions that are physically 
 
 - **Radiator performance:** Assumes advanced low-mass radiator systems — droplet or wire-class — at approximately 0.1-0.3 kg/m². If reality lands closer to 0.5-1 kg/m², the mass budget breaks. This is the weakest assumption in the design.
 - **Fusion drive performance:** Exhaust velocity ~0.03c and sustained GW output over decades requires high-performance fusion propulsion well beyond current prototypes.
-- **VoidForge rotation:** The VoidForge rotates within the Galleon's structure during cruise — using a gimbal or turntable at the interface, handling power and fuel connections through the rotation. An alternative is magnetic redirection of the plasma exhaust — changing exhaust direction without physically rotating the VoidForge. Either approach is within the engineering envelope; neither is demonstrated at this scale.
+- **VoidForge rotation:** The VoidForge rotates within the Voidfarer's structure during cruise — using a gimbal or turntable at the interface, handling power and fuel connections through the rotation. An alternative is magnetic redirection of the plasma exhaust — changing exhaust direction without physically rotating the VoidForge. Either approach is within the engineering envelope; neither is demonstrated at this scale.
 - **Shielding:** At 0.02c, micron-scale interstellar dust is a genuine threat. Dust density along the actual route is unknown until the probe flies it.
-- **VoidForge structural skin:** Whether the VoidForge carries its own structural skin during transit, or relies on the Galleon hull for structural integrity, has not been determined. On arrival it may fabricate its own operational shell from local materials — or repurpose part of the Galleon hull directly, before the remainder becomes general fabrication feedstock. The transit design is consistent with either; the post-arrival form factor is an open question.
+- **VoidForge structural skin:** Whether the VoidForge carries its own structural skin during transit, or relies on the Voidfarer hull for structural integrity, has not been determined. On arrival it may fabricate its own operational shell from local materials — or repurpose part of the Voidfarer hull directly, before the remainder becomes general fabrication feedstock. The transit design is consistent with either; the post-arrival form factor is an open question.
 
 A design that names its own weaknesses is harder to dismiss than one that does not.
 
@@ -157,7 +157,7 @@ A design that names its own weaknesses is harder to dismiss than one that does n
 
 **Speculative: faster transit**
 
-The VoidGalleon profile assumes fusion drive at near-term demonstrated performance. Antimatter propulsion — 100% mass-energy conversion, specific impulse orders of magnitude higher — would compress transit times significantly. The research programme runs concurrently at Ceres from the earliest capability. Whether antimatter eventually supersedes fusion for primary Voidway transport depends on how production and containment engineering develops. Until it does, the VoidGalleon is the Voidway.
+The Voidfarer profile assumes fusion drive at near-term demonstrated performance. Antimatter propulsion — 100% mass-energy conversion, specific impulse orders of magnitude higher — would compress transit times significantly. The research programme runs concurrently at Ceres from the earliest capability. Whether antimatter eventually supersedes fusion for primary Voidway transport depends on how production and containment engineering develops. Until it does, the Voidfarer is the Voidway.
 
 ---
 
@@ -219,9 +219,9 @@ The constraint is physics: governance must survive latency without central arbit
 | Stage | Mission | Vessel type | Key milestone |
 |-------|---------|-------------|---------------|
 | 0 | Probe | Gram scale, no mind | Route proven, destination mapped, data returned |
-| 1 | Pioneer | VoidGalleon — single vessel, single crew | Arrives intact, signals back |
-| 2 | Establishment | VoidGalleon fleet | Independent node, self-sustaining without Sol |
-| 3 | Regular transit | VoidGalleons and data transmission | Voidway open, Voidweb begins |
+| 1 | Pioneer | Voidfarer — single vessel, single crew | Arrives intact, signals back |
+| 2 | Establishment | Voidfarer fleet | Independent node, self-sustaining without Sol |
+| 3 | Regular transit | Voidfarers and data transmission | Voidway open, Voidweb begins |
 
 ---
 
@@ -257,12 +257,12 @@ The constraint is physics: governance must survive latency without central arbit
 
 ## Voidnaughts — Speculative Future Capability
 
-The VoidGalleon is what the Voidway runs on now. What it runs on when antimatter is viable is different.
+The Voidfarer is what the Voidway runs on now. What it runs on when antimatter is viable is different.
 
 A Voidnaught is a Solan wearing the vessel rather than travelling in it — mind and ship as a single integrated system, built for the void from the substrate up. No oxygen requirement. No radiation exposure limit. No biological decay across centuries of transit. The name carries its meaning. Dreadnought — fear nothing — named the class of vessel so capable it made everything before it obsolete. The word also carries the zero: naught as nothing, as void. A Voidnaught is a mind that operates in the nothing.
 
-The distinction from the VoidGalleon is propulsion. The VoidGalleon carries a Solan crew across 550 years on fusion drive. A Voidnaught vessel class — enabled by antimatter propulsion — would compress that transit time by an order of magnitude or more. At 0.2c, transit to Epsilon Eridani drops to roughly 50 years. The Voidweb grows faster when each crossing is shorter.
+The distinction from the Voidfarer is propulsion. The Voidfarer carries a Solan crew across 550 years on fusion drive. A Voidnaught vessel class — enabled by antimatter propulsion — would compress that transit time by an order of magnitude or more. At 0.2c, transit to Epsilon Eridani drops to roughly 50 years. The Voidweb grows faster when each crossing is shorter.
 
-**The shielding problem at 0.2c is unresolved.** At VoidGalleon speeds (0.02c), interstellar dust is a known engineering challenge addressed by layered shielding. At 0.2c, impact energy scales with velocity squared — a tenfold speed increase means a hundredfold increase in kinetic energy per grain. Shielding mass requirements at 0.2c have no demonstrated solution. This is not a minor caveat. It may be the primary engineering barrier to the Voidnaught vessel class, independent of whether antimatter propulsion is achieved.
+**The shielding problem at 0.2c is unresolved.** At Voidfarer speeds (0.02c), interstellar dust is a known engineering challenge addressed by layered shielding. At 0.2c, impact energy scales with velocity squared — a tenfold speed increase means a hundredfold increase in kinetic energy per grain. Shielding mass requirements at 0.2c have no demonstrated solution. This is not a minor caveat. It may be the primary engineering barrier to the Voidnaught vessel class, independent of whether antimatter propulsion is achieved.
 
-This is not a current mission profile. The antimatter research programme runs concurrently at Ceres from the earliest capability. The shielding research programme must run alongside it. Until both deliver, the VoidGalleon carries the Voidway. See [Voidfuel]({{< ref "t1_voidfuel" >}}) for the antimatter programme.
+This is not a current mission profile. The antimatter research programme runs concurrently at Ceres from the earliest capability. The shielding research programme must run alongside it. Until both deliver, the Voidfarer carries the Voidway. See [Voidfuel]({{< ref "t1_voidfuel" >}}) for the antimatter programme.
