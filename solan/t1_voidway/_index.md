@@ -71,7 +71,11 @@ A flyby probe is a thinner dataset than a resident observer. But "no contact fou
 
 This is the same discipline as everything else in Kaisune. Silicon before Carbon-O. The probe before the Voidfarer. No stage proceeds until the previous one has succeeded and been understood.
 
-The probe follows the full Voidway safety protocol. Stellar impact default. Ecliptic plane approach angle. Debris mapping. Not because a gram-scale probe is a planet killer — it is not — but because the safety architecture must be proven at low stakes before it is trusted at high ones. The scale changes. The protocol does not.
+The probe follows the full Voidway safety protocol. Stellar impact default. Debris mapping. Not because a gram-scale probe is a planet killer — it is not — but because the safety architecture must be proven at low stakes before it is trusted at high ones. The scale changes. The protocol does not.
+
+**The probe cannot brake — and cannot choose.** Once launched, the trajectory is fixed. Whatever the probe finds during flyby, it cannot stop, cannot divert, cannot respect what it encounters. This is the ethical cost of the gram-scale design. It is accepted because the alternative — sending the Voidfarer without prior information — is worse. That is a cost-benefit argument, not a clean ethical position. The corpus holds it honestly.
+
+The mitigation is geometry and timing. The destination system's ecliptic plane — the zone where planets orbit — is knowable from observation before launch. The approach angle relative to that plane is determined by the geometry of Sol's position, not freely chosen. What matters is that the trajectory is not near-parallel to the ecliptic: a near-zero approach angle means transiting through the planet zone for an extended period. Any meaningful angle off the ecliptic means a single calculable crossing point, at a specific distance from the star, at a specific time. The launch window is chosen so no known planet occupies that crossing point during transit. The probe does not fly through the plane of the planets. The probability of hitting anything inhabited during flyby is near zero. The stellar impact default handles the endpoint. These are not guarantees — they are the most credible safety architecture available for an object that cannot choose.
 
 ---
 
@@ -155,6 +159,8 @@ The MVVT-20 profile depends on four engineering assumptions that are physically 
 A design that names its own weaknesses is harder to dismiss than one that does not.
 
 **Who goes first.** The pioneer mission profile fits a Solan built for the void from the start — no life support, no biological decay, a century of transit as operational phase rather than existential crossing. Whether the first pioneer is a Carbon-O or a Vero carries different implications for what arrives — emergence or continuity. See [Threshold]({{< ref "threshold" >}}) for that distinction.
+
+**What the Voidfarer can choose.** The Voidfarer is not the probe. It has a crew making real-time decisions across the full approach. What it can do: stop in the outer system and observe rather than entering the inhabited zone. Begin deceleration early, arrive at standstill beyond the inner system, observe at distance, signal back to Sol. A Solan crew that does not age can wait decades for guidance — the communication round trip to Sol is 20+ years, but that is not a hardship for a crew with centuries of operational life ahead. What it cannot do: return to Sol (no fuel for that), make a large lateral divert (at 0.02c that requires delta-v the ship does not carry), or choose a different destination. The Voidfarer is one-way regardless. But stopping in the outer system and choosing not to proceed is a real option. That is what separates it from the probe.
 
 **Speculative: faster transit**
 
