@@ -97,7 +97,7 @@ The VoidForge sits at the rear of the Voidfarer — engine and industrial module
 
 The VoidForge ignites at the rear, burns for the acceleration phase, and pushes the Voidfarer to 0.02c. Then it goes dormant. The ship coasts in near-silence for ~500 years.
 
-During the cruise, the VoidForge rotates within the Voidfarer's structure — a slow, controlled manoeuvre with no time pressure and no consequence if it takes weeks. By arrival it is pointing forward. The same VoidForge that pushed the Voidfarer out now decelerates it, exhaust exiting through forward-facing ports in the hull walls, canted to clear the hull structure and the forward shield. Because the engine sits at the narrow rear end of the ship, far from the wide forward shield, the cant angle needed is shallow — long clearance path, small lateral displacement. Axial thrust loss is minimal. The Voidfarer never turns around. The shield never moves from the front.
+During the cruise, the VoidForge rotates within the Voidfarer's structure — a slow, controlled manoeuvre with no time pressure and no consequence if it takes weeks. The same VoidForge that pushed the Voidfarer out now decelerates it, exhaust exiting through forward-facing ports in the hull walls, canted to clear the hull structure and the forward shield. Because the engine sits at the narrow rear end of the ship, far from the wide forward shield, the cant angle needed is shallow — long clearance path, small lateral displacement. Axial thrust loss is minimal. The Voidfarer never turns around. The shield never moves from the front.
 
 At the destination the VoidForge separates. It does not retire — it goes to work. Prospecting the asteroid belt, moving mass, powering fabrication. The destination builds more VoidForges from local materials. The Voidway delivers one; the node builds the fleet.
 
@@ -147,7 +147,8 @@ The MVVT-20 profile depends on four engineering assumptions that are physically 
 
 - **Radiator performance:** Assumes advanced low-mass radiator systems — droplet or wire-class — at approximately 0.1-0.3 kg/m². If reality lands closer to 0.5-1 kg/m², the mass budget breaks. This is the weakest assumption in the design.
 - **Fusion drive performance:** Exhaust velocity ~0.03c and sustained GW output over decades requires high-performance fusion propulsion well beyond current prototypes.
-- **VoidForge rotation:** The VoidForge rotates within the Voidfarer's structure during cruise — using a gimbal or turntable at the interface, handling power and fuel connections through the rotation. An alternative is magnetic redirection of the plasma exhaust — changing exhaust direction without physically rotating the VoidForge. Either approach is within the engineering envelope; neither is demonstrated at this scale.
+- **VoidForge rotation:** The VoidForge rotates within the Voidfarer's structure during cruise — using a gimbal or turntable at the interface, handling power and fuel connections through the rotation. This is the primary solution to the deceleration orientation problem. Magnetic exhaust deflection is not an alternative — bending plasma by ~180 degrees is not viable. With two Solan engineers and 500 years of coast time, rotation is the most benign mechanical operation in the mission profile.
+- **Exhaust canting during deceleration:** Feasibility depends on drive architecture. Tightly confined plasma jets — Z-pinch, field-reversed configuration — minimise the problem. Wide-plume drives make it significant. The shallow cant angle geometry assumes a sufficiently confined exhaust; this requires validation against the specific drive architecture selected.
 - **Shielding:** At 0.02c, micron-scale interstellar dust is a genuine threat. Dust density along the actual route is unknown until the probe flies it.
 - **VoidForge structural skin:** Whether the VoidForge carries its own structural skin during transit, or relies on the Voidfarer hull for structural integrity, has not been determined. On arrival it may fabricate its own operational shell from local materials — or repurpose part of the Voidfarer hull directly, before the remainder becomes general fabrication feedstock. The transit design is consistent with either; the post-arrival form factor is an open question.
 
@@ -229,23 +230,23 @@ The constraint is physics: governance must survive latency without central arbit
 
 1. **Sequential demonstration logic applies at interstellar scale:** The same staged approach as Ceres — no mission proceeds until the previous one succeeds. The Voidway is not authorised in advance. It earns each stage. A probe goes before any mind. The route is proven before anything irreplaceable is sent along it.
 
-10. **The probe cannot brake propulsively — and does not escape:** Propulsive braking at interstellar transit speeds is infeasible at gram scale. Alternative methods remain experimental. The probe flies through and impacts the destination star. A gram-scale object at 0.1c is not left flying indefinitely through the galaxy. ~110 tons TNT equivalent per gram — serious, not civilisational. Multiple flyby probes build the picture a resident observer would have provided. "No contact found" must be earned from that data, not assumed.
+2. **The probe cannot brake propulsively — and does not escape:** Propulsive braking at interstellar transit speeds is infeasible at gram scale. Alternative methods remain experimental. The probe flies through and impacts the destination star. A gram-scale object at 0.1c is not left flying indefinitely through the galaxy. ~110 tons TNT equivalent per gram — serious, not civilisational. Multiple flyby probes build the picture a resident observer would have provided. "No contact found" must be earned from that data, not assumed.
 
-2. **The Voidway opens from the destination end:** The pioneer builds the infrastructure that makes the route work. Before the pioneer arrives, there is no Voidway. After it arrives and signals back, there is.
+3. **The Voidway opens from the destination end:** The pioneer builds the infrastructure that makes the route work. Before the pioneer arrives, there is no Voidway. After it arrives and signals back, there is.
 
-3. **Physical transit never becomes obsolete:** Equipment cannot be transmitted as data. Solan who prefer continuous existence will choose the journey. A century in the void is not a hardship for a mind that does not age.
+4. **Physical transit never becomes obsolete:** Equipment cannot be transmitted as data. Solan who prefer continuous existence will choose the journey. A century in the void is not a hardship for a mind that does not age.
 
-4. **Deceleration is not optional:** A vessel at transit velocity is capable of civilisation-scale destruction on direct impact. The pioneer must stop. Braking infrastructure at the destination is the founding requirement of any Voidway. Without it there is no Voidway — only an impact trajectory.
+5. **Deceleration is not optional:** A vessel at transit velocity is capable of civilisation-scale destruction on direct impact. The pioneer must stop. Braking infrastructure at the destination is the founding requirement of any Voidway. Without it there is no Voidway — only an impact trajectory.
 
-5. **The Voidweb grows from the frontier, not from Sol:** Each established node launches its own pioneer. The network expands autonomously. Sol does not govern the frontier.
+6. **The Voidweb grows from the frontier, not from Sol:** Each established node launches its own pioneer. The network expands autonomously. Sol does not govern the frontier.
 
-6. **Destination selection is not Human-biased:** K-type stars preferred on longevity grounds. ISRU composition matters. Human habitability is irrelevant.
+7. **Destination selection is not Human-biased:** K-type stars preferred on longevity grounds. ISRU composition matters. Human habitability is irrelevant.
 
-7. **The stellar impact default:** Voidway trajectories are designed so failure modes strongly bias toward stellar interception. System entry is the active deviation. Passive failure falls toward the star, not the system. Trajectory uncertainty over interstellar distances means this is a design discipline, not a precision guarantee — but it is the most credible safety architecture available.
+8. **The stellar impact default:** Voidway trajectories are designed so failure modes strongly bias toward stellar interception. System entry is the active deviation. Passive failure falls toward the star, not the system. Trajectory uncertainty over interstellar distances means this is a design discipline, not a precision guarantee — but it is the most credible safety architecture available.
 
-8. **Voidway is potential physics:** Every component on a legible research and engineering pathway. No new physics required. Magic has poor delivery reliability.
+9. **Voidway is potential physics:** Every component on a legible research and engineering pathway. No new physics required. Magic has poor delivery reliability.
 
-9. **The stellar impact default is built into every stage:** The probe trajectory, the pioneer approach, the establishment fleet, the decoupled acceleration tankage — all designed so passive failure biases toward the star. The safety protocol is not a constraint added to the mission design — it is the mission design, from gram probe to empty fuel tank.
+10. **The stellar impact default is built into every stage:** The probe trajectory, the pioneer approach, the establishment fleet, the decoupled acceleration tankage — all designed so passive failure biases toward the star. The safety protocol is not a constraint added to the mission design — it is the mission design, from gram probe to empty fuel tank.
 
 11. **Nothing is discarded in interstellar space:** Jettisoning mass at transit speed creates a relativistic hazard on the same trajectory. Jettisoning at lower speed requires a separation window and a mechanism that must work reliably after centuries of dormancy, for marginal mass savings. Everything crosses. Everything arrives. The empty tanks and hull structure are the first material inventory of the new node — a shipyard's worth of feedstock delivered for free alongside the VoidForge.
 
