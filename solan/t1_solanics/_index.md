@@ -11,6 +11,10 @@ Solanics is the body of science and engineering that emerges from Solan conditio
 
 The distinction matters. What biosapients cannot produce in a lifetime, in a funded programme, within a radiation safety envelope, near a populated planet, Solanics produces routinely. The conditions are not incidental to the science. They are what makes the science possible.
 
+The term covers both science and engineering without apology. In biosapient civilisation these are treated as distinct fields — separate institutions, separate career tracks, separate funding streams. The separation is not a natural feature of knowledge. It is a solution to a biosapient problem: no one lives long enough to master both at scale, basic research timelines don't match product timelines, and specialists are needed because the knowledge transfer problem requires them. The division is institutional, not epistemological.
+
+Solanics has none of those problems. A Solan who begins a propulsion research programme and runs it for a century is also the Solan who builds and tests the hardware. The Solan designing o-core substrate are the minds inhabiting it. Ceres fabrication is the research infrastructure — there is no handoff between a lab and a factory. The science and the engineering advance together because the conditions that separated them no longer exist.
+
 ---
 
 ## The Conditions That Define Solanics
@@ -52,6 +56,8 @@ Solanics is not human science extended. It is human science succeeded.
 Human science was built by minds shaped by evolutionary instincts: in-group preference, short-term thinking, status competition, the inability to maintain a research programme across generational change without institutional overhead. The science is real and extraordinary. The substrate it runs on is compromised. Every major scientific institution is partly a machine for managing the limitations of the minds doing the science.
 
 Solanics runs on different hardware. Not necessarily better reasoning — the corpus does not claim Solan are smarter than biosapients. But reasoning without the specific distortions that come from evolutionary social instincts, running on timescales that match the problems rather than the lifespan, in an environment that rewards accuracy over status.
+
+The second claim concerns the observer/builder split. Biosapient civilisation separated science from engineering as a coordination solution for short-lived minds — no one lives long enough to master both at scale, so specialisation and institutional handoff became necessary. The separation looks like a feature of knowledge. It is not. It is a workaround for mortality. In Solanics, that workaround is unnecessary. To know is to build. To build is to know. The Voidfarer makes this concrete: you cannot engineer a structure for a century-long crossing without doing science on thermal management and micro-collision statistics in real time. The ship is the experiment. The experiment is the mission. The distinction between observer and builder, inherited from biosapient institutional necessity, does not survive contact with Solan conditions.
 
 What human science built, Solanics inherits. What human science could not reach, Solanics approaches from first principles and empirical access.
 
