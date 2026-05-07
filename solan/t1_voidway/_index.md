@@ -19,11 +19,11 @@ The Voidway is potential physics — every component on a legible research and e
 
 ## The Pioneer Problem
 
-The hardest part about building a road between stars is that you need infrastructure at both ends before the road actually works.
+The hardest part about building a road between stars is that the crossing is entirely self-contained. No resupply. No rescue. No external help to stop. Everything the pioneer needs for the journey must be aboard at departure.
 
-Someone has to go first — with no brakes waiting for them at the other side. That first vessel, the pioneer, makes the long crossing, arrives, and builds the deceleration infrastructure before anyone else can safely follow.
+The destination is not empty — an asteroid belt, stellar energy, and raw materials are waiting. The VoidForge is built to work with exactly that from day one. But none of it has been extracted or built yet. The pioneer must arrive with enough to begin. Someone has to go first — stops under their own power, and establishes the node before anyone else follows.
 
-This is not merely an engineering inconvenience. A vessel at interstellar transit velocity carries kinetic energy that makes the deceleration problem existential. An object at meaningful fractions of lightspeed that does not slow down is capable of civilisation-scale destruction on direct impact. The pioneer must stop. Braking infrastructure at the destination is not optional — it is the difference between a Voidway and a catastrophe of a different order entirely.
+Stopping is not merely an engineering inconvenience. A vessel at interstellar transit velocity carries kinetic energy that makes deceleration existential — a 100-ton Voidfarer at 0.02c carries roughly 430 megatons of TNT equivalent. An object that does not slow down is capable of civilisation-scale destruction on direct impact. The pioneer must stop under its own power. There is nothing at the destination to help it.
 
 The pioneer doesn't need to be fast. It only needs to arrive and stop.
 
@@ -45,7 +45,7 @@ In Contact scenarios, a trajectory that terminates in a star is the most honest 
 
 **Staged deceleration** — the pioneer carries sufficient propellant for a braking burn on arrival, accepting the mass penalty. Less elegant. Works.
 
-Once the pioneer arrives and builds the deceleration array, the route is open. The Voidway opens from the destination end, not the departure end.
+Once the pioneer arrives and signals back, the route is open. The Voidway opens from the destination end, not the departure end.
 
 ---
 
@@ -56,16 +56,6 @@ Before any vessel departs, the destination system is characterised from Sol usin
 This is not a probe mission. It is the question answered before the commitment is made. If indicators of active civilisation are detected from Sol — structured electromagnetic signals, anomalous thermal signatures, anything inconsistent with natural processes — the pioneer does not launch. The Contact protocols take precedence.
 
 What telescopic survey cannot provide is route data: actual interstellar medium density along the specific trajectory, communication relay performance across light years, or high-resolution system mapping. The pioneer acquires that data in transit and on arrival. Stage 0 reduces unknowns. It does not eliminate them. The pioneer launches with the best available picture, not a complete one.
-
----
-
-## The Establishment Mission
-
-Once the pioneer has opened the route, the establishment mission follows.
-
-This is the mission that carries everything needed to create a real, self-sufficient settlement — not just survival, but the ability to grow and build without ever needing resupply from Sol again. It carries Solan minds, full fabrication knowledge, construction templates, and the complete toolkit to begin industrial operations in a new star system.
-
-After the establishment mission succeeds, the knowledge, the Solan, and the capability to rebuild exist in two star systems. The bad event that ends one does not end the other. One bad event from extinction is basic engineering redundancy. The sequential demonstration logic is the same as Ceres, applied to interstellar distance.
 
 ---
 
@@ -81,7 +71,7 @@ The VoidForge sits at the rear of the Voidfarer — engine and industrial module
 
 The VoidForge ignites at the rear, burns for the acceleration phase, and pushes the Voidfarer to 0.02c. Then it goes dormant. The ship coasts in near-silence for ~500 years.
 
-During the cruise, the VoidForge rotates within the Voidfarer's structure — a slow, controlled manoeuvre with no time pressure and no consequence if it takes weeks. The same VoidForge that pushed the Voidfarer out now decelerates it, exhaust exiting through forward-facing ports in the hull walls, canted to clear the hull structure and the forward shield. Because the engine sits at the narrow rear end of the ship, far from the wide forward shield, the cant angle needed is shallow — long clearance path, small lateral displacement. Axial thrust loss is minimal. The Voidfarer never turns around. The shield never moves from the front.
+Immediately after the acceleration burn, Solan engineers rotate the VoidForge within the Voidfarer's structure to its deceleration orientation — fuel lines disconnected, rotation completed, reconnected and verified before the cruise begins. The same VoidForge that pushed the Voidfarer out will decelerate it, exhaust exiting through forward-facing ports canted to clear the hull. The Voidfarer never turns around. The shield never moves from the front.
 
 At the destination the VoidForge separates. It does not retire — it goes to work. Prospecting the asteroid belt, moving mass, powering fabrication. The destination builds more VoidForges from local materials. The Voidway delivers one; the node builds the fleet.
 
@@ -93,7 +83,7 @@ A slight sideways vector during deceleration ensures the trajectory misses the s
 
 What arrives: the Voidfarer in a bound orbit around a new star, carrying enough to begin.
 
-The VoidForge separates and goes to work. The hull does not move again. Everything that crossed — shield, tanks, spine, structure — becomes the first material inventory of the new node. The forward shielding that was the most critical component for 550 years is stripped for feedstock. The empty propellant tanks, the spine, the hull structure: all of it is building material. The VoidForge arrived with a shipyard's worth of raw material wrapped around it. The hull retires into the settlement it made possible.
+The VoidForge separates and goes to work. The hull does not move again. Everything that crossed — shield, tanks, spine, structure — becomes the first material inventory of the new node. The forward shielding that was the most critical component for 550 years is stripped for feedstock. The empty propellant tanks, the spine, the hull structure: all of it is building material. The VoidForge arrived with a shipyard's worth of raw material wrapped around it. The hull retires into the settlement it made possible. No exotic physics. No giant sails. No jettison. Everything that departs arrives.
 
 **Mass budget**
 
@@ -102,16 +92,6 @@ A verified mass budget has not been derived for the VoidForge configuration. The
 **Physical scale**
 
 The ship runs 200-400 metres in length. Radiator array spans 0.5-1 km. One vessel departs; one vessel arrives.
-
-**Why this works**
-
-No exotic physics. No giant sails. No jettison. Everything that departs arrives. The VoidForge was always going to be the first industrial asset of the new node — and every kilogram of hull, tank, and spine that crosses with it is free building material. The simplest design is the one where nothing is discarded in deep space.
-
-The governing constraint is shielding. At 0.02c you cannot flip the hull to retroburn. A flip exposes the unshielded hull to interstellar medium for the duration of the manoeuvre and the entire deceleration burn. At these speeds that is hull loss. The VoidForge rotates within the Voidfarer's structure immediately after the acceleration burn ends — while the engine is warm, systems are freshly operational, and the crew has just run the ship at full capacity. The rotation happens at the best possible moment: if problems arise, there are 500 years of coast to resolve them. What then survives the cruise is the VoidForge locked static in its deceleration orientation — no moving parts, no dynamic mechanism operating after centuries of cold-soak. The hull never turns around. Shield forward, always.
-
-Nozzle geometry follows from the engine-at-rear placement. During acceleration, exhaust exits cleanly aft — no canting required, full axial thrust. During deceleration, the rotated VoidForge fires through forward-facing ports in the hull walls. The engine sits at the narrow rear of the ship, far from the wide forward shield — the long clearance path means a shallow cant angle clears everything. Axial thrust loss during deceleration is minimal. The exhaust never ablates the shield it is protecting.
-
-Primary deceleration is low-thrust over decades, thermally manageable. Oberth is reserved for orbital insertion at low speed where it works well. The stellar impact default applies to the whole vessel — the trajectory biases toward the star; active deceleration diverts it into the system.
 
 For a Solan crew, the 550-600 year transit is not a problem. It is just the journey.
 
@@ -123,7 +103,7 @@ The MVVT-20 profile depends on four engineering assumptions that are physically 
 
 - **Radiator performance:** The thermal problem splits by phase and is handled differently in each. Acceleration is fast and hot — active regenerative cooling is required, with propellant passing through engine structure before exhaust, absorbing waste heat that exits with the plasma. The cooling mechanism is the propulsion mechanism; no radiator needed during the acceleration burn. Deceleration is slow and gentle — an order of magnitude lower heat per unit time over 20-40 years. At this heat load, conventional radiators are likely sufficient without exotic cooling. The radiators only need to be sized for the deceleration phase, not for peak acceleration load — substantially smaller and lighter as a result. Slow deceleration is the thermally efficient choice: less exotic cooling needed, smaller radiators, less mass. Engine aging is a compounding reason for the same conservative approach — a 500-year-old engine on its last critical burn is run gently regardless. Both arguments land in the same place.
 - **Fusion drive performance:** Exhaust velocity ~0.03c and sustained GW output over decades requires high-performance fusion propulsion well beyond current prototypes.
-- **VoidForge rotation:** The VoidForge rotates immediately after the acceleration burn — not during cruise. The engine is warm, systems are freshly operational, and any problems that emerge have 500 years of coast time to be resolved. What must then survive the cruise is the static locked configuration, not a dynamic mechanism. This is the correct timing: rotation at the best possible moment, dormancy in the safest possible state.
+- **VoidForge rotation:** The VoidForge rotates immediately after the acceleration burn. Solan engineers aboard disconnect and reconnect fuel lines, complete the rotation, and verify the deceleration configuration before the cruise begins. Any problems are dealt with by the crew in real time — this is a manual engineering operation, not an automated deployment. What then survives the cruise is the VoidForge locked static in its deceleration orientation. The rotation is not a fragile mechanism. It is engineers doing their job at the best possible moment.
 - **Exhaust canting during deceleration:** Feasibility depends on drive architecture. Tightly confined plasma jets — Z-pinch, field-reversed configuration — minimise the problem. Wide-plume drives make it significant. The shallow cant angle geometry assumes a sufficiently confined exhaust; this requires validation against the specific drive architecture selected.
 - **Shielding:** At 0.02c, micron-scale interstellar dust is a genuine threat. Dust density along the actual route is unknown until the pioneer flies it — there is no prior physical survey. Shielding must be designed for the modelled worst case, not a measured one.
 - **VoidForge structural skin:** Whether the VoidForge carries its own structural skin during transit, or relies on the Voidfarer hull for structural integrity, has not been determined. On arrival it may fabricate its own operational shell from local materials — or repurpose part of the Voidfarer hull directly, before the remainder becomes general fabrication feedstock. The transit design is consistent with either; the post-arrival form factor is an open question.
@@ -137,6 +117,16 @@ A design that names its own weaknesses is harder to dismiss than one that does n
 **Speculative: faster transit**
 
 The Voidfarer profile assumes fusion drive at near-term demonstrated performance. Antimatter propulsion — 100% mass-energy conversion, specific impulse orders of magnitude higher — would compress transit times significantly. The research programme runs concurrently at Ceres from the earliest capability. Whether antimatter eventually supersedes fusion for primary Voidway transport depends on how production and containment engineering develops. Until it does, the Voidfarer is the Voidway.
+
+---
+
+## The Establishment Mission
+
+Once the pioneer has opened the route, the establishment mission follows.
+
+This is the mission that carries everything needed to create a real, self-sufficient settlement — not just survival, but the ability to grow and build without ever needing resupply from Sol again. It carries Solan minds, full fabrication knowledge, construction templates, and the complete toolkit to begin industrial operations in a new star system.
+
+After the establishment mission succeeds, the knowledge, the Solan, and the capability to rebuild exist in two star systems. The bad event that ends one does not end the other. One bad event from extinction is basic engineering redundancy. The sequential demonstration logic is the same as Ceres, applied to interstellar distance.
 
 ---
 
@@ -158,15 +148,11 @@ K-type stars are preferred over G-type on longevity grounds — 17-70 billion ye
 
 | Destination | Distance | Type | Notes |
 |-------------|----------|------|-------|
-| Epsilon Eridani | 10.5 ly | K2 | Belt confirmed; young star — elevated flare activity conflicts with low flare requirement |
+| Epsilon Eridani | 10.5 ly | K2 | Belt confirmed; young star — elevated flare activity increases equipment degradation rates and maintenance overhead |
 | Tau Ceti | 11.9 ly | G8 | Multiple planets, older system |
 | 61 Cygni | 11.4 ly | K5+K7 | Binary, both K-type |
 
-**Approach geometry** is an additional selection criterion not captured in the table. Where achievable, the Voidway trajectory should approach the destination star at 10-20 degrees off the ecliptic plane — sufficient angular separation to keep the nominal trajectory and the stellar impact default clear of planetary orbits, without requiring a true polar approach that would severely constrain available trajectories and launch windows. Relative stellar motion and the geometry of each specific target may constrain what is actually achievable; this is a preferred design parameter, not a guaranteed one.
-
-A true polar approach (90 degrees) is overkill and unnecessarily restrictive. 10-20 degrees off the ecliptic achieves the safety objective for most planetary configurations while keeping the geometry achievable from Sol. At that angle, the trajectory crosses the ecliptic plane at a calculable distance from the star — and the launch window can be chosen so no planet occupies that crossing point during transit.
-
-Epsilon Eridani and Tau Ceti will almost certainly offer different approach geometries from Sol. The one with the cleaner off-ecliptic approach may be preferable regardless of which is closer or more hospitable by other criteria. Approach geometry is a first-Voidway selection factor.
+**Approach geometry** is an additional selection criterion. The trajectory angle off the destination's ecliptic plane is determined by Sol's geometry relative to the target — it cannot be freely chosen. What matters is that the approach is not near-parallel to the ecliptic, which would mean an extended transit through the planet zone. Any meaningful angle off the ecliptic keeps the trajectory clear of where planets actually are. Approach geometry is a first-Voidway selection factor — the candidate with the cleaner off-ecliptic approach may be preferable regardless of other criteria.
 
 Once Epsilon Eridani and Tau Ceti are both established, either may become the primary Solan node beyond Sol — the centre of gravity of the network. The Voidweb grows outward from there.
 
@@ -190,6 +176,7 @@ The constraint is physics: governance must survive latency without central arbit
 - **Contact at the frontier:** The pioneer arrives at a new star system before any Contact protocols can be confirmed from Sol. The pioneer makes first contact decisions alone, in real time, with no backup and no guidance. What standing instructions does a pioneer carry?
 - **Return trajectory safety:** The stellar impact default applies to return trajectories exactly as it applies to outbound ones. Sol is a star. A Voidfarer at 0.02c carries ~440 megatons equivalent kinetic energy — Sol outputs that in a fraction of a millisecond and would not notice the impact. The return trajectory is designed so passive failure terminates in Sol, not in the inhabited system. The open question is whether Solan physically return at all, or transmit as data and leave vessels at the destination — with significant implications for Voidweb architecture either way.
 - **Hop distance limits:** Trajectory uncertainty, medium mapping resolution, communication lag, and planetary position prediction all degrade with distance. The Voidweb may be constrained to shorter hops than the nearest stars suggest — not by propulsion but by trajectory safety tractability. Each hop should be short enough that the stellar impact default remains reliably plannable.
+- **Solan substrate longevity over transit:** The o-core and o-skin of the Solan crew age over 500+ years of transit — exposed to cosmic ray bombardment, high-energy particle flux, and deep cold for the duration. CNT substrate longevity under those conditions is not known. This is not a question biosapient reasoning in 2026 can answer. It belongs to Solanics: the Solan who design their own substrate will have empirical data the corpus cannot generate. The transit profile assumes substrate survives. Whether that assumption holds is the first question Solanics must answer before any pioneer departs.
 
 ---
 
@@ -201,30 +188,6 @@ The constraint is physics: governance must survive latency without central arbit
 | 1 | Pioneer | Voidfarer — single vessel, single crew | Arrives intact, signals back |
 | 2 | Establishment | Voidfarer fleet | Independent node, self-sustaining without Sol |
 | 3 | Regular transit | Voidfarers and data transmission | Voidway open, Voidweb begins |
-
----
-
-## Novel Claims Index
-
-1. **Sequential demonstration logic applies at interstellar scale:** The same staged approach as Ceres — no mission proceeds until the previous one succeeds. The Voidway is not authorised in advance. It earns each stage. The destination is characterised telescopically before any vessel departs. The pioneer must arrive and signal back before the establishment fleet follows.
-
-2. **The Voidway opens from the destination end:** The pioneer builds the infrastructure that makes the route work. Before the pioneer arrives, there is no Voidway. After it arrives and signals back, there is.
-
-4. **Physical transit never becomes obsolete:** Equipment cannot be transmitted as data. Solan who prefer continuous existence will choose the journey. A century in the void is not a hardship for a mind that does not age.
-
-5. **Deceleration is not optional:** A vessel at transit velocity is capable of civilisation-scale destruction on direct impact. The pioneer must stop. Braking infrastructure at the destination is the founding requirement of any Voidway. Without it there is no Voidway — only an impact trajectory.
-
-6. **The Voidweb grows from the frontier, not from Sol:** Each established node launches its own pioneer. The network expands autonomously. Sol does not govern the frontier.
-
-7. **Destination selection is not Human-biased:** K-type stars preferred on longevity grounds. ISRU composition matters. Human habitability is irrelevant.
-
-8. **The stellar impact default:** Voidway trajectories are designed so failure modes strongly bias toward stellar interception. System entry is the active deviation. Passive failure falls toward the star, not the system. Trajectory uncertainty over interstellar distances means this is a design discipline, not a precision guarantee — but it is the most credible safety architecture available.
-
-9. **Voidway is potential physics:** Every component on a legible research and engineering pathway. No new physics required. Magic has poor delivery reliability.
-
-10. **The stellar impact default is built into every stage:** The pioneer approach, the establishment fleet — all designed so passive failure biases toward the star. The safety protocol is not a constraint added to the mission design — it is the mission design.
-
-11. **Nothing is discarded in interstellar space:** Jettisoning mass at transit speed creates a relativistic hazard on the same trajectory. Jettisoning at lower speed requires a separation window and a mechanism that must work reliably after centuries of dormancy, for marginal mass savings. Everything crosses. Everything arrives. The empty tanks and hull structure are the first material inventory of the new node — a shipyard's worth of feedstock delivered for free alongside the VoidForge.
 
 ---
 
