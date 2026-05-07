@@ -97,15 +97,7 @@ The VoidForge separates and goes to work. The hull does not move again. Everythi
 
 **Mass budget**
 
-| Component | Mass |
-|-----------|------|
-| Ship dry (structure, shielding, engine, radiators, systems) | ~27 t |
-| Propellant (acceleration + deceleration) | ~76 t |
-| **Total launch mass** | **~103 t** |
-
-Payload delivered to destination: ~4 tons.
-
-*Note: these figures are illustrative order-of-magnitude estimates, not a verified budget derived from the current integrated design. The propellant fraction in particular has not been recalculated for the VoidForge configuration.*
+A verified mass budget has not been derived for the VoidForge configuration. The propellant fraction depends on exhaust velocity assumptions that require a specific drive architecture to calculate properly. Numbers will be added when the propulsion engineering is sufficiently developed to support them. Publishing unverified figures here would invite scrutiny the document cannot currently satisfy.
 
 **Physical scale**
 
@@ -166,7 +158,7 @@ K-type stars are preferred over G-type on longevity grounds — 17-70 billion ye
 
 | Destination | Distance | Type | Notes |
 |-------------|----------|------|-------|
-| Epsilon Eridani | 10.5 ly | K2 | Belt confirmed, young star |
+| Epsilon Eridani | 10.5 ly | K2 | Belt confirmed; young star — elevated flare activity conflicts with low flare requirement |
 | Tau Ceti | 11.9 ly | G8 | Multiple planets, older system |
 | 61 Cygni | 11.4 ly | K5+K7 | Binary, both K-type |
 
