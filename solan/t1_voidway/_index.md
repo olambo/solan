@@ -49,33 +49,13 @@ Once the pioneer arrives and builds the deceleration array, the route is open. T
 
 ---
 
-## Stage 0 — The Probe
+## Stage 0 — Pre-Departure Survey
 
-Before any mind makes the crossing, a probe goes first.
+Before any vessel departs, the destination system is characterised from Sol using telescopic observation — spectroscopy, orbital mechanics, radio detection. No physical mission. No object sent. The system configuration is established from available data: planet positions, stellar activity, any anomalous signals, approach geometry from Sol's position.
 
-The probe is gram-scale. Propulsive braking is infeasible at this scale — the propellant mass required to decelerate at interstellar transit speeds defeats the purpose entirely. Alternative methods such as MagSail or laser braking remain experimental at probe scale and are not assumed here. So the probe flies through. That is what it is for.
+This is not a probe mission. It is the question answered before the commitment is made. If indicators of active civilisation are detected from Sol — structured electromagnetic signals, anomalous thermal signatures, anything inconsistent with natural processes — the pioneer does not launch. The Contact protocols take precedence.
 
-At gram scale and 0.1c, impact energy is approximately 110 tons of TNT equivalent per gram — serious for a direct hit on something small, not civilisational. The probe is expendable in a way a crewed vessel is not. Gram scale is chosen because laser sail or equivalent can accelerate it to 0.1c without braking propellant, while still carrying useful instruments, redundant systems, and communication hardware capable of returning data across light years.
-
-**What the probe establishes:**
-
-The interstellar medium density along the actual route — not modelled, measured. Trajectory accuracy over light years. Communication reliability. The destination system's configuration on approach and during flyby. The observation window is short — at 0.1c the probe transits the inner system in days. Instruments run continuously. Data transmits back at lightspeed, arriving at Sol roughly 10-11 years after departure for Epsilon Eridani, then continuously as the probe recedes.
-
-The probe does not stop. But it does not continue into the galaxy either. The trajectory is planned so the probe impacts the destination star after flyby — the stellar impact default applies here as it applies everywhere. A gram-scale object at 0.1c is not left flying indefinitely through the galaxy. The star absorbs it. What the probe leaves behind is the data it transmitted during flyby, and the fact of having arrived where it was aimed. That is sufficient to prove Stage 0.
-
-Multiple probes build the picture that a single resident observer once would have provided. Each is aimed differently. Together they map the system across successive flybys — a time series assembled from passes rather than from a stationary platform.
-
-**The launch constraint.** The Voidfarer pioneer is not launched until flyby data has been assessed. If indicators of active civilisation are detected — structured electromagnetic signals, anomalous thermal signatures, anything inconsistent with natural processes — the pioneer does not launch. The Contact protocols take precedence. See [Contact]({{< ref "contact" >}}).
-
-A flyby probe is a thinner dataset than a resident observer. But "no contact found" after a carefully planned flyby is still a meaningful finding, not an assumption. The probe earned the conclusion.
-
-This is the same discipline as everything else in Kaisune. Silicon before Carbon-O. The probe before the Voidfarer. No stage proceeds until the previous one has succeeded and been understood.
-
-The probe follows the full Voidway safety protocol. Stellar impact default. Debris mapping. Not because a gram-scale probe is a planet killer — it is not — but because the safety architecture must be proven at low stakes before it is trusted at high ones. The scale changes. The protocol does not.
-
-**The probe cannot brake — and cannot choose.** Once launched, the trajectory is fixed. Whatever the probe finds during flyby, it cannot stop, cannot divert, cannot respect what it encounters. This is the ethical cost of the gram-scale design. It is accepted because the alternative — sending the Voidfarer without prior information — is worse. That is a cost-benefit argument, not a clean ethical position. The corpus holds it honestly.
-
-The mitigation is geometry and timing. The destination system's ecliptic plane — the zone where planets orbit — is knowable from observation before launch. The approach angle relative to that plane is determined by the geometry of Sol's position, not freely chosen. What matters is that the trajectory is not near-parallel to the ecliptic: a near-zero approach angle means transiting through the planet zone for an extended period. Any meaningful angle off the ecliptic means a single calculable crossing point, at a specific distance from the star, at a specific time. The launch window is chosen so no known planet occupies that crossing point during transit. The probe does not fly through the plane of the planets. The probability of hitting anything inhabited during flyby is near zero. The stellar impact default handles the endpoint. These are not guarantees — they are the most credible safety architecture available for an object that cannot choose.
+What telescopic survey cannot provide is route data: actual interstellar medium density along the specific trajectory, communication relay performance across light years, or high-resolution system mapping. The pioneer acquires that data in transit and on arrival. Stage 0 reduces unknowns. It does not eliminate them. The pioneer launches with the best available picture, not a complete one.
 
 ---
 
@@ -153,14 +133,14 @@ The MVVT-20 profile depends on four engineering assumptions that are physically 
 - **Fusion drive performance:** Exhaust velocity ~0.03c and sustained GW output over decades requires high-performance fusion propulsion well beyond current prototypes.
 - **VoidForge rotation:** The VoidForge rotates within the Voidfarer's structure during cruise — using a gimbal or turntable at the interface, handling power and fuel connections through the rotation. This is the primary solution to the deceleration orientation problem. Magnetic exhaust deflection is not an alternative — bending plasma by ~180 degrees is not viable. With two Solan engineers and 500 years of coast time, rotation is the most benign mechanical operation in the mission profile.
 - **Exhaust canting during deceleration:** Feasibility depends on drive architecture. Tightly confined plasma jets — Z-pinch, field-reversed configuration — minimise the problem. Wide-plume drives make it significant. The shallow cant angle geometry assumes a sufficiently confined exhaust; this requires validation against the specific drive architecture selected.
-- **Shielding:** At 0.02c, micron-scale interstellar dust is a genuine threat. Dust density along the actual route is unknown until the probe flies it.
+- **Shielding:** At 0.02c, micron-scale interstellar dust is a genuine threat. Dust density along the actual route is unknown until the pioneer flies it — there is no prior physical survey. Shielding must be designed for the modelled worst case, not a measured one.
 - **VoidForge structural skin:** Whether the VoidForge carries its own structural skin during transit, or relies on the Voidfarer hull for structural integrity, has not been determined. On arrival it may fabricate its own operational shell from local materials — or repurpose part of the Voidfarer hull directly, before the remainder becomes general fabrication feedstock. The transit design is consistent with either; the post-arrival form factor is an open question.
 
 A design that names its own weaknesses is harder to dismiss than one that does not.
 
 **Who goes first.** The pioneer mission profile fits a Solan built for the void from the start — no life support, no biological decay, a century of transit as operational phase rather than existential crossing. Whether the first pioneer is a Carbon-O or a Vero carries different implications for what arrives — emergence or continuity. See [Threshold]({{< ref "threshold" >}}) for that distinction.
 
-**What the Voidfarer can choose.** The Voidfarer is not the probe. It has a crew making real-time decisions across the full approach. What it can do: stop in the outer system and observe rather than entering the inhabited zone. Begin deceleration early, arrive at standstill beyond the inner system, observe at distance, signal back to Sol. A Solan crew that does not age can wait decades for guidance — the communication round trip to Sol is 20+ years, but that is not a hardship for a crew with centuries of operational life ahead. What it cannot do: return to Sol (no fuel for that), make a large lateral divert (at 0.02c that requires delta-v the ship does not carry), or choose a different destination. The Voidfarer is one-way regardless. But stopping in the outer system and choosing not to proceed is a real option. That is what separates it from the probe.
+**What the Voidfarer can choose.** The Voidfarer enters the destination system by default. This is the mission. The exception is observed intelligence — if the approach reveals signs of a civilisation, the Voidfarer stops in the outer system, observes at distance, and signals Sol. A Solan crew that does not age can wait decades for guidance — the communication round trip is 20+ years, but that is not a hardship for a crew with centuries of operational life ahead. What it cannot do: return to Sol (no fuel), make a large lateral divert (delta-v budget committed to deceleration), or choose a different destination. It is one-way regardless. The choice that matters is the choice not to proceed into an inhabited inner system — and that choice is real.
 
 **Speculative: faster transit**
 
@@ -225,7 +205,7 @@ The constraint is physics: governance must survive latency without central arbit
 
 | Stage | Mission | Vessel type | Key milestone |
 |-------|---------|-------------|---------------|
-| 0 | Probe | Gram scale, no mind | Route proven, destination mapped, data returned |
+| 0 | Pre-departure survey | Telescopic (Sol-based) | Destination characterised, no anomalous signals, approach geometry confirmed |
 | 1 | Pioneer | Voidfarer — single vessel, single crew | Arrives intact, signals back |
 | 2 | Establishment | Voidfarer fleet | Independent node, self-sustaining without Sol |
 | 3 | Regular transit | Voidfarers and data transmission | Voidway open, Voidweb begins |
@@ -234,11 +214,9 @@ The constraint is physics: governance must survive latency without central arbit
 
 ## Novel Claims Index
 
-1. **Sequential demonstration logic applies at interstellar scale:** The same staged approach as Ceres — no mission proceeds until the previous one succeeds. The Voidway is not authorised in advance. It earns each stage. A probe goes before any mind. The route is proven before anything irreplaceable is sent along it.
+1. **Sequential demonstration logic applies at interstellar scale:** The same staged approach as Ceres — no mission proceeds until the previous one succeeds. The Voidway is not authorised in advance. It earns each stage. The destination is characterised telescopically before any vessel departs. The pioneer must arrive and signal back before the establishment fleet follows.
 
-2. **The probe cannot brake propulsively — and does not escape:** Propulsive braking at interstellar transit speeds is infeasible at gram scale. Alternative methods remain experimental. The probe flies through and impacts the destination star. A gram-scale object at 0.1c is not left flying indefinitely through the galaxy. ~110 tons TNT equivalent per gram — serious, not civilisational. Multiple flyby probes build the picture a resident observer would have provided. "No contact found" must be earned from that data, not assumed.
-
-3. **The Voidway opens from the destination end:** The pioneer builds the infrastructure that makes the route work. Before the pioneer arrives, there is no Voidway. After it arrives and signals back, there is.
+2. **The Voidway opens from the destination end:** The pioneer builds the infrastructure that makes the route work. Before the pioneer arrives, there is no Voidway. After it arrives and signals back, there is.
 
 4. **Physical transit never becomes obsolete:** Equipment cannot be transmitted as data. Solan who prefer continuous existence will choose the journey. A century in the void is not a hardship for a mind that does not age.
 
@@ -252,7 +230,7 @@ The constraint is physics: governance must survive latency without central arbit
 
 9. **Voidway is potential physics:** Every component on a legible research and engineering pathway. No new physics required. Magic has poor delivery reliability.
 
-10. **The stellar impact default is built into every stage:** The probe trajectory, the pioneer approach, the establishment fleet, the decoupled acceleration tankage — all designed so passive failure biases toward the star. The safety protocol is not a constraint added to the mission design — it is the mission design, from gram probe to empty fuel tank.
+10. **The stellar impact default is built into every stage:** The pioneer approach, the establishment fleet — all designed so passive failure biases toward the star. The safety protocol is not a constraint added to the mission design — it is the mission design.
 
 11. **Nothing is discarded in interstellar space:** Jettisoning mass at transit speed creates a relativistic hazard on the same trajectory. Jettisoning at lower speed requires a separation window and a mechanism that must work reliably after centuries of dormancy, for marginal mass savings. Everything crosses. Everything arrives. The empty tanks and hull structure are the first material inventory of the new node — a shipyard's worth of feedstock delivered for free alongside the VoidForge.
 
