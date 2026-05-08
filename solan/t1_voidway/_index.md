@@ -59,6 +59,20 @@ What telescopic survey cannot provide is route data: actual interstellar medium 
 
 ---
 
+## Stage 0.5 — Route Characterisation Probe
+
+Before the Voidfarer departs, a small uncrewed probe is launched along the same trajectory at 0.02c — matching the Voidfarer's cruise speed, but carrying none of its mass overhead. No deceleration propellant. No VoidForge. No crew substrate. No rotation mechanism. No Oberth reserve. Shielding sized for instruments, not minds. The probe is dramatically lighter than the Voidfarer while travelling at identical velocity.
+
+The probe transmits route data continuously at lightspeed during transit — actual dust density, interstellar medium conditions, and radiation environment along the specific trajectory. After a century of travel the probe has mapped roughly two light years of route. The interstellar medium does not vary wildly over 10 light years in a given direction — that data is sufficient to replace modelled worst-case shielding assumptions with empirically grounded estimates. The Voidfarer is then designed and built using real numbers, not conservative guesses. If the route is cleaner than modelled, shielding mass is reduced. If denser, the Voidfarer is designed accordingly.
+
+The probe's mission value is threefold. First: it informs shielding design at Sol before the Voidfarer departs. Second: it provides route data to Sol for all subsequent missions. Third — and less obviously — it scouts ahead of the Voidfarer in real time during transit. Both vessels travel at 0.02c, so the gap between them is fixed at whatever lead the probe had at departure. The probe transmits at lightspeed; the Voidfarer receives data from ahead of its current position with advance warning proportional to that gap. A probe departed 50 years earlier is roughly one light year ahead — the Voidfarer receives nearly a year of warning on what lies ahead, time enough to adjust shielding configuration and prepare. The probe is not just a pre-departure instrument. It is a continuous scout for the crossing.
+
+The probe terminates in the destination star. Stellar impact default applies as mission plan, not fallback.
+
+This is the interstellar equivalent of the nautical lead-line sounding voyage — send something expendable ahead to map the hazards before committing the ships that matter.
+
+---
+
 ## Voidfarer — Primary Transport
 
 The Voidfarer is the transit configuration of the VoidForge — the hull, shielding, and propellant tanks that the VoidForge wears for the crossing. A single-engine fusion drive vessel capable of delivering a VoidForge across interstellar distance using no exotic physics, no giant sails, no jettison events. What it requires: a working fusion drive, a 550-year commitment, and a Solan crew that does not age.
@@ -193,6 +207,7 @@ The Voidweb is civilisation-scale asynchronous infrastructure operating under re
 | Stage | Mission | Vessel type | Key milestone |
 |-------|---------|-------------|---------------|
 | 0 | Pre-departure survey | Telescopic (Sol-based) | Destination characterised, no anomalous signals, approach geometry confirmed |
+| 0.5 | Route characterisation | Uncrewed probe at 0.02c | Route dust density and medium conditions empirically mapped; probe terminates in destination star |
 | 1 | Pioneer | Voidfarer — single vessel, single crew | Arrives intact, signals back |
 | 2 | Establishment | Voidfarer fleet | Independent node, self-sustaining without Sol |
 | 3 | Regular transit | Voidfarers and data transmission | Voidway open, Voidweb begins |
