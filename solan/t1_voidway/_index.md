@@ -71,7 +71,7 @@ The VoidForge sits at the rear of the Voidfarer — engine and industrial module
 
 The VoidForge ignites at the rear, burns for the acceleration phase, and pushes the Voidfarer to 0.02c. Then it goes dormant. The ship coasts in near-silence for ~500 years.
 
-Immediately after the acceleration burn, Solan engineers rotate the VoidForge within the Voidfarer's structure to its deceleration orientation — fuel lines disconnected, rotation completed, reconnected and verified before the cruise begins. The same VoidForge that pushed the Voidfarer out will decelerate it, exhaust exiting through forward-facing ports canted to clear the hull. The Voidfarer never turns around. The shield never moves from the front.
+Immediately after the acceleration burn, Solan engineers rotate the VoidForge within the Voidfarer's structure to its deceleration orientation — fuel lines disconnected, rotation completed, reconnected and verified while the cruise continues. The same VoidForge that pushed the Voidfarer out will decelerate it, exhaust exiting through forward-facing ports canted to clear the hull. The Voidfarer never turns around. The shield never moves from the front.
 
 At the destination the VoidForge separates. It does not retire — it goes to work. Prospecting the asteroid belt, moving mass, powering fabrication. The destination builds more VoidForges from local materials. The Voidway delivers one; the node builds the fleet.
 
@@ -91,13 +91,13 @@ The quoted 150 tonne figure refers to estimated cruise mass, not initial launch 
 
 **Physical scale**
 
-The ship runs 200-400 metres in length. One vessel departs; one vessel arrives.
+The ship runs approximately 200 metres in length. One vessel departs; one vessel arrives.
 
 Waste heat rejection is performed through the vessel hull itself rather than deployable radiator structures. The Voidfarer's several-hundred-metre spine and tank walls provide extensive external surface area for continuous low-intensity thermal rejection across the multi-decade deceleration phase. Because propulsion operates at low thrust over long duration, thermal loads are distributed across time rather than concentrated into short high-power events — the time itself is the heat sink. During cruise the vessel is edge-on to the interstellar medium, minimising impact cross-section while preserving substantial lateral radiative surface area. No kilometre-scale deployable arrays are required during transit.
 
 For a Solan crew, the 550-600 year transit is not a problem. It is just the journey.
 
-Centuries of silence. Then, near a distant sun, the ship wakes, turns its engine to face the star, and gently refuses to fall.
+Centuries of silence. Then, near a distant sun, the ship engines fire towards the star, and refuses to fall.
 
 **Assumption boundaries**
 
