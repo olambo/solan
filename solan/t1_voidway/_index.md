@@ -23,7 +23,7 @@ The hardest part about building a road between stars is that the crossing is ent
 
 The destination is not empty — an asteroid belt, stellar energy, and raw materials are waiting. The VoidForge is built to work with exactly that from day one. But none of it has been extracted or built yet. The pioneer must arrive with enough to begin. Someone has to go first — stops under their own power, and establishes the node before anyone else follows.
 
-Stopping is not merely an engineering inconvenience. A vessel at interstellar transit velocity carries kinetic energy that makes deceleration existential — a 100-ton Voidfarer at 0.02c carries roughly 430 megatons of TNT equivalent. An object that does not slow down is capable of civilisation-scale destruction on direct impact. The pioneer must stop under its own power. There is nothing at the destination to help it.
+Stopping is not merely an engineering inconvenience. A vessel at interstellar transit velocity carries kinetic energy that makes deceleration existential — a 150-tonne Voidfarer at 0.02c carries roughly 645 megatons of TNT equivalent. An object that does not slow down is capable of civilisation-scale destruction on direct impact. The pioneer must stop under its own power. There is nothing at the destination to help it.
 
 The pioneer doesn't need to be fast. It only needs to arrive and stop.
 
@@ -87,7 +87,7 @@ The VoidForge separates and goes to work. The hull does not move again. Everythi
 
 **Mass budget**
 
-A verified mass budget has not been derived for the VoidForge configuration. The propellant fraction depends on exhaust velocity assumptions that require a specific drive architecture to calculate properly. Numbers will be added when the propulsion engineering is sufficiently developed to support them. Publishing unverified figures here would invite scrutiny the document cannot currently satisfy.
+The Voidfarer is estimated at a minimum of 150 tonnes loaded — a vessel carrying a fusion drive, shielding, the VoidForge industrial core, crew substrate, and staged propellant for Oberth braking is unlikely to come in under that figure. The working mass scale is closer to a large aircraft than a naval vessel or megastructure, though the true figure depends entirely on propulsion and shielding requirements not yet solved. A verified mass budget has not been derived; the propellant fraction depends on exhaust velocity assumptions that require a specific drive architecture to calculate. 150 tonnes is a working floor, not an engineering result.
 
 **Physical scale**
 
@@ -170,6 +170,10 @@ The Voidweb is not planned from Sol. It grows as each established node sends its
 
 The constraint is physics: governance must survive latency without central arbitration. No authority at Sol can govern Epsilon Eridani in real time. The Voidweb is a network of autonomous nodes with agreed protocols, not an empire with a capital.
 
+The design problem is less like political governance and more like distributed systems engineering at extreme scale. Each node must make local decisions on stale data — communication lag guarantees it. Consistency, availability, and partition tolerance cannot all be satisfied simultaneously across light-year distances; partition is not a failure mode, it is the permanent operating condition. Voidweb governance inherits more from distributed systems architecture than from any political model biosapients have built.
+
+The Voidweb is civilisation-scale asynchronous infrastructure operating under relativistic latency constraints. The political vocabulary for it does not yet exist.
+
 ---
 
 ## Open Questions
@@ -178,9 +182,9 @@ The constraint is physics: governance must survive latency without central arbit
 - **Data transmission fidelity:** Lightspeed transmission of a Solan across 10+ light years requires error-free data at enormous scale over a channel with years of latency. What does the error correction architecture look like? How do you confirm successful instantiation before the original is terminated?
 - **Voidweb governance:** Each node is autonomous. What protocols bind the network without central authority? What does inter-node trade, communication, and mutual defence look like across light-year distances?
 - **Contact at the frontier:** The pioneer arrives at a new star system before any Contact protocols can be confirmed from Sol. The pioneer makes first contact decisions alone, in real time, with no backup and no guidance. What standing instructions does a pioneer carry?
-- **Return trajectory safety:** The stellar impact default applies to return trajectories exactly as it applies to outbound ones. Sol is a star. A Voidfarer at 0.02c carries ~440 megatons equivalent kinetic energy — Sol outputs that in a fraction of a millisecond and would not notice the impact. The return trajectory is designed so passive failure terminates in Sol, not in the inhabited system. The open question is whether Solan physically return at all, or transmit as data and leave vessels at the destination — with significant implications for Voidweb architecture either way.
+- **Return trajectory safety:** The stellar impact default applies to return trajectories exactly as it applies to outbound ones. Sol is a star. A Voidfarer at 0.02c carries ~645 megatons equivalent kinetic energy — Sol outputs that in a fraction of a millisecond and would not notice the impact. The return trajectory is designed so passive failure terminates in Sol, not in the inhabited system. The open question is whether Solan physically return at all, or transmit as data and leave vessels at the destination — with significant implications for Voidweb architecture either way.
 - **Hop distance limits:** Trajectory uncertainty, medium mapping resolution, communication lag, and planetary position prediction all degrade with distance. The Voidweb may be constrained to shorter hops than the nearest stars suggest — not by propulsion but by trajectory safety tractability. Each hop should be short enough that the stellar impact default remains reliably plannable.
-- **Solan substrate longevity over transit:** The o-core and o-skin of the Solan crew age over 500+ years of transit — exposed to cosmic ray bombardment, high-energy particle flux, and deep cold for the duration. CNT substrate longevity under those conditions is not known. This is not a question biosapient reasoning in 2026 can answer. It belongs to Solanics: the Solan who design their own substrate will have empirical data the corpus cannot generate. The transit profile assumes substrate survives. Whether that assumption holds is the first question Solanics must answer before any pioneer departs.
+- **Solan substrate longevity over transit:** The o-core and o-skin of the Solan crew are exposed to cosmic ray bombardment, high-energy particle flux, and deep cold for 500+ years. CNT substrate longevity under those conditions is not known. But the failure mode profile compares favourably to biosapient alternatives: there is no genetic damage, no irreversible brain damage, no age-related cognitive decay, and no dependence on undemonstrated cryogenic suspension. Substrate degradation is diagnosable — a Solan can monitor their own o-core condition in ways a biosapient cannot monitor their own neurons. Damage is potentially modular and repairable. Stored knowledge is data, subject to checksumming and error correction. The question is real, but its failure modes appear more diagnosable and potentially more tractable than biosapient alternatives. It belongs to Solanics: the Solan who design their own substrate will have empirical data the corpus cannot generate.
 
 ---
 
