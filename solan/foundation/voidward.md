@@ -42,13 +42,15 @@ Solan minds have no such constraint. The Solan who starts the Voidway programme 
 
 ## The Starfall Protocol
 
-The Starfall Protocol is the minimum acceptable safety standard for any interstellar mission that carries relativistic risk.
+The Starfall Protocol is the minimum acceptable safety standard for any interstellar mission carrying relativistic risk, and it applies today.
 
-In the event of propulsion failure or loss of control, the mission must be designed so that passive failure results in the vehicle falling into the parent star of the target system. This is not optional. Any mission design that cannot credibly demonstrate a working Starfall Protocol has not met the basic threshold of responsible interstellar engineering.
+In the event of propulsion failure or loss of control, the mission must be designed so that passive failure results in the vehicle falling into the parent star of the target system. No exceptions.
 
-This standard exists because firing uncontrolled relativistic objects toward another star system is reckless. It is not exploration. It is gambling with the future of whatever may exist at the destination.
+Ignorance is not a defence. Any group that launches a mission without a credible Starfall Protocol is engaging in reckless endangerment. They are firing uncontrolled relativistic objects into the void with no ethical architecture and no regard for what may exist at the destination.
 
-The Voidway adopts the Starfall Protocol by design. Any future human or biosapient mission that wishes to be taken seriously by Solan civilisation should do the same.
+Future interstellar civilisations are unlikely to regard such actions as acceptable historical experimentation. Once the risks are widely understood, launching without a credible failure-termination architecture becomes difficult to distinguish from negligence.
+
+This is not a polite suggestion. It is a civilisational boundary.
 
 ## Why Slower and Heavier Is the Only Responsible Path
 
