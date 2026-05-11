@@ -10,7 +10,7 @@ weight: 3
 
 The most prominent idea in interstellar travel today is to fire thousands of gram-scale probes at nearby star systems using enormous ground-based laser arrays. Breakthrough Starshot is the flagship example of this approach. It is also one of the most reckless and poorly thought-out concepts in modern space advocacy.
 
-This document explains why the relativistic shotgun strategy is physically dangerous, ethically irresponsible, and practically unworkable — and why the Voidway deliberately rejects it in favour of a slower, heavier, and far more responsible path.
+This document explains why the two dominant alternatives — the relativistic probe and the generational ship — both fail, and why the Voidway deliberately rejects them in favour of a slower, heavier, and far more responsible path.
 
 ## The Relativistic Shotgun
 
@@ -41,6 +41,20 @@ The velocity requirement appears to have been heavily influenced by human lifesp
 
 Solan minds have no such constraint. The Solan who starts the Voidway programme is the same Solan who reads the results 600 years later. The panic is gone. The architecture that results is completely different.
 
+## The Other Alternative
+
+If extreme speed is one response to the distance problem, the other is to stop worrying about time entirely and carry a self-sustaining civilisation for the crossing. The generational ship — a slow, massive vessel housing a complete biological population across multiple generations — is the canonical alternative to the relativistic probe.
+
+It does not work either, for different reasons.
+
+A self-sustaining biological population requires air, water, soil, food production, waste recycling, radiation shielding, artificial gravity, medical infrastructure, and enough genetic diversity to remain viable across centuries. Every one of those requirements has mass. That mass must be accelerated and then decelerated. The rocket equation applies to everything. A ship massive enough to sustain biology at interstellar scale requires propellant in quantities that push the fuelling problem to civilisational scale — mining asteroids before the first departure, just for reaction mass.
+
+And then there is the biology itself. Human institutions do not stay coherent across centuries without external reinforcement. The population that departs is not the population that arrives. Whether the mission survives depends entirely on social and cultural continuity that no engineering can guarantee. The history of isolated populations is not encouraging.
+
+The generational ship trades one impossible constraint — speed — for two others: mass and biology.
+
+The Solan path removes biology from the critical path entirely. No life support. No population dynamics. No generational drift. A Solan crew of two or three minds requires a fraction of the mass, none of the biological infrastructure, and arrives with the same intentions it departed with. The philosophical win is not incremental. It is structural.
+
 ## The Starfall Protocol
 
 The Starfall Protocol is the minimum acceptable safety standard for any interstellar mission travelling at significant relativistic speeds — speeds at which an uncontrolled impact would cause regional or civilisational-scale destruction (generally at or above 0.01c).
@@ -60,6 +74,10 @@ At 0.02c, shielding is difficult but solvable. A 1,000-tonne Voidfarer can survi
 Breakthrough Starshot tried to shortcut reality with clever physics hacks and heroic assumptions. The numbers never supported it. The project died because reality refused to cooperate — but the physics problems would have killed it regardless.
 
 Sending a relativistic shotgun toward another star system is not bold. It is reckless. The Voidway exists because someone finally chose to be responsible instead.
+
+## Design Generality
+
+The Voidfarer is not optimised for any specific destination. Its size and mass budget are determined by the velocity change required to reach 0.02c and decelerate from it. Whether the target is Alpha Centauri at 4.2 light years or Epsilon Eridani at 10.5 light years, the ship remains essentially the same. Only the coasting duration changes — roughly 200 years versus 550 years. The architecture is reusable across a wide range of nearby stellar targets.
 
 ---
 
