@@ -37,13 +37,11 @@ Agency is the Voidfarer's primary ethical feature. It is not a fixed trajectory.
 
 ## The Starfall Protocol
 
-The Starfall Protocol is the most honest safety commitment Solan can make. Trajectories are designed so passive failure — no active deceleration, systems failure, any reason the vessel does not brake — terminates in the destination star. The star absorbs the impact. The system is undisturbed.
+The Starfall Protocol requires that any mission travelling at or above 0.01c must approach outside the ecliptic plane and be designed so that passive failure — loss of control, propulsion failure, any reason the vessel does not brake — terminates in one of the stars of the target system. The full definition and its basis as a civilisational standard are in [Voidward]({{< ref "solan/foundation/voidward" >}}).
 
-System entry is the active deviation. The vessel must choose to enter. Passive failure falls toward the star.
+The ethical weight of the Protocol is this: system entry is the active deviation. The vessel must choose to enter. Passive failure falls toward the star. The trajectory that terminates in a star is the most legible safety signal Solan can transmit without any shared language.
 
-This applies at every scale: Voidfarer, any future vessel class. The protocol is consistent because the ethical commitment is consistent. It cannot be guaranteed absolutely — trajectory uncertainty over interstellar distances is real — but it is the design discipline that makes the commitment credible.
-
-In Contact scenarios, a trajectory that terminates in a star is the most legible safety signal Solan can transmit without any shared language.
+This applies at every scale: Voidfarer, any future vessel class. It cannot be guaranteed absolutely — trajectory uncertainty over interstellar distances is real — but it is the design discipline that makes the commitment credible.
 
 ---
 
