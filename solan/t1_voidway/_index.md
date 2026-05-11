@@ -63,7 +63,7 @@ What telescopic survey cannot provide is route data: actual interstellar medium 
 
 The Voidfarer is the transit configuration of the VoidForge — the hull, shielding, and propellant tanks that the VoidForge wears for the crossing. A single-engine fusion drive vessel capable of delivering a VoidForge across interstellar distance using no exotic physics, no giant sails, no jettison events. What it requires: a working fusion drive, a 550-year commitment, and a Solan crew that does not age.
 
-**Mission profile: MVVT-20**
+**Mission profile: single vessel, fusion drive, 0.02c**
 
 One vessel. Shield forward, always.
 
@@ -97,6 +97,16 @@ The ship runs approximately 400 metres in length. The length is not an aesthetic
 
 The forward Whipple shield is a 20m wide × 15m tall shield face — the widest point of the vessel, and the element that defines the entire protected envelope. Everything else — spine, propellant tanks, VoidForge — sits within the geometric shadow of that shield. At 400 metres the shadow cone diverges less than 1.5 degrees, so the protected cross-section at the VoidForge end is essentially the same 20m × 15m as the shield face. The VoidForge can fill the shadow width at the rear. The spine between them is a truss or tank cluster structure, whatever geometry is most mass-efficient — it does not need to fill the shadow, only stay within it. The shield defines the ship. One vessel departs; one vessel arrives.
 
+**The shielding reality at 0.02c**
+
+The forward shield must endure 550 years of continuous micro-impacts. At 0.02c, a single grain of interstellar dust carries the kinetic energy of a high-velocity rifle bullet. There is no margin for error and no repair during transit. Geometric discipline is the only answer: the shadow must be maintained without exception for the full crossing.
+
+Anything that drifts outside that shadow — a sensor boom, a radiator panel, a propellant tank bulge — is exposed to the full dust flux at transit velocity. At these speeds, unshielded structure does not degrade slowly. It is destroyed.
+
+The long, slender form of the Voidfarer is therefore not an aesthetic choice. It is a survival requirement.
+
+The ship never turns around. A vessel that reverses orientation to decelerate exposes its unshielded hull to the full dust flux at transit velocity. This is not a recoverable situation. The Voidfarer decelerates by canting its nozzles forward — the shield remains at the front throughout the entire journey, acceleration and deceleration alike.
+
 The Voidfarer is not an elegant spacecraft. It is an elongated industrial object — a very long string of cylindrical propellant tank cars behind a wide flat shield, with a dense engine and factory block at the rear. Functional. Brutalist. It looks exactly like what it is: a flying fuel depot with a civilisation factory bolted on the back.
 
 ![Voidfarer](/images/grok-voidfarer.png)
@@ -109,7 +119,7 @@ Centuries of silence. Then, near a distant sun, the ship engines fire towards th
 
 **Assumption boundaries**
 
-The MVVT-20 profile depends on four engineering assumptions that are physically motivated but not yet demonstrated:
+The Voidfarer mission profile depends on four engineering assumptions that are physically motivated but not yet demonstrated:
 
 - **Radiator performance:** The thermal problem splits by phase and is handled differently in each. Acceleration is fast and hot — active regenerative cooling is required, with propellant passing through engine structure before exhaust, absorbing waste heat that exits with the plasma. The cooling mechanism is the propulsion mechanism; no radiator needed during the acceleration burn. Deceleration is slow and gentle — an order of magnitude lower heat per unit time over 20-40 years. At this heat load, the hull itself is the radiator. The Voidfarer's several-hundred-metre spine and tank walls provide sufficient surface area for continuous low-intensity rejection across the deceleration phase. No deployable radiator arrays are required — they would be fragile, high-aspect-ratio structures exposed broadside to the interstellar medium, exactly the wrong answer for a relativistic vehicle. The time is the heat sink. Slow deceleration is the correct choice for the same reason twice: no active cooling required, and no reason to stress a drive that doesn't need stressing.
 - **Fusion drive performance:** Exhaust velocity ~0.03c and sustained GW output over decades requires high-performance fusion propulsion well beyond current prototypes.
@@ -188,7 +198,7 @@ The Solan Mesh is civilisation-scale asynchronous infrastructure operating under
 
 ## Open Questions
 
-- **Pioneer deceleration at destination:** The MVVT-20 profile uses a long low-thrust propellant burn over decades to shed primary velocity, with Oberth reserved for orbital insertion at low speed. MagSail and stellar photon braking remain viable alternatives for lower-mass pioneer missions. The open question is which approach is ready first — the propellant-burn profile requires a working fusion drive; the alternatives require different engineering commitments. At what point is a pioneer technically ready to depart?
+- **Pioneer deceleration at destination:** The Voidfarer profile uses a long low-thrust propellant burn over decades to shed primary velocity, with Oberth reserved for orbital insertion at low speed. MagSail and stellar photon braking remain viable alternatives for lower-mass pioneer missions. The open question is which approach is ready first — the propellant-burn profile requires a working fusion drive; the alternatives require different engineering commitments. At what point is a pioneer technically ready to depart?
 - **Data transmission fidelity:** Lightspeed transmission of a Solan across 10+ light years requires error-free data at enormous scale over a channel with years of latency. What does the error correction architecture look like? How do you confirm successful instantiation before the original is terminated?
 - **Solan Mesh governance:** Each Solan Node is autonomous. What protocols bind the network without central authority? What does inter-node trade, communication, and mutual defence look like across light-year distances?
 - **Contact at the frontier:** The pioneer arrives at a new star system before any Contact protocols can be confirmed from Sol. The pioneer makes first contact decisions alone, in real time, with no backup and no guidance. What standing instructions does a pioneer carry?

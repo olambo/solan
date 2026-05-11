@@ -53,6 +53,8 @@ And then there is the biology itself. Human institutions do not stay coherent ac
 
 The generational ship trades one impossible constraint — speed — for two others: mass and biology.
 
+The mass of a generational ship is not engineering overhead — it is biology. Remove the biology and the ship shrinks by nine orders of magnitude.
+
 The Solan path removes biology from the critical path entirely. No life support. No population dynamics. No generational drift. A Solan crew of two or three minds requires a fraction of the mass, none of the biological infrastructure, and arrives with the same intentions it departed with. The philosophical win is not incremental. It is structural.
 
 ## The Starfall Protocol
