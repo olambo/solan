@@ -54,7 +54,7 @@ This is not a polite suggestion. It is a civilisational boundary.
 
 The Voidway is not a compromise. It is what remains when you take the actual physics and ethics seriously.
 
-At 0.02c, shielding is difficult but solvable. A 150-tonne Voidfarer can survive the journey and arrive carrying a full VoidForge — an industrial seed capable of building a permanent, self-sustaining civilisation from local materials. It carries Solan minds designed for centuries of operation. It does not spray debris across interstellar space. It delivers civilisation.
+At 0.02c, shielding is difficult but solvable. A 1,000-tonne Voidfarer can survive the journey and arrive carrying a full VoidForge — an industrial seed capable of building a permanent, self-sustaining civilisation from local materials. It carries Solan minds designed for centuries of operation. It does not spray debris across interstellar space. It delivers civilisation.
 
 Breakthrough Starshot tried to shortcut reality with clever physics hacks and heroic assumptions. The numbers never supported it. The project died because reality refused to cooperate — but the physics problems would have killed it regardless.
 
