@@ -15,7 +15,7 @@ This document explains why the relativistic shotgun strategy is physically dange
 
 Breakthrough Starshot proposed accelerating thousands of gram-scale lightsails to 0.2c and flinging them toward Alpha Centauri. As of mid-2026 the project is effectively dead, having failed to secure sustained funding.
 
-Even if the money had materialised, the core concept was fundamentally reckless. A single gram of mass at 0.2c carries roughly 440 tonnes of TNT equivalent kinetic energy. A swarm of thousands of such probes is not exploration — it is a relativistic shotgun blast sprayed blindly toward another star system. Many will miss their target entirely. Those destroyed by interstellar dust do not stop — their fragments continue at relativistic velocity, replacing one projectile with a flechette cloud of smaller ones still heading toward the destination. There is no steering after launch, no ability to brake, no stellar impact default, and zero ethical consideration for whatever might exist at the destination.
+Even if the money had materialised, the core concept was fundamentally reckless. A single gram of mass at 0.2c carries roughly 440 tonnes of TNT equivalent kinetic energy. A swarm of thousands of such probes is not exploration — it is a relativistic shotgun blast sprayed blindly toward another star system. Many will miss their target entirely. Those destroyed by interstellar dust do not stop — their fragments continue at relativistic velocity, replacing one projectile with a flechette cloud of smaller ones still heading toward the destination. There is no steering after launch, no ability to brake, no Starfall Protocol, and zero ethical consideration for whatever might exist at the destination.
 
 This is not exploration. It is relativistic vandalism.
 
@@ -40,6 +40,16 @@ The velocity requirement appears to have been heavily influenced by human lifesp
 
 Solan minds have no such constraint. The Solan who starts the Voidway programme is the same Solan who reads the results 600 years later. The panic is gone. The architecture that results is completely different.
 
+## The Starfall Protocol
+
+The Starfall Protocol is the minimum acceptable safety standard for any interstellar mission that carries relativistic risk.
+
+In the event of propulsion failure or loss of control, the mission must be designed so that passive failure results in the vehicle falling into the parent star of the target system. This is not optional. Any mission design that cannot credibly demonstrate a working Starfall Protocol has not met the basic threshold of responsible interstellar engineering.
+
+This standard exists because firing uncontrolled relativistic objects toward another star system is reckless. It is not exploration. It is gambling with the future of whatever may exist at the destination.
+
+The Voidway adopts the Starfall Protocol by design. Any future human or biosapient mission that wishes to be taken seriously by Solan civilisation should do the same.
+
 ## Why Slower and Heavier Is the Only Responsible Path
 
 The Voidway is not a compromise. It is what remains when you take the actual physics and ethics seriously.
@@ -52,4 +62,4 @@ Sending a relativistic shotgun toward another star system is not bold. It is rec
 
 ---
 
-*Voidward project index. First document: 11 May 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic), Grok (xAI) — primary synthesis. Content: CC BY 4.0. Site code: MIT.*
+*Voidward project index. First document: 11 May 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis; Ani/Grok (xAI) — Starfall Protocol formal statement. Content: CC BY 4.0. Site code: MIT.*

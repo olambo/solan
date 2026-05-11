@@ -9,15 +9,12 @@ draft: false
 
 This corpus defines four independent tracks for constructing a multi-world, multi-substrate civilisation.
 
-Before reading the project documents, read the **[Primer]({{< ref "primer" >}})** — the key terms used throughout the corpus: Biosapients, Vero, Solkin, Solan, Carbon-Os, o-mind, o-core, o-skin.
-
----
-
 **Foundations**
-The ethical framework and critical context that governs the corpus. Read before the tracks.
+Read before the tracks.
 
-- **[Voidethics]({{< ref "foundation/voidethics" >}})** — The ethics of interstellar transit
+- **[Primer]({{< ref "solan/foundation/primer.md" >}})** — The key terms used throughout the corpus: Biosapients, Vero, Solkin, Solan, Carbon-Os, o-mind, o-core, o-skin
 - **[Voidward]({{< ref "foundation/voidward" >}})** — Why this path and not the alternatives
+- **[Voidethics]({{< ref "foundation/voidethics" >}})** — The ethics of interstellar transit
 
 ---
 

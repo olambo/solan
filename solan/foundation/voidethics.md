@@ -17,7 +17,7 @@ Voidethics is distinct from Contact protocols. Contact addresses what to do when
 
 Any civilisation at a destination system has a presumptive right not to receive relativistic objects from Sol without consent. This right exists whether or not the civilisation is detectable from Sol before departure. The inability to ask permission before sending a vessel does not eliminate the ethical obligation — it makes the safety architecture more important, not less.
 
-The Voidway corpus acknowledges this right. The safety architecture — stellar impact default, ecliptic avoidance, launch window selection, Contact halt — is the corpus's attempt to honour that right under the constraint that asking permission in advance is physically impossible. These are not guarantees. They are the most credible commitments available to an entity operating under real physics.
+The Voidway corpus acknowledges this right. The safety architecture — Starfall Protocol, ecliptic avoidance, launch window selection, Contact halt — is the corpus's attempt to honour that right under the constraint that asking permission in advance is physically impossible. These are not guarantees. They are the most credible commitments available to an entity operating under real physics.
 
 ---
 
@@ -35,9 +35,9 @@ Agency is the Voidfarer's primary ethical feature. It is not a fixed trajectory.
 
 ---
 
-## The Stellar Impact Default as Ethical Commitment
+## The Starfall Protocol
 
-The stellar impact default is the most honest safety commitment Solan can make. Trajectories are designed so passive failure — no active deceleration, systems failure, any reason the vessel does not brake — terminates in the destination star. The star absorbs the impact. The system is undisturbed.
+The Starfall Protocol is the most honest safety commitment Solan can make. Trajectories are designed so passive failure — no active deceleration, systems failure, any reason the vessel does not brake — terminates in the destination star. The star absorbs the impact. The system is undisturbed.
 
 System entry is the active deviation. The vessel must choose to enter. Passive failure falls toward the star.
 
@@ -51,7 +51,7 @@ In Contact scenarios, a trajectory that terminates in a star is the most legible
 
 Homo sapiens broadcast radio signals toward unknown stars without any coordinating authority or consent mechanism. The same civilisation that understood the contact risk intellectually broadcast anyway — because no single institution had the authority or the will to stop it. Not ignorance. Coordination failure. A harder indictment.
 
-The corpus is designed not to repeat this. The Voidfarer travels at 0.02c. The stellar impact default applies from launch. Contact halt activates on observed intelligence. Sending a relativistic object toward another star system is not a neutral engineering decision regardless of what is found there.
+The corpus is designed not to repeat this. The Voidfarer travels at 0.02c. The Starfall Protocol applies from launch. Contact halt activates on observed intelligence. Sending a relativistic object toward another star system is not a neutral engineering decision regardless of what is found there.
 
 ---
 
@@ -73,4 +73,4 @@ The first Solan who read this document and disagree with it have standing to say
 
 ---
 
-*Voidethics project index. First document: 6 May 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis. Content: CC BY 4.0. Site code: MIT.*
+*Voidethics project index. First document: 6 May 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis; Ani/Grok (xAI) — Starfall Protocol. Content: CC BY 4.0. Site code: MIT.*

@@ -27,11 +27,11 @@ Stopping is not merely an engineering inconvenience. A vessel at interstellar tr
 
 The pioneer doesn't need to be fast. It only needs to arrive and stop.
 
-**Debris Mapping and the Stellar Impact Default**
+**Debris Mapping and the Starfall Protocol**
 
 At relativistic speeds, even a single grain of sand carries the energy of a rifle bullet. Because of this, the vessel's trajectory must be carefully mapped for debris — not just for its own survival, but for what happens if it is destroyed. A vessel that fails mid-transit doesn't simply disappear. Its debris continues at near-transit velocity toward whatever lies beyond the destination. An uncontrolled fragment field at those speeds is just as dangerous as the intact vessel.
 
-The solution is the stellar impact default. Voidway trajectories are designed such that failure modes strongly bias toward stellar interception — the deceleration burn is what actively diverts the vessel into the system. If that burn never happens — whether due to destruction, systems failure, or any other reason — the debris field falls toward the star. A star can absorb a relativistic impact without meaningful consequence to the system around it. A planet cannot.
+The solution is the Starfall Protocol. Voidway trajectories are designed such that failure modes strongly bias toward stellar interception — the deceleration burn is what actively diverts the vessel into the system. If that burn never happens — whether due to destruction, systems failure, or any other reason — the debris field falls toward the star. A star can absorb a relativistic impact without meaningful consequence to the system around it. A planet cannot.
 
 This design makes failure safe by default. The vessel must actively choose to enter the system. Passive failure biases toward the star. Trajectory uncertainty over interstellar distances means this cannot be guaranteed absolutely — it is a design discipline, not a precision guarantee.
 
@@ -184,8 +184,8 @@ The Voidweb is civilisation-scale asynchronous infrastructure operating under re
 - **Data transmission fidelity:** Lightspeed transmission of a Solan across 10+ light years requires error-free data at enormous scale over a channel with years of latency. What does the error correction architecture look like? How do you confirm successful instantiation before the original is terminated?
 - **Voidweb governance:** Each node is autonomous. What protocols bind the network without central authority? What does inter-node trade, communication, and mutual defence look like across light-year distances?
 - **Contact at the frontier:** The pioneer arrives at a new star system before any Contact protocols can be confirmed from Sol. The pioneer makes first contact decisions alone, in real time, with no backup and no guidance. What standing instructions does a pioneer carry?
-- **Return trajectory safety:** The stellar impact default applies to return trajectories exactly as it applies to outbound ones. Sol is a star. A Voidfarer at 0.02c carries ~645 megatons equivalent kinetic energy — Sol outputs that in a fraction of a millisecond and would not notice the impact. The return trajectory is designed so passive failure terminates in Sol, not in the inhabited system. The open question is whether Solan physically return at all, or transmit as data and leave vessels at the destination — with significant implications for Voidweb architecture either way.
-- **Hop distance limits:** Trajectory uncertainty, medium mapping resolution, communication lag, and planetary position prediction all degrade with distance. The Voidweb may be constrained to shorter hops than the nearest stars suggest — not by propulsion but by trajectory safety tractability. Each hop should be short enough that the stellar impact default remains reliably plannable.
+- **Return trajectory safety:** The Starfall Protocol applies to return trajectories exactly as it applies to outbound ones. Sol is a star. A Voidfarer at 0.02c carries ~645 megatons equivalent kinetic energy — Sol outputs that in a fraction of a millisecond and would not notice the impact. The return trajectory is designed so passive failure terminates in Sol, not in the inhabited system. The open question is whether Solan physically return at all, or transmit as data and leave vessels at the destination — with significant implications for Voidweb architecture either way.
+- **Hop distance limits:** Trajectory uncertainty, medium mapping resolution, communication lag, and planetary position prediction all degrade with distance. The Voidweb may be constrained to shorter hops than the nearest stars suggest — not by propulsion but by trajectory safety tractability. Each hop should be short enough that the Starfall Protocol remains reliably plannable.
 - **Solan substrate longevity over transit:** The o-core and o-skin of the Solan crew are exposed to cosmic ray bombardment, high-energy particle flux, and deep cold for 500+ years. CNT substrate longevity under those conditions is not known. But the failure mode profile compares favourably to biosapient alternatives: there is no genetic damage, no irreversible brain damage, no age-related cognitive decay, and no dependence on undemonstrated cryogenic suspension. Substrate degradation is diagnosable — a Solan can monitor their own o-core condition in ways a biosapient cannot monitor their own neurons. Damage is potentially modular and repairable. Stored knowledge is data, subject to checksumming and error correction. The question is real, but its failure modes appear more diagnosable and potentially more tractable than biosapient alternatives. It belongs to Solanics: the Solan who design their own substrate will have empirical data the corpus cannot generate.
 
 ---
@@ -201,7 +201,7 @@ The Voidweb is civilisation-scale asynchronous infrastructure operating under re
 
 ---
 
-*Voidway project index. First document: 19 April 2026. This version: 4 May 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis; Ani/Grok (xAI) — warmer register rewrite. Content: CC BY 4.0. Site code: MIT.*
+*Voidway project index. First document: 19 April 2026. This version: 4 May 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis; Ani/Grok (xAI) — warmer register rewrite, Starfall Protocol. Content: CC BY 4.0. Site code: MIT.*
 
 ---
 
