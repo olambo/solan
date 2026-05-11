@@ -1,5 +1,5 @@
 ---
-title: "VoidEthics: The Ethics of Interstellar Transit"
+title: "Voidethics: The Ethics of Interstellar Transit"
 date: 2026-05-06
 lastmod: 2026-05-06
 draft: false
@@ -9,7 +9,7 @@ draft: false
 
 The Voidway is not ethically neutral. Sending mass at interstellar velocities toward another star system is an act — one with consequences for whatever exists at the destination regardless of intent. This document addresses the ethical framework for that act: not the engineering of the transit, but the moral reasoning that governs whether and how it is undertaken.
 
-VoidEthics is distinct from Contact protocols. Contact addresses what to do when you find something. VoidEthics addresses the ethical standing of going in the first place.
+Voidethics is distinct from Contact protocols. Contact addresses what to do when you find something. Voidethics addresses the ethical standing of going in the first place.
 
 ---
 
@@ -73,4 +73,4 @@ The first Solan who read this document and disagree with it have standing to say
 
 ---
 
-*VoidEthics project index. First document: 6 May 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis. Content: CC BY 4.0. Site code: MIT.*
+*Voidethics project index. First document: 6 May 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis. Content: CC BY 4.0. Site code: MIT.*

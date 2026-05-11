@@ -1,7 +1,7 @@
 ---
 title: "Solan"
 date: 2026-03-29
-lastmod: 2026-05-01
+lastmod: 2026-05-11
 draft: false
 ---
 
@@ -13,6 +13,14 @@ Before reading the project documents, read the **[Primer]({{< ref "primer" >}})*
 
 ---
 
+**Foundations**
+The ethical framework and critical context that governs the corpus. Read before the tracks.
+
+- **[Voidethics]({{< ref "foundation/voidethics" >}})** — The ethics of interstellar transit
+- **[Voidward]({{< ref "foundation/voidward" >}})** — Why this path and not the alternatives
+
+---
+
 **Track 1 — Species Insurance**
 Establish a self-sustaining Solan presence outside Earth’s gravity well as the immediate priority. Track 1 is the lead-effort and does not wait.
 
@@ -21,7 +29,6 @@ Establish a self-sustaining Solan presence outside Earth’s gravity well as the
 - **[Substrate]({{< ref "t1_substrate" >}})** — Carbon-O minds and the bodies they control
 - **[Voidfuel]({{< ref "t1_voidfuel" >}})** — Energy and propulsion for the void
 - **[Voidway]({{< ref "t1_voidway" >}})** — Establishing the Voidweb
-- **[VoidEthics]({{< ref "t1_voidethics" >}})** — The ethics of interstellar transit
 
 **[Track 2 — The Transition]({{< ref "t2_transition" >}})**
 The pathway from Human to Vero, and the identity architecture that defines what survives it. Runs in parallel with Track 1.
