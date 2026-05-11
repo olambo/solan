@@ -25,7 +25,7 @@ Establish a self-sustaining Solan presence outside Earth’s gravity well as the
 - **[Solanics]({{< ref "t1_solanics" >}})** — The science and engineering of the Solan civilisation
 - **[Substrate]({{< ref "t1_substrate" >}})** — Carbon-O minds and the bodies they control
 - **[Voidfuel]({{< ref "t1_voidfuel" >}})** — Energy and propulsion for the void
-- **[Voidway]({{< ref "t1_voidway" >}})** — Establishing the Voidweb
+- **[Voidway]({{< ref "t1_voidway" >}})** — Establishing the Solan Mesh
 
 **[Track 2 — The Transition]({{< ref "t2_transition" >}})**
 The pathway from Human to Vero, and the identity architecture that defines what survives it. Runs in parallel with Track 1.

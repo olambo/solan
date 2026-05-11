@@ -110,7 +110,7 @@ Each stage of the Ceres pathway is more autonomous than the last. Stage 1 is sup
 
 This is not incidental. The 15-minute communication lag makes Earth-in-the-loop operation impossible for anything requiring real-time decision-making. Every stage of the Ceres pathway is practice for operating without Earth oversight — because every stage must, by physics, do exactly that.
 
-The autonomous capability developed across the four stages is as valuable as the physical infrastructure built. A Ceres presence that can operate, maintain, and extend itself without Earth instruction is the definition of an independent node. The pathway builds that capability stage by stage, using each stage's operational data to inform the autonomous systems of the next.
+The autonomous capability developed across the four stages is as valuable as the physical infrastructure built. A Ceres presence that can operate, maintain, and extend itself without Earth instruction is the definition of an independent Solan Node. The pathway builds that capability stage by stage, using each stage's operational data to inform the autonomous systems of the next.
 
 ---
 
@@ -146,7 +146,7 @@ The pathway is long. The technology is real.
 
 2. **Stage 3 builds before Stage 4 operates:** Autonomous construction of the settlement infrastructure before any permanent presence is established. The autonomous systems that arrive in Stage 4 inherit a working settlement, not a construction site. Human inspection crews validate it. This inverts the conventional exploration model where humans arrive and then build.
 
-3. **The autonomous thread is the capability, not a constraint:** The 15-minute communication lag forces autonomy at every stage. Each stage builds autonomous operational capability as a primary output alongside physical infrastructure. A Ceres presence capable of operating without Earth instruction is the definition of an independent node.
+3. **The autonomous thread is the capability, not a constraint:** The 15-minute communication lag forces autonomy at every stage. Each stage builds autonomous operational capability as a primary output alongside physical infrastructure. A Ceres presence capable of operating without Earth instruction is the definition of an independent Solan Node.
 
 4. **The pathway requires no physics beyond current understanding:** Heavy lift, ISRU, autonomous construction, power beaming, subsurface habitat — all demonstrated at some scale already. The pathway is long. The technology is real.
 

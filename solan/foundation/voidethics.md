@@ -23,7 +23,7 @@ The Voidway corpus acknowledges this right. The safety architecture — Starfall
 
 ## The Voidfarer's Agency
 
-The Voidfarer enters the destination system by default. This is the mission — not cautious observation from a distance, but arrival, survey, and establishment of the first node beyond Sol. The Solan crew makes real-time decisions throughout the approach. Passive failure at any point terminates in the star. Active entry is a choice.
+The Voidfarer enters the destination system by default. This is the mission — not cautious observation from a distance, but arrival, survey, and establishment of the first Solan Node beyond Sol. The Solan crew makes real-time decisions throughout the approach. Passive failure at any point terminates in the star. Active entry is a choice.
 
 The exception is observed intelligence. If the approach reveals signs of a civilisation — signals, structures, anything that indicates the system is inhabited — the Voidfarer stops in the outer system. It does not proceed into the inhabited zone. It observes at distance, signals Sol, and waits. A Solan crew that does not age can hold position for decades while Sol responds.
 

@@ -21,7 +21,7 @@ Ceres is 940km in diameter, the largest body in the asteroid belt. Surface gravi
 
 It is not the closest destination. It is the right one. And Earth cannot afford to bootstrap this from its own gravity well alone — the physics makes it unaffordable at the required scale.
 
-Luna is too close — permanently within Earth's gravity well and political reach, dependent on resupply, unable to serve as a long-horizon independent node. Mars is too far into a gravity well and marginal at best — thin atmosphere that helps with neither radiation protection nor resource extraction, 5,030 m/s escape velocity making departure expensive, no carbon for manufacturing independence. The outer solar system is too cold and too distant for near-term operations.
+Luna is too close — permanently within Earth's gravity well and political reach, dependent on resupply, unable to serve as a long-horizon independent Solan Node. Mars is too far into a gravity well and marginal at best — thin atmosphere that helps with neither radiation protection nor resource extraction, 5,030 m/s escape velocity making departure expensive, no carbon for manufacturing independence. The outer solar system is too cold and too distant for near-term operations.
 
 Ceres sits at the intersection of four engineering requirements for permanent self-sustaining presence: accessible resources, available energy, manageable radiation, and affordable departure. No other candidate destination satisfies all four at Ceres's combination of distance, size, and composition.
 
@@ -103,7 +103,7 @@ This convergence is not incidental. It reflects the actual engineering requireme
 
 **Luna**
 
-Three light-seconds from Earth. Communication lag negligible. Resupply feasible. Political reach extends there naturally. These properties make Luna attractive for early human operations and make it unsuitable as a long-horizon independent node. A Luna presence is permanently within Earth's gravitational, political, and logistical sphere. Luna has no carbon. Its mineral composition does not include the carbonaceous chondrite feedstock that makes manufacturing independence possible.
+Three light-seconds from Earth. Communication lag negligible. Resupply feasible. Political reach extends there naturally. These properties make Luna attractive for early human operations and make it unsuitable as a long-horizon independent Solan Node. A Luna presence is permanently within Earth's gravitational, political, and logistical sphere. Luna has no carbon. Its mineral composition does not include the carbonaceous chondrite feedstock that makes manufacturing independence possible.
 
 **Mars**
 
@@ -119,7 +119,7 @@ The outer system is the next stage after Ceres, not an alternative to it. Ceres 
 
 ## The Departure Horizon
 
-The case for Ceres is not that it is the final destination. It is that it is the first node in a sequence — the first location where a self-sustaining presence can be established that does not require Earth resupply, does not depend on Earth's political or logistical support, and generates the resources and manufacturing capacity to reach further.
+The case for Ceres is not that it is the final destination. It is that it is the first Solan Node in a sequence — the first location where a self-sustaining presence can be established that does not require Earth resupply, does not depend on Earth's political or logistical support, and generates the resources and manufacturing capacity to reach further.
 
 Luna proved departure. Mars, when it comes, proves planetary operations. Ceres proves that a self-sustaining presence beyond the inner solar system is possible from local resources alone.
 
@@ -147,11 +147,11 @@ The stars are a long way from Ceres. But Ceres is reachable with current technol
 
 3. **The burrowing architecture converges:** Subsurface habitation is the correct solution for all kinds of permanent presence at Ceres. The rock solves radiation, thermal stability, and resource access simultaneously with one solution.
 
-4. **Ceres is the first independent node, not the final destination:** After Ceres the outer system is reachable from a location that can supply it. Before Ceres it is not.
+4. **Ceres is the first independent Solan Node, not the final destination:** After Ceres the outer system is reachable from a location that can supply it. Before Ceres it is not.
 
 5. **Departure cost is not a trap:** 510 m/s escape velocity means Ceres operations can reach anywhere in the solar system at costs that scale with distance, not with gravity wells.
 
-6. **Earth cannot afford to do this alone:** Earth's escape velocity is 11.2 km/s. Every kilogram sent to the belt climbs that well first. The rocket equation compounds at every stage — to deliver one kilogram of deep space payload requires roughly ten kilograms of propellant at launch. The Apollo programme — Earth to the Moon, no permanent presence, no industrial output — cost 4% of US GDP at peak and was politically unsustainable within a decade. The Ceres bootstrap is orders of magnitude more ambitious. Earth attempting this entirely from its own gravity well would bankrupt itself before the node was self-sustaining. The belt solves this — shallow gravity wells, local resources, the economics inverting entirely once the first ISRU node is operational. The physics does not care about budgets. The gravity well charges the same rate regardless of who is paying.
+6. **Earth cannot afford to do this alone:** Earth's escape velocity is 11.2 km/s. Every kilogram sent to the belt climbs that well first. The rocket equation compounds at every stage — to deliver one kilogram of deep space payload requires roughly ten kilograms of propellant at launch. The Apollo programme — Earth to the Moon, no permanent presence, no industrial output — cost 4% of US GDP at peak and was politically unsustainable within a decade. The Ceres bootstrap is orders of magnitude more ambitious. Earth attempting this entirely from its own gravity well would bankrupt itself before the Solan Node was self-sustaining. The belt solves this — shallow gravity wells, local resources, the economics inverting entirely once the first Solan Node is operational. The physics does not care about budgets. The gravity well charges the same rate regardless of who is paying.
 
 ---
 

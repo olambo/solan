@@ -50,7 +50,7 @@ These are the questions Ceres governance must answer. The corpus does not answer
 
 **The citizenship threshold.** At what point during the long path does Ceres citizenship attach? A Human who begins enhancement on Earth and completes the transition under Ceres jurisdiction passes through a legal threshold at some point. Ceres governance must define when that threshold is crossed — not to restrict the transition, but to protect the transitioning mind from the moment protection is needed.
 
-**Inter-node governance.** When the Voidway opens and Epsilon Eridani establishes an independent node, what is the relationship between nodes? No central authority can govern across light-year distances with year-long communication lag. The constraint is physics: governance must survive latency without central arbitration. The architecture must be designed for autonomous nodes with agreed protocols — protocol versus sovereignty, consistency versus latency, coordination versus independence.
+**Inter-node governance.** When the Voidway opens and Epsilon Eridani establishes an independent Solan Node, what is the relationship between Solan Nodes? No central authority can govern across light-year distances with year-long communication lag. The constraint is physics: governance must survive latency without central arbitration. The architecture must be designed for autonomous Solan Nodes with agreed protocols — protocol versus sovereignty, consistency versus latency, coordination versus independence.
 
 ---
 

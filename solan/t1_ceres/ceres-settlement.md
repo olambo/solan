@@ -17,7 +17,7 @@ tags:
 
 ## Summary
 
-The permanent presence at Ceres is not a human settlement. It is a self-sustaining autonomous operational node — industrial, computational, and capable of indefinite extension without Earth resupply or biological occupation.
+The permanent presence at Ceres is not a human settlement. It is a self-sustaining autonomous Solan Node — industrial, computational, and capable of indefinite extension without Earth resupply or biological occupation.
 
 This is not a limitation of ambition. It is the correct answer to what Ceres actually is. The environment is actively hostile to long-duration biological presence in ways that engineering can mitigate but not eliminate: radiation accumulation over years even underground, 0.029g gravity with poorly understood long-duration physiological consequences, and an energy and engineering burden imposed solely by the caloric and atmospheric needs of biology. None of those problems exist for non-biological presence.
 
@@ -119,7 +119,7 @@ Resources extracted and processed at Ceres — water, oxygen, hydrogen, sintered
 
 The relationship with Psyche is the clearest example. Psyche has the structural metal. Ceres has the water, propellant, and computational hardware. A shipyard at Psyche supplied by Ceres is the minimum viable industrial system for building vessels that distribute resources across the solar system. The full argument is addressed in a companion document.
 
-What comes after Ceres — what the solar system looks like when supplied from a self-sustaining belt node — is outside the scope of this corpus. The corpus establishes the pathway to Ceres. What Ceres enables beyond itself is left to whoever gets there.
+What comes after Ceres — what the solar system looks like when supplied from a self-sustaining Solan Node in the belt — is outside the scope of this corpus. The corpus establishes the pathway to Ceres. What Ceres enables beyond itself is left to whoever gets there.
 
 ---
 

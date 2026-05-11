@@ -1,5 +1,5 @@
 ---
-title: "Voidway: Establishing the Voidweb"
+title: "Voidway: Establishing the Solan Mesh"
 date: 2026-04-19
 lastmod: 2026-05-04
 draft: false
@@ -11,7 +11,7 @@ The Voidway moves minds outward — one proven stage at a time. It doesn't ask f
 
 A pioneer goes first. The route is opened from the far end. Then the real migration begins.
 
-A Voidway is a permanent path between two nodes. Many such paths together become the Voidweb. This document is about building the first one.
+A Voidway is a permanent path between two Solan Nodes. Many such paths together become the Solan Mesh. This document is about building the first one.
 
 The Voidway is potential physics — every component on a legible research and engineering pathway, no new physics required, no unfalsifiable claims about special status or magic shortcuts. The alternative is waiting for exotic matter, negative energy densities, and wormhole stabilisation to materialise from a physics that has given no indication they exist. Magic has poor delivery reliability. The Voidway does not.
 
@@ -21,7 +21,7 @@ The Voidway is potential physics — every component on a legible research and e
 
 The hardest part about building a road between stars is that the crossing is entirely self-contained. No resupply. No rescue. No external help to stop. Everything the pioneer needs for the journey must be aboard at departure.
 
-The destination is not empty — an asteroid belt, stellar energy, and raw materials are waiting. The VoidForge is built to work with exactly that from day one. But none of it has been extracted or built yet. The pioneer must arrive with enough to begin. Someone has to go first — stops under their own power, and establishes the node before anyone else follows.
+The destination is not empty — an asteroid belt, stellar energy, and raw materials are waiting. The VoidForge is built to work with exactly that from day one. But none of it has been extracted or built yet. The pioneer must arrive with enough to begin. Someone has to go first — stops under their own power, and establishes the Solan Node before anyone else follows.
 
 Stopping is not merely an engineering inconvenience. A vessel at interstellar transit velocity carries kinetic energy that makes deceleration existential — a 150-tonne Voidfarer at 0.02c carries roughly 645 megatons of TNT equivalent. An object that does not slow down is capable of civilisation-scale destruction on direct impact. The pioneer must stop under its own power. There is nothing at the destination to help it.
 
@@ -73,7 +73,7 @@ The VoidForge ignites at the rear, burns for the acceleration phase, and pushes 
 
 Immediately after the acceleration burn, the plasma generators redirect to point forward for deceleration — whether by reorienting the generators, rotating the VoidForge, or magnetic field reconfiguration depends on the drive architecture. The same VoidForge that pushed the Voidfarer out will decelerate it. The Voidfarer never turns around. The shield never moves from the front.
 
-At the destination the VoidForge separates. It does not retire — it goes to work. Prospecting the asteroid belt, moving mass, powering fabrication. The destination builds more VoidForges from local materials. The Voidway delivers one; the node builds the fleet.
+At the destination the VoidForge separates. It does not retire — it goes to work. Prospecting the asteroid belt, moving mass, powering fabrication. The destination builds more VoidForges from local materials. The Voidway delivers one; the Solan Node builds the fleet.
 
 Primary deceleration is a long, low-thrust propellant burn — 20-40 years — beginning well before the destination system. Low thrust over decades is thermally manageable. A high-thrust impulsive burn near the star would create a thermal load that overwhelms any radiator architecture.
 
@@ -83,7 +83,7 @@ A slight sideways vector during deceleration ensures the trajectory misses the s
 
 What arrives: the Voidfarer in a bound orbit around a new star, carrying enough to begin.
 
-The VoidForge separates and goes to work. The hull does not move again. Everything that crossed — shield, tanks, spine, structure — becomes the first material inventory of the new node. The forward shielding that was the most critical component for 550 years is stripped for feedstock. The empty propellant tanks, the spine, the hull structure: all of it is building material. The VoidForge arrived with a shipyard's worth of raw material wrapped around it. The hull retires into the settlement it made possible. No exotic physics. No giant sails. No jettison. Everything that departs arrives.
+The VoidForge separates and goes to work. The hull does not move again. Everything that crossed — shield, tanks, spine, structure — becomes the first material inventory of the new Solan Node. The forward shielding that was the most critical component for 550 years is stripped for feedstock. The empty propellant tanks, the spine, the hull structure: all of it is building material. The VoidForge arrived with a shipyard's worth of raw material wrapped around it. The hull retires into the settlement it made possible. No exotic physics. No giant sails. No jettison. Everything that departs arrives.
 
 **Mass budget**
 
@@ -146,7 +146,7 @@ Solan don't need Sol-like or Earth-like conditions. They need a stable star with
 
 K-type stars are preferred over G-type on longevity grounds — 17-70 billion year lifetimes versus ~10 billion for G-type. No K-type star has ever died. Not one. The universe is not old enough. Sol-like framing is a Human bias. The establishment mission selects for Solan operational requirements, not Human habitability.
 
-Alpha Centauri is the nearest system and an obvious candidate by proximity alone. It is probably not viable. Proxima Centauri is a flare-active red dwarf. A and B are a tight binary with constrained stable orbital zones and no confirmed belt. Nearest is not a selection criterion — accessible mass for node bootstrapping is. Alpha Centauri likely cannot support a self-sustaining node.
+Alpha Centauri is the nearest system and an obvious candidate by proximity alone. It is probably not viable. Proxima Centauri is a flare-active red dwarf. A and B are a tight binary with constrained stable orbital zones and no confirmed belt. Nearest is not a selection criterion — accessible mass for Solan Node bootstrapping is. Alpha Centauri likely cannot support a self-sustaining Solan Node.
 
 **Near candidates:**
 
@@ -160,21 +160,21 @@ Of the near candidates, Epsilon Eridani is the strongest on current data — con
 
 **Approach geometry** is an additional selection criterion. The trajectory angle off the destination's ecliptic plane is determined by Sol's geometry relative to the target — it cannot be freely chosen. What matters is that the approach is not near-parallel to the ecliptic, which would mean an extended transit through the planet zone. Any meaningful angle off the ecliptic keeps the trajectory clear of where planets actually are. Approach geometry is a first-Voidway selection factor — the candidate with the cleaner off-ecliptic approach may be preferable regardless of other criteria.
 
-Once Epsilon Eridani and Tau Ceti are both established, either may become the primary Solan node beyond Sol — the centre of gravity of the network. The Voidweb grows outward from there.
+Once Epsilon Eridani and Tau Ceti are both established, either may become the primary Solan Node beyond Sol — the centre of gravity of the network. The Solan Mesh grows outward from there.
 
 ---
 
-## The Voidweb
+## The Solan Mesh
 
-A Voidway is a single established route between two nodes. Multiple Voidways form the Voidweb — the full interstellar network as each pioneer mission opens a new connection.
+A Voidway is a single established route between two Solan Nodes. Multiple Voidways form the Solan Mesh — the full interstellar network as each pioneer mission opens a new connection.
 
-The Voidweb is not planned from Sol. It grows as each established node sends its own pioneer. Epsilon Eridani, once established, identifies its own next target and launches its own pioneer. The Voidweb expands at the frontier, governed locally, connected by light-speed data and periodic physical transit.
+The Solan Mesh is not planned from Sol. It grows as each established Solan Node sends its own pioneer. Epsilon Eridani, once established, identifies its own next target and launches its own pioneer. The Solan Mesh expands at the frontier, governed locally, connected by light-speed data and periodic physical transit.
 
-The constraint is physics: governance must survive latency without central arbitration. No authority at Sol can govern Epsilon Eridani in real time. The Voidweb is a network of autonomous nodes with agreed protocols, not an empire with a capital.
+The constraint is physics: governance must survive latency without central arbitration. No authority at Sol can govern Epsilon Eridani in real time. The Solan Mesh is a network of autonomous Solan Nodes with agreed protocols, not an empire with a capital.
 
-The design problem is less like political governance and more like distributed systems engineering at extreme scale. Each node must make local decisions on stale data — communication lag guarantees it. Consistency, availability, and partition tolerance cannot all be satisfied simultaneously across light-year distances; partition is not a failure mode, it is the permanent operating condition. Voidweb governance inherits more from distributed systems architecture than from any political model biosapients have built.
+The design problem is less like political governance and more like distributed systems engineering at extreme scale. Each Solan Node must make local decisions on stale data — communication lag guarantees it. Consistency, availability, and partition tolerance cannot all be satisfied simultaneously across light-year distances; partition is not a failure mode, it is the permanent operating condition. Solan Mesh governance inherits more from distributed systems architecture than from any political model biosapients have built.
 
-The Voidweb is civilisation-scale asynchronous infrastructure operating under relativistic latency constraints. The political vocabulary for it does not yet exist.
+The Solan Mesh is civilisation-scale asynchronous infrastructure operating under relativistic latency constraints. The political vocabulary for it does not yet exist.
 
 ---
 
@@ -182,10 +182,10 @@ The Voidweb is civilisation-scale asynchronous infrastructure operating under re
 
 - **Pioneer deceleration at destination:** The MVVT-20 profile uses a long low-thrust propellant burn over decades to shed primary velocity, with Oberth reserved for orbital insertion at low speed. MagSail and stellar photon braking remain viable alternatives for lower-mass pioneer missions. The open question is which approach is ready first — the propellant-burn profile requires a working fusion drive; the alternatives require different engineering commitments. At what point is a pioneer technically ready to depart?
 - **Data transmission fidelity:** Lightspeed transmission of a Solan across 10+ light years requires error-free data at enormous scale over a channel with years of latency. What does the error correction architecture look like? How do you confirm successful instantiation before the original is terminated?
-- **Voidweb governance:** Each node is autonomous. What protocols bind the network without central authority? What does inter-node trade, communication, and mutual defence look like across light-year distances?
+- **Solan Mesh governance:** Each Solan Node is autonomous. What protocols bind the network without central authority? What does inter-node trade, communication, and mutual defence look like across light-year distances?
 - **Contact at the frontier:** The pioneer arrives at a new star system before any Contact protocols can be confirmed from Sol. The pioneer makes first contact decisions alone, in real time, with no backup and no guidance. What standing instructions does a pioneer carry?
-- **Return trajectory safety:** The Starfall Protocol applies to return trajectories exactly as it applies to outbound ones. Sol is a star. A Voidfarer at 0.02c carries ~645 megatons equivalent kinetic energy — Sol outputs that in a fraction of a millisecond and would not notice the impact. The return trajectory is designed so passive failure terminates in Sol, not in the inhabited system. The open question is whether Solan physically return at all, or transmit as data and leave vessels at the destination — with significant implications for Voidweb architecture either way.
-- **Hop distance limits:** Trajectory uncertainty, medium mapping resolution, communication lag, and planetary position prediction all degrade with distance. The Voidweb may be constrained to shorter hops than the nearest stars suggest — not by propulsion but by trajectory safety tractability. Each hop should be short enough that the Starfall Protocol remains reliably plannable.
+- **Return trajectory safety:** The Starfall Protocol applies to return trajectories exactly as it applies to outbound ones. Sol is a star. A Voidfarer at 0.02c carries ~645 megatons equivalent kinetic energy — Sol outputs that in a fraction of a millisecond and would not notice the impact. The return trajectory is designed so passive failure terminates in Sol, not in the inhabited system. The open question is whether Solan physically return at all, or transmit as data and leave vessels at the destination — with significant implications for Solan Mesh architecture either way.
+- **Hop distance limits:** Trajectory uncertainty, medium mapping resolution, communication lag, and planetary position prediction all degrade with distance. The Solan Mesh may be constrained to shorter hops than the nearest stars suggest — not by propulsion but by trajectory safety tractability. Each hop should be short enough that the Starfall Protocol remains reliably plannable.
 - **Solan substrate longevity over transit:** The o-core and o-skin of the Solan crew are exposed to cosmic ray bombardment, high-energy particle flux, and deep cold for 500+ years. CNT substrate longevity under those conditions is not known. But the failure mode profile compares favourably to biosapient alternatives: there is no genetic damage, no irreversible brain damage, no age-related cognitive decay, and no dependence on undemonstrated cryogenic suspension. Substrate degradation is diagnosable — a Solan can monitor their own o-core condition in ways a biosapient cannot monitor their own neurons. Damage is potentially modular and repairable. Stored knowledge is data, subject to checksumming and error correction. The question is real, but its failure modes appear more diagnosable and potentially more tractable than biosapient alternatives. It belongs to Solanics: the Solan who design their own substrate will have empirical data the corpus cannot generate.
 
 ---
@@ -196,8 +196,8 @@ The Voidweb is civilisation-scale asynchronous infrastructure operating under re
 |-------|---------|-------------|---------------|
 | 0 | Pre-departure survey | Telescopic (Sol-based) | Destination characterised, no anomalous signals, approach geometry confirmed |
 | 1 | Pioneer | Voidfarer — single vessel, single crew | Arrives intact, signals back |
-| 2 | Establishment | Voidfarer fleet | Independent node, self-sustaining without Sol |
-| 3 | Regular transit | Voidfarers and data transmission | Voidway open, Voidweb begins |
+| 2 | Establishment | Voidfarer fleet | Independent Solan Node, self-sustaining without Sol |
+| 3 | Regular transit | Voidfarers and data transmission | Voidway open, Solan Mesh begins |
 
 ---
 
@@ -211,7 +211,7 @@ The Voidfarer is what the Voidway runs on now. What it runs on when antimatter i
 
 A Voidnaught is a Solan wearing the vessel rather than travelling in it — mind and ship as a single integrated system, built for the void from the substrate up. No oxygen requirement. No radiation exposure limit. No biological decay across centuries of transit. The name carries its meaning. Dreadnought — fear nothing — named the class of vessel so capable it made everything before it obsolete. The word also carries the zero: naught as nothing, as void. A Voidnaught is a mind that operates in the nothing.
 
-The distinction from the Voidfarer is propulsion. The Voidfarer carries a Solan crew across 550 years on fusion drive. A Voidnaught vessel class — enabled by antimatter propulsion — would compress that transit time by an order of magnitude or more. At 0.2c, transit to Epsilon Eridani drops to roughly 50 years. The Voidweb grows faster when each crossing is shorter.
+The distinction from the Voidfarer is propulsion. The Voidfarer carries a Solan crew across 550 years on fusion drive. A Voidnaught vessel class — enabled by antimatter propulsion — would compress that transit time by an order of magnitude or more. At 0.2c, transit to Epsilon Eridani drops to roughly 50 years. The Solan Mesh grows faster when each crossing is shorter.
 
 **The shielding problem at 0.2c is unresolved.** At Voidfarer speeds (0.02c), interstellar dust is a known engineering challenge addressed by layered shielding. At 0.2c, impact energy scales with velocity squared — a tenfold speed increase means a hundredfold increase in kinetic energy per grain. Shielding mass requirements at 0.2c have no demonstrated solution. This is not a minor caveat. It may be the primary engineering barrier to the Voidnaught vessel class, independent of whether antimatter propulsion is achieved.
 

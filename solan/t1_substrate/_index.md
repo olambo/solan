@@ -9,7 +9,7 @@ draft: false
 
 **The burrow protects. The carbon body liberates.**
 
-Dreamtime engineers a continent. Ceres establishes the first self-sustaining node beyond the inner solar system. Substrate is what inhabits it permanently.
+Dreamtime engineers a continent. Ceres establishes the first self-sustaining Solan Node beyond the inner solar system. Substrate is what inhabits it permanently.
 
 The space environment does not select for biology. It selects against it — radiation, vacuum, temperature extremes, low gravity with poorly understood long-duration physiological consequences. Every biological need is an engineering burden that the environment does not provide and that must be expensively maintained against the environment's indifference.
 

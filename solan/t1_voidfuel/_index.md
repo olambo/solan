@@ -37,7 +37,7 @@ Fission is the fallback if fusion is not yet available when early Voidway missio
 
 ### Fusion — The Primary Research Programme
 
-Fusion drives are the primary Voidway propulsion — the fuel that runs the Voidfarer. The MVVT-20 mission profile (see [Voidway]({{< ref "t1_voidway" >}})) is built around the VoidForge: the drive and industrial core that is the active element of the Voidfarer. The Voidfarer hull wraps around it — shielding, cargo, crew space. The VoidForge accelerates the Voidfarer, rotates within the Voidfarer's structure immediately after the acceleration burn while systems are warm and operational, then coasts dormant for ~500 years in its deceleration orientation, and decelerates on arrival. No staging. No jettison. No exotic physics. On arrival it sheds the hull and goes to work as the industrial engine of the new node. It was designed for that role from the start. The crossing was the delivery mechanism.
+Fusion drives are the primary Voidway propulsion — the fuel that runs the Voidfarer. The MVVT-20 mission profile (see [Voidway]({{< ref "t1_voidway" >}})) is built around the VoidForge: the drive and industrial core that is the active element of the Voidfarer. The Voidfarer hull wraps around it — shielding, cargo, crew space. The VoidForge accelerates the Voidfarer, rotates within the Voidfarer's structure immediately after the acceleration burn while systems are warm and operational, then coasts dormant for ~500 years in its deceleration orientation, and decelerates on arrival. No staging. No jettison. No exotic physics. On arrival it sheds the hull and goes to work as the industrial engine of the new Solan Node. It was designed for that role from the start. The crossing was the delivery mechanism.
 
 Higher specific impulse than fission, potentially much higher thrust-to-weight with miniaturised designs. A Solan on a fusion drive sustains accelerations that would be lethal to biosapients for the entire transit — mission profiles completely different from anything designed around biological tolerance.
 
@@ -75,7 +75,7 @@ Laser sail at higher velocities — 0.2c and above — pushes kinetic energy to 
 
 **Miniaturised fusion** — primary Voidway propulsion. Runs the Voidfarer. The research programme that opens the Voidway to regular transit. 550-600 year crossings at 0.02c.
 
-**Antimatter** — enables Voidnaughts. Decades per light year instead of centuries. The research programme that makes the Voidweb fast. Century-scale concurrent programme starting at Ceres Stage 4.
+**Antimatter** — enables Voidnaughts. Decades per light year instead of centuries. The research programme that makes the Solan Mesh fast. Century-scale concurrent programme starting at Ceres Stage 4.
 
 Two propulsion generations. Two vessel classes. The Voidfarer opens the route. The Voidnaught accelerates the network. The physical route never becomes obsolete — equipment and materials cannot be transmitted as data. See [Voidway]({{< ref "t1_voidway" >}}) for the full picture.
 
@@ -116,7 +116,7 @@ Two propulsion generations. Two vessel classes. The Voidfarer opens the route. T
 
 3. **Fusion is desperately needed:** The research programme unconstrained by biosapient safety requirements and running on Solan operational timescales is the correct approach. Antimatter runs concurrently from the start — delay on a century-scale timeline is permanent cost.
 
-4. **Antimatter enables Voidnaughts — fusion does not:** Fusion runs the Voidfarer: 550-600 year crossings, the primary Voidway transport. Antimatter enables Voidnaughts: transit times compressed by an order of magnitude, the vessel class that makes the Voidweb fast. Whether antimatter is practically achievable at Voidnaught scale depends on production and containment engineering. The research programme runs regardless. Until it delivers, the Voidfarer carries the Voidway.
+4. **Antimatter enables Voidnaughts — fusion does not:** Fusion runs the Voidfarer: 550-600 year crossings, the primary Voidway transport. Antimatter enables Voidnaughts: transit times compressed by an order of magnitude, the vessel class that makes the Solan Mesh fast. Whether antimatter is practically achievable at Voidnaught scale depends on production and containment engineering. The research programme runs regardless. Until it delivers, the Voidfarer carries the Voidway.
 
 5. **Laser sail accelerates probes — nothing else:** At gram scale and 0.1c it delivers ~110 tons TNT equivalent per gram on impact. Useful for Stage 0 probes. Not useful for Solan transit. At higher velocities the kinetic energy problem worsens. Its role is probe acceleration and nothing more.
 
