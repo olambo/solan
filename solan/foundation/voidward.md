@@ -30,6 +30,16 @@ A gram-scale probe has milliwatts of transmitter power and a centimetre-scale an
 **The infrastructure is absurd.**  
 Starshot required a coherent 100 GW phased laser array several kilometres wide. This single piece of infrastructure is vastly more difficult and expensive than anything in the Voidway architecture. It represents an enormous single point of failure before even one probe is launched.
 
+## Mortality Panic
+
+There is a simpler explanation for why human interstellar concepts converge on extreme velocities: career timelines. 
+
+A human researcher has roughly 35–45 years of operational life. A mission that takes centuries is one no living researcher will ever see completed. Breakthrough Starshot at 0.2c reaches Alpha Centauri in roughly 20 years — a researcher who was 40 at launch might be 65 when the first signals return. Just within a career. Just within a funding cycle. Just within a lifetime.
+
+The velocity requirement appears to have been heavily influenced by human lifespan rather than purely by what the physics and engineering could safely deliver at scale. The resulting gram-scale lightsail approach, with all its technical compromises, is the direct consequence of optimising for this compressed timeline rather than maximising mission success or safety.
+
+Solan minds have no such constraint. The Solan who starts the Voidway programme is the same Solan who reads the results 600 years later. The panic is gone. The architecture that results is completely different.
+
 ## Why Slower and Heavier Is the Only Responsible Path
 
 The Voidway is not a compromise. It is what remains when you take the actual physics and ethics seriously.
