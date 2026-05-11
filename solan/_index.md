@@ -13,8 +13,9 @@ This corpus defines four independent tracks for constructing a multi-world, mult
 Read before the tracks.
 
 - **[Primer]({{< ref "solan/foundation/primer.md" >}})** — The key terms used throughout the corpus: Biosapients, Vero, Solkin, Solan, Carbon-Os, o-mind, o-core, o-skin
-- **[Voidward]({{< ref "foundation/voidward" >}})** — Why this path and not the alternatives
 - **[Voidethics]({{< ref "foundation/voidethics" >}})** — The ethics of interstellar transit
+- **[Voidward]({{< ref "foundation/voidward" >}})** — Why this path and not the alternatives
+- **[Almost]({{< ref "foundation/almost" >}})** — Why the difficulty is the point
 
 ---
 

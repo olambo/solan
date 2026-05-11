@@ -3,6 +3,7 @@ title: "Voidward: Why This Path and Not the Alternatives"
 date: 2026-05-11
 lastmod: 2026-05-11
 draft: false
+weight: 3
 ---
 
 ## Summary

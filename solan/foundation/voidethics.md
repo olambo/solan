@@ -1,8 +1,9 @@
 ---
 title: "Voidethics: The Ethics of Interstellar Transit"
 date: 2026-05-06
-lastmod: 2026-05-06
+lastmod: 2026-05-11
 draft: false
+weight: 2
 ---
 
 ## Summary
