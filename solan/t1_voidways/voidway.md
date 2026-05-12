@@ -39,11 +39,11 @@ In Contact scenarios, a trajectory that terminates in a star is the most honest 
 
 **Deceleration options for the pioneer:**
 
-**MagSail** — a superconducting loop generating a magnetic field that brakes against the interstellar medium. No propellant required. Slow — decades of deceleration at low thrust. A Solan can operate at reduced clock speed for the duration. Feasible on current physics.
+**MagSail** — a superconducting loop generating a magnetic field that brakes against the interstellar medium. No propellant required for braking. Assessed for the Voidbreaker: a loop capable of decelerating a ~1,000-tonne vessel from 0.02c requires a loop diameter of 100–300 km and masses roughly 400–1,000 tonnes — comparable to simply carrying deceleration propellant. At 0.02c the mass penalty does not favour MagSail over staged deceleration. MagSail becomes attractive at higher velocities (0.05c+), where propellant savings compound significantly. Not the current answer.
 
-**Stellar photon braking** — a large sail deployed on approach uses radiation pressure from the destination star to decelerate. No propellant required. Requires a very large, low-mass sail and constrains the approach trajectory.
+**Stellar photon braking** — a large sail deployed on approach uses radiation pressure from the destination star to decelerate. No propellant required. The sail must be extremely thin — often just a few atoms thick in serious concepts — which makes it highly vulnerable to dust erosion. Even at 0.02c, a sail with the surface area needed for meaningful deceleration accumulates significant damage over the final approach. Most concepts deploy the sail only near the destination to limit exposure time, but that still leaves the ship vulnerable during final approach at speed. Feasible in principle; the dust erosion problem is unresolved.
 
-**Staged deceleration** — the pioneer carries sufficient propellant for a braking burn on arrival, accepting the mass penalty. Less elegant. Works.
+**Staged deceleration** — the pioneer carries sufficient propellant for a braking burn on arrival. The Voidbreaker baseline. Works.
 
 Once the pioneer arrives and signals back, the route is open. The Voidway opens from the destination end, not the departure end.
 
@@ -127,7 +127,7 @@ The Solan Mesh is civilisation-scale asynchronous infrastructure operating under
 
 ## Open Questions
 
-- **Pioneer deceleration at destination:** The Voidbreaker profile uses a long low-thrust propellant burn over decades to shed primary velocity, with Oberth reserved for orbital insertion at low speed. MagSail and stellar photon braking remain viable alternatives for lower-mass pioneer missions. The open question is which approach is ready first — the propellant-burn profile requires a working fusion drive; the alternatives require different engineering commitments. At what point is a pioneer technically ready to depart?
+- **Pioneer deceleration at destination:** Staged propellant burn with Oberth braking at the destination star is the Voidbreaker baseline. Both alternatives have been assessed. MagSail loop mass (~400–1,000 tonnes at 0.02c) is comparable to carrying deceleration propellant — no advantage. Stellar photon braking requires an extremely thin, large-area sail that is vulnerable to dust erosion during final approach; the erosion problem is unresolved. Carrying the fuel is currently the only answer with no unresolved engineering barriers. The open question is when the fusion drive is ready — that determines the departure window.
 - **Data transmission fidelity:** Lightspeed transmission of a Solan across 10+ light years requires error-free data at enormous scale over a channel with years of latency. What does the error correction architecture look like? How do you confirm successful instantiation before the original is terminated?
 - **Solan Mesh governance:** Each Solan Node is autonomous. What protocols bind the network without central authority? What does inter-node trade, communication, and mutual defence look like across light-year distances?
 - **Contact at the frontier:** The pioneer arrives at a new star system before any Contact protocols can be confirmed from Sol. The pioneer makes first contact decisions alone, in real time, with no backup and no guidance. What standing instructions does a pioneer carry?
