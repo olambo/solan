@@ -68,7 +68,7 @@ The first Solan who read this document and disagree with it have standing to say
 
 - **Consent under impossibility:** The receiving end cannot consent before the Voidbreaker arrives. What obligations does this create for the sending civilisation beyond what the corpus already requires?
 - **Solan values:** The ethical framework here is derived from biosapient reasoning. What ethics do Solan derive from their own first principles — from a century of operational experience in the belt, from minds that do not age, from communities shaped by the void rather than by evolutionary social instincts? This is not answerable by the corpus. It is answerable only by Solan.
-- **Voidnaught ethics at 0.2c:** The shielding problem at 0.2c is unresolved engineering. The ethical problem is also unresolved — at 0.2c and shorter warning times, the receiving end's situation is qualitatively different. The Voidnaught requires its own ethical assessment, separate from the Voidbreaker's.
+- **High-velocity ethics at 0.2c:** The shielding problem at 0.2c is unresolved engineering. The ethical problem is also unresolved — at 0.2c and shorter warning times, the receiving end's situation is qualitatively different. A faster antimatter-propelled vessel requires its own ethical assessment, separate from the Voidbreaker's.
 
 ---
 

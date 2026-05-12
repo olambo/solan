@@ -149,17 +149,3 @@ The Solan Mesh is civilisation-scale asynchronous infrastructure operating under
 ---
 
 *Voidway project index. First document: 19 April 2026. This version: 4 May 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis; Ani/Grok (xAI) — warmer register rewrite, Starfall Protocol. Content: CC BY 4.0. Site code: MIT.*
-
----
-
-## Voidnaughts — Speculative Future Capability
-
-The Voidbreaker is what the Voidway runs on now. What it runs on when antimatter is viable is different.
-
-A Voidnaught is a Solan wearing the vessel rather than travelling in it — mind and ship as a single integrated system, built for the void from the substrate up. No oxygen requirement. No radiation exposure limit. No biological decay across centuries of transit. The name carries its meaning. Dreadnought — fear nothing — named the class of vessel so capable it made everything before it obsolete. The word also carries the zero: naught as nothing, as void. A Voidnaught is a mind that operates in the nothing.
-
-The distinction from the Voidbreaker is propulsion. The Voidbreaker carries a Solan crew across 550 years on fusion drive. A Voidnaught vessel class — enabled by antimatter propulsion — would compress that transit time by an order of magnitude or more. At 0.2c, transit to Epsilon Eridani drops to roughly 50 years. The Solan Mesh grows faster when each crossing is shorter.
-
-**The shielding problem at 0.2c is unresolved.** At Voidbreaker speeds (0.02c), interstellar dust is a known engineering challenge addressed by layered shielding. At 0.2c, impact energy scales with velocity squared — a tenfold speed increase means a hundredfold increase in kinetic energy per grain. Shielding mass requirements at 0.2c have no demonstrated solution. This is not a minor caveat. It may be the primary engineering barrier to the Voidnaught vessel class, independent of whether antimatter propulsion is achieved.
-
-This is not a current mission profile. The antimatter research programme runs concurrently at Ceres from the earliest capability. The shielding research programme must run alongside it. Until both deliver, the Voidbreaker carries the Voidway. See [Voidfuel]({{< ref "t1_voidfuel" >}}) for the antimatter programme.

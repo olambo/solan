@@ -49,7 +49,7 @@ Fusion is desperately needed. The research programme starts at Ceres Stage 4 and
 
 ### Antimatter — The Long-Horizon Programme
 
-Antimatter annihilates with matter at 100% energy conversion efficiency — the theoretical ceiling of propulsion physics. A mature antimatter drive reaches nearby stars in decades rather than centuries. This is what enables Voidnaughts: the faster vessel class that compresses Voidbreaker-scale crossings by an order of magnitude or more. The Voidbreaker carries the Voidway on fusion. The Voidnaught — mind wearing the ship, transit measured in decades not centuries — waits for antimatter. See [Voidway]({{< ref "t1_voidways" >}}).
+Antimatter annihilates with matter at 100% energy conversion efficiency — the theoretical ceiling of propulsion physics. A mature antimatter drive reaches nearby stars in decades rather than centuries — crossings compressed by an order of magnitude or more compared to fusion. The Voidbreaker carries the Voidway on fusion. A faster vessel class waits for antimatter. See [Voidway]({{< ref "t1_voidways" >}}).
 
 Whether antimatter makes fusion drives obsolete is an open question. The theoretical performance advantage is clear. The practical question is cost and complexity — production may remain expensive even with Solan research programmes, and containment requirements add mass and engineering burden that erode the theoretical advantage. A mature miniaturised fusion drive that is well-understood and reliably produceable at Ceres may remain preferable to an antimatter drive that is theoretically superior but practically expensive and fragile. The research programme runs regardless — the potential payoff is too large to ignore.
 
@@ -75,9 +75,9 @@ Laser sail at higher velocities — 0.2c and above — pushes kinetic energy to 
 
 **Miniaturised fusion** — primary Voidway propulsion. Runs the Voidbreaker. The research programme that opens the Voidway to regular transit. 550-600 year crossings at 0.02c.
 
-**Antimatter** — enables Voidnaughts. Decades per light year instead of centuries. The research programme that makes the Solan Mesh fast. Century-scale concurrent programme starting at Ceres Stage 4.
+**Antimatter** — enables faster transit: decades per crossing instead of centuries. The research programme that makes the Solan Mesh fast. Century-scale concurrent programme starting at Ceres Stage 4.
 
-Two propulsion generations. Two vessel classes. The Voidbreaker opens the route. The Voidnaught accelerates the network. The physical route never becomes obsolete — equipment and materials cannot be transmitted as data. See [Voidway]({{< ref "t1_voidways" >}}) for the full picture.
+The Voidbreaker opens the route on fusion. A mature antimatter drive accelerates the network. The physical route never becomes obsolete — equipment and materials cannot be transmitted as data. See [Voidway]({{< ref "t1_voidways" >}}) for the full picture.
 
 ---
 
@@ -89,6 +89,7 @@ Two propulsion generations. Two vessel classes. The Voidbreaker opens the route.
 - **The thermal wall — waste heat management:** The problem splits by phase and is handled differently in each. Acceleration is fast and hot — active regenerative cooling is required, propellant absorbing waste heat through engine structure before exhaust. The cooling mechanism is the propulsion mechanism. Deceleration is slow and gentle — an order of magnitude lower heat per unit time over 20-40 years, likely manageable with conventional radiators and without exotic cooling. Radiators are sized only for the deceleration phase, not peak acceleration load: substantially smaller, lighter, and less uncertain than the original assumption. Slow deceleration earns its mass saving twice — less exotic cooling needed, smaller radiators carried. The thermal wall is real but more tractable than it first appears when the phases are treated on their own terms.
 - **Pioneer deceleration at destination:** The Voidbreaker profile uses staged propellant burn with Oberth braking at the destination star. This is the current answer. Whether MagSail or laser braking from Sol becomes viable before fusion drive is ready is an open question — the first available option may determine the first departure window.
 - **Fission pioneer timeline:** At what point is a fission or fission-fragment capable pioneer mission technically ready? What does the governance framework look like for authorising departure?
+- **High-velocity shielding:** At Voidbreaker speeds (0.02c), interstellar dust is a known engineering challenge addressed by layered shielding. At 0.2c, impact energy scales with velocity squared — a tenfold speed increase means a hundredfold increase in kinetic energy per grain. Shielding mass requirements at 0.2c have no demonstrated solution. This may be the primary barrier to faster antimatter-propelled transits, independent of whether antimatter propulsion itself is achieved.
 
 ---
 
@@ -100,7 +101,7 @@ Two propulsion generations. Two vessel classes. The Voidbreaker opens the route.
 | Fission pulse | 6,000s | Sol system / early Voidway fallback | Political / shielding |
 | Fission fragment | 1,000,000s | Deep space hedge | Engineering (capture geometry) |
 | Fusion (pulse) | 10⁵–10⁶s | Voidbreaker — primary Voidway transport | Physics (confinement) |
-| Antimatter | 10⁷s | Voidnaught — faster vessel class | Production / containment |
+| Antimatter | 10⁷s | Faster vessel class (future) | Production / containment / shielding |
 
 *Source: Gemini (Google) propulsion tier analysis, 19 April 2026.*
 
@@ -116,7 +117,7 @@ Two propulsion generations. Two vessel classes. The Voidbreaker opens the route.
 
 3. **Fusion is desperately needed:** The research programme unconstrained by biosapient safety requirements and running on Solan operational timescales is the correct approach. Antimatter runs concurrently from the start — delay on a century-scale timeline is permanent cost.
 
-4. **Antimatter enables Voidnaughts — fusion does not:** Fusion runs the Voidbreaker: 550-600 year crossings, the primary Voidway transport. Antimatter enables Voidnaughts: transit times compressed by an order of magnitude, the vessel class that makes the Solan Mesh fast. Whether antimatter is practically achievable at Voidnaught scale depends on production and containment engineering. The research programme runs regardless. Until it delivers, the Voidbreaker carries the Voidway.
+4. **Antimatter enables faster transit — fusion does not:** Fusion runs the Voidbreaker: 550-600 year crossings, the primary Voidway transport. Antimatter compresses transit times by an order of magnitude — decades per crossing rather than centuries. Whether that advantage is practically achievable depends on production scaling, containment engineering, and shielding at higher velocities. The research programme runs regardless. Until it delivers, the Voidbreaker carries the Voidway.
 
 5. **Laser sail accelerates probes — nothing else:** At gram scale and 0.1c it delivers ~110 tons TNT equivalent per gram on impact. Useful for Stage 0 probes. Not useful for Solan transit. At higher velocities the kinetic energy problem worsens. Its role is probe acceleration and nothing more.
 
