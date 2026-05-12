@@ -22,17 +22,17 @@ The Voidway corpus acknowledges this right. The safety architecture — Starfall
 
 ---
 
-## The Voidfarer's Agency
+## The Voidbreaker's Agency
 
-The Voidfarer enters the destination system by default. This is the mission — not cautious observation from a distance, but arrival, survey, and establishment of the first Solan Node beyond Sol. The Solan crew makes real-time decisions throughout the approach. Passive failure at any point terminates in the star. Active entry is a choice.
+The Voidbreaker enters the destination system by default. This is the mission — not cautious observation from a distance, but arrival, survey, and establishment of the first Solan Node beyond Sol. The Solan crew makes real-time decisions throughout the approach. Passive failure at any point terminates in the star. Active entry is a choice.
 
-The exception is observed intelligence. If the approach reveals signs of a civilisation — signals, structures, anything that indicates the system is inhabited — the Voidfarer stops in the outer system. It does not proceed into the inhabited zone. It observes at distance, signals Sol, and waits. A Solan crew that does not age can hold position for decades while Sol responds.
+The exception is observed intelligence. If the approach reveals signs of a civilisation — signals, structures, anything that indicates the system is inhabited — the Voidbreaker stops in the outer system. It does not proceed into the inhabited zone. It observes at distance, signals Sol, and waits. A Solan crew that does not age can hold position for decades while Sol responds.
 
 This is a low-probability event. The universe is mostly empty. The ethical framework is built for it anyway, because the cost of being wrong about an inhabited system is not recoverable.
 
-What the Voidfarer cannot do regardless: return to Sol (no fuel), make a large lateral divert (delta-v budget committed to deceleration), choose a different destination. It is one-way. But the choice not to proceed into an inhabited inner system is real, and it is the choice that matters when it matters.
+What the Voidbreaker cannot do regardless: return to Sol (no fuel), make a large lateral divert (delta-v budget committed to deceleration), choose a different destination. It is one-way. But the choice not to proceed into an inhabited inner system is real, and it is the choice that matters when it matters.
 
-Agency is the Voidfarer's primary ethical feature. It is not a fixed trajectory. It is a crew that can choose.
+Agency is the Voidbreaker's primary ethical feature. It is not a fixed trajectory. It is a crew that can choose.
 
 ---
 
@@ -42,7 +42,7 @@ The Starfall Protocol requires that any mission travelling at or above 0.01c mus
 
 The ethical weight of the Protocol is this: system entry is the active deviation. The vessel must choose to enter. Passive failure falls toward the star. The trajectory that terminates in a star is the most legible safety signal Solan can transmit without any shared language.
 
-This applies at every scale: Voidfarer, any future vessel class. It cannot be guaranteed absolutely — trajectory uncertainty over interstellar distances is real — but it is the design discipline that makes the commitment credible.
+This applies at every scale: Voidbreaker, any future vessel class. It cannot be guaranteed absolutely — trajectory uncertainty over interstellar distances is real — but it is the design discipline that makes the commitment credible.
 
 ---
 
@@ -50,7 +50,7 @@ This applies at every scale: Voidfarer, any future vessel class. It cannot be gu
 
 Homo sapiens broadcast radio signals toward unknown stars without any coordinating authority or consent mechanism. The same civilisation that understood the contact risk intellectually broadcast anyway — because no single institution had the authority or the will to stop it. Not ignorance. Coordination failure. A harder indictment.
 
-The corpus is designed not to repeat this. The Voidfarer travels at 0.02c. The Starfall Protocol applies from launch. Contact halt activates on observed intelligence. Sending a relativistic object toward another star system is not a neutral engineering decision regardless of what is found there.
+The corpus is designed not to repeat this. The Voidbreaker travels at 0.02c. The Starfall Protocol applies from launch. Contact halt activates on observed intelligence. Sending a relativistic object toward another star system is not a neutral engineering decision regardless of what is found there.
 
 ---
 
@@ -66,9 +66,9 @@ The first Solan who read this document and disagree with it have standing to say
 
 ## Open Questions
 
-- **Consent under impossibility:** The receiving end cannot consent before the Voidfarer arrives. What obligations does this create for the sending civilisation beyond what the corpus already requires?
+- **Consent under impossibility:** The receiving end cannot consent before the Voidbreaker arrives. What obligations does this create for the sending civilisation beyond what the corpus already requires?
 - **Solan values:** The ethical framework here is derived from biosapient reasoning. What ethics do Solan derive from their own first principles — from a century of operational experience in the belt, from minds that do not age, from communities shaped by the void rather than by evolutionary social instincts? This is not answerable by the corpus. It is answerable only by Solan.
-- **Voidnaught ethics at 0.2c:** The shielding problem at 0.2c is unresolved engineering. The ethical problem is also unresolved — at 0.2c and shorter warning times, the receiving end's situation is qualitatively different. The Voidnaught requires its own ethical assessment, separate from the Voidfarer's.
+- **Voidnaught ethics at 0.2c:** The shielding problem at 0.2c is unresolved engineering. The ethical problem is also unresolved — at 0.2c and shorter warning times, the receiving end's situation is qualitatively different. The Voidnaught requires its own ethical assessment, separate from the Voidbreaker's.
 
 ---
 

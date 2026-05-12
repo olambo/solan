@@ -8,5 +8,5 @@ draft: false
 A Voidway is a permanent path between two Solan Nodes. Many such paths together form the Solan Mesh.
 
 - **[Voidway]({{< ref "voidway" >}})** — Programme strategy: pioneer problem, stages, destination selection, the Solan Mesh
-- **[Voidfarer]({{< ref "voidfarer" >}})** — The vessel: design, shielding, mass budget, assumption boundaries
-- **[Voidfarer Design Baseline]({{< ref "voidfarer-baseline" >}})** — Verified parameters and calculations
+- **[Voidbreaker]({{< ref "voidbreaker" >}})** — The vessel: design, shielding, mass budget, assumption boundaries
+- **[Voidbreaker Design Baseline]({{< ref "voidbreaker-baseline" >}})** — Verified parameters and calculations

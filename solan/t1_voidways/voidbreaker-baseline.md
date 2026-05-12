@@ -1,11 +1,11 @@
 ---
-title: "Voidfarer Design Baseline — Verified Parameters"
+title: "Voidbreaker Design Baseline — Verified Parameters"
 date: 2026-05-12
 lastmod: 2026-05-12
 draft: false
 weight: 10
 tags:
-  - voidfarer
+  - voidbreaker
   - design-baseline
   - calculations
   - interstellar-propulsion
@@ -13,7 +13,7 @@ tags:
 
 ## Purpose
 
-This document records the verified design parameters for the Voidfarer, derived from the rocket equation and basic geometry. All figures are internally consistent. Where estimates are used (exhaust velocity, VoidForge mass), the assumptions are stated explicitly. This document exists to provide a stable numerical reference — other documents in the corpus should not contradict these figures without updating them here first.
+This document records the verified design parameters for the Voidbreaker, derived from the rocket equation and basic geometry. All figures are internally consistent. Where estimates are used (exhaust velocity, VoidForge mass), the assumptions are stated explicitly. This document exists to provide a stable numerical reference — other documents in the corpus should not contradict these figures without updating them here first.
 
 ---
 
@@ -62,7 +62,7 @@ These figures are working estimates, not engineering results. The exhaust veloci
 | Acceleration burn duration (at 0.02g) | ~1 year |
 | Deceleration burn duration | 20–40 years |
 
-Deceleration is achieved by canting the engine nozzles forward. **The Voidfarer never turns around.** The shield remains at the front throughout acceleration, cruise, and deceleration. A vessel that reverses orientation at interstellar transit velocity exposes its unshielded hull to the full dust flux — this is not survivable.
+Deceleration is achieved by canting the engine nozzles forward. **The Voidbreaker never turns around.** The shield remains at the front throughout acceleration, cruise, and deceleration. A vessel that reverses orientation at interstellar transit velocity exposes its unshielded hull to the full dust flux — this is not survivable.
 
 ---
 
@@ -112,7 +112,7 @@ The spine is in **compression** during acceleration — the engine pushes from t
 | Barnard's Star | 6.0 ly | ~300 years |
 | Epsilon Eridani | 10.5 ly | ~525 years |
 
-**The ship is the same for any of these destinations.** Propellant requirement is set by the velocity change (0.02c acceleration + 0.02c deceleration), not by distance. Only the coasting duration changes. The Voidfarer is not optimised for Epsilon Eridani specifically — it is a general-purpose 0.02c vessel.
+**The ship is the same for any of these destinations.** Propellant requirement is set by the velocity change (0.02c acceleration + 0.02c deceleration), not by distance. Only the coasting duration changes. The Voidbreaker is not optimised for Epsilon Eridani specifically — it is a general-purpose 0.02c vessel.
 
 ---
 
@@ -124,7 +124,7 @@ The spine is in **compression** during acceleration — the engine pushes from t
 | Cruise speed | 0.02c |
 | Kinetic energy | ~4,300 megatons TNT (~4.3 gigatons) |
 
-This figure is the basis for the Starfall Protocol requirement. A Voidfarer that does not decelerate is capable of civilisation-scale destruction on direct planetary impact. The deceleration burn is what actively diverts the vessel into the destination system. Passive failure must result in stellar interception.
+This figure is the basis for the Starfall Protocol requirement. A Voidbreaker that does not decelerate is capable of civilisation-scale destruction on direct planetary impact. The deceleration burn is what actively diverts the vessel into the destination system. Passive failure must result in stellar interception.
 
 ---
 
@@ -133,10 +133,10 @@ This figure is the basis for the Starfall Protocol requirement. A Voidfarer that
 | Vessel | Mass | Speed | Time to Epsilon Eridani | Crew |
 |---|---|---|---|---|
 | Chrysalis (generational ship concept) | ~2.4 million tonnes | 0.01c | ~1,050 years | 1,500–2,400 humans |
-| Voidfarer | 1,000t cruise / ~1,950t launch | 0.02c | ~525 years | 2 Solans |
+| Voidbreaker | 1,000t cruise / ~1,950t launch | 0.02c | ~525 years | 2 Solans |
 
-The mass difference — a factor of roughly 2,400 — is biology. The generational ship must carry a closed-loop biological ecosystem capable of sustaining a viable human population for over a millennium. The Voidfarer carries none of that infrastructure. The Solan path does not reduce the biological overhead incrementally. It eliminates the category.
+The mass difference — a factor of roughly 2,400 — is biology. The generational ship must carry a closed-loop biological ecosystem capable of sustaining a viable human population for over a millennium. The Voidbreaker carries none of that infrastructure. The Solan path does not reduce the biological overhead incrementally. It eliminates the category.
 
 ---
 
-*Voidfarer design baseline. First document: 12 May 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — calculations and synthesis. All figures verified against the rocket equation with stated assumptions. Content: CC BY 4.0. Site code: MIT.*
+*Voidbreaker design baseline. First document: 12 May 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — calculations and synthesis. All figures verified against the rocket equation with stated assumptions. Content: CC BY 4.0. Site code: MIT.*

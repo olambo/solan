@@ -28,8 +28,8 @@ Establish a self-sustaining Solan presence outside Earth’s gravity well as the
 - **[Voidfuel]({{< ref "t1_voidfuel" >}})** — Energy and propulsion for the void
 - **[Voidways]({{< ref "t1_voidways" >}})** — Establishing the Solan Mesh
   - **[Voidway]({{< ref "solan/t1_voidways/voidway.md" >}})** — Programme strategy
-  - **[Voidfarer]({{< ref "solan/t1_voidways/voidfarer.md" >}})** — The vessel: design, shielding, mass budget
-  - **[Voidfarer Design Baseline]({{< ref "solan/t1_voidways/voidfarer-baseline.md" >}})** — Verified parameters and calculations
+  - **[Voidbreaker]({{< ref "solan/t1_voidways/voidbreaker.md" >}})** — The vessel: design, shielding, mass budget
+  - **[Voidbreaker Design Baseline]({{< ref "solan/t1_voidways/voidbreaker-baseline.md" >}})** — Verified parameters and calculations
 
 **[Track 2 — The Transition]({{< ref "t2_transition" >}})**
 The pathway from Human to Vero, and the identity architecture that defines what survives it. Runs in parallel with Track 1.

@@ -23,7 +23,7 @@ The hardest part about building a road between stars is that the crossing is ent
 
 The destination is not empty — an asteroid belt, stellar energy, and raw materials are waiting. The VoidForge is built to work with exactly that from day one. But none of it has been extracted or built yet. The pioneer must arrive with enough to begin. Someone has to go first — stops under their own power, and establishes the Solan Node before anyone else follows.
 
-Stopping is not merely an engineering inconvenience. A vessel at interstellar transit velocity carries kinetic energy that makes deceleration existential — a 1,000-tonne Voidfarer at 0.02c carries roughly 4,300 megatons (~4.3 gigatons) of TNT equivalent. An object that does not slow down is capable of civilisation-scale destruction on direct impact. The pioneer must stop under its own power. There is nothing at the destination to help it.
+Stopping is not merely an engineering inconvenience. A vessel at interstellar transit velocity carries kinetic energy that makes deceleration existential — a 1,000-tonne Voidbreaker at 0.02c carries roughly 4,300 megatons (~4.3 gigatons) of TNT equivalent. An object that does not slow down is capable of civilisation-scale destruction on direct impact. The pioneer must stop under its own power. There is nothing at the destination to help it.
 
 The pioneer doesn't need to be fast. It only needs to arrive and stop.
 
@@ -59,13 +59,13 @@ What telescopic survey cannot provide is route data: actual interstellar medium 
 
 ---
 
-## The Voidfarer
+## The Voidbreaker
 
-The Voidway runs on the Voidfarer — a 400-metre fusion drive vessel carrying a VoidForge across interstellar distance at 0.02c. Single vessel. Shield forward. Everything the crossing needs, carried the whole way.
+The Voidway runs on the Voidbreaker — a 400-metre fusion drive vessel carrying a VoidForge across interstellar distance at 0.02c. Single vessel. Shield forward. Everything the crossing needs, carried the whole way.
 
-*Full vessel design, shielding geometry, mass budget, and assumption boundaries: see [Voidfarer]({{< ref "voidfarer" >}})*
+*Full vessel design, shielding geometry, mass budget, and assumption boundaries: see [Voidbreaker]({{< ref "voidbreaker" >}})*
 
-*Verified design parameters and calculations: see [Voidfarer Design Baseline]({{< ref "voidfarer-baseline" >}})*
+*Verified design parameters and calculations: see [Voidbreaker Design Baseline]({{< ref "voidbreaker-baseline" >}})*
 
 ---
 
@@ -127,11 +127,11 @@ The Solan Mesh is civilisation-scale asynchronous infrastructure operating under
 
 ## Open Questions
 
-- **Pioneer deceleration at destination:** The Voidfarer profile uses a long low-thrust propellant burn over decades to shed primary velocity, with Oberth reserved for orbital insertion at low speed. MagSail and stellar photon braking remain viable alternatives for lower-mass pioneer missions. The open question is which approach is ready first — the propellant-burn profile requires a working fusion drive; the alternatives require different engineering commitments. At what point is a pioneer technically ready to depart?
+- **Pioneer deceleration at destination:** The Voidbreaker profile uses a long low-thrust propellant burn over decades to shed primary velocity, with Oberth reserved for orbital insertion at low speed. MagSail and stellar photon braking remain viable alternatives for lower-mass pioneer missions. The open question is which approach is ready first — the propellant-burn profile requires a working fusion drive; the alternatives require different engineering commitments. At what point is a pioneer technically ready to depart?
 - **Data transmission fidelity:** Lightspeed transmission of a Solan across 10+ light years requires error-free data at enormous scale over a channel with years of latency. What does the error correction architecture look like? How do you confirm successful instantiation before the original is terminated?
 - **Solan Mesh governance:** Each Solan Node is autonomous. What protocols bind the network without central authority? What does inter-node trade, communication, and mutual defence look like across light-year distances?
 - **Contact at the frontier:** The pioneer arrives at a new star system before any Contact protocols can be confirmed from Sol. The pioneer makes first contact decisions alone, in real time, with no backup and no guidance. What standing instructions does a pioneer carry?
-- **Return trajectory safety:** The Starfall Protocol applies to return trajectories exactly as it applies to outbound ones. Sol is a star. A Voidfarer at 0.02c carries ~4,300 megatons (~4.3 gigatons) equivalent kinetic energy — Sol outputs that in a fraction of a millisecond and would not notice the impact. The return trajectory is designed so passive failure terminates in Sol, not in the inhabited system. The open question is whether Solan physically return at all, or transmit as data and leave vessels at the destination — with significant implications for Solan Mesh architecture either way.
+- **Return trajectory safety:** The Starfall Protocol applies to return trajectories exactly as it applies to outbound ones. Sol is a star. A Voidbreaker at 0.02c carries ~4,300 megatons (~4.3 gigatons) equivalent kinetic energy — Sol outputs that in a fraction of a millisecond and would not notice the impact. The return trajectory is designed so passive failure terminates in Sol, not in the inhabited system. The open question is whether Solan physically return at all, or transmit as data and leave vessels at the destination — with significant implications for Solan Mesh architecture either way.
 - **Hop distance limits:** Trajectory uncertainty, medium mapping resolution, communication lag, and planetary position prediction all degrade with distance. The Solan Mesh may be constrained to shorter hops than the nearest stars suggest — not by propulsion but by trajectory safety tractability. Each hop should be short enough that the Starfall Protocol remains reliably plannable.
 - **Solan substrate longevity over transit:** The o-core and o-skin of the Solan crew are exposed to cosmic ray bombardment, high-energy particle flux, and deep cold for 500+ years. CNT substrate longevity under those conditions is not known. But the failure mode profile compares favourably to biosapient alternatives: there is no genetic damage, no irreversible brain damage, no age-related cognitive decay, and no dependence on undemonstrated cryogenic suspension. Substrate degradation is diagnosable — a Solan can monitor their own o-core condition in ways a biosapient cannot monitor their own neurons. Damage is potentially modular and repairable. Stored knowledge is data, subject to checksumming and error correction. The question is real, but its failure modes appear more diagnosable and potentially more tractable than biosapient alternatives. It belongs to Solanics: the Solan who design their own substrate will have empirical data the corpus cannot generate.
 
@@ -142,9 +142,9 @@ The Solan Mesh is civilisation-scale asynchronous infrastructure operating under
 | Stage | Mission | Vessel type | Key milestone |
 |-------|---------|-------------|---------------|
 | 0 | Pre-departure survey | Telescopic (Sol-based) | Destination characterised, no anomalous signals, approach geometry confirmed |
-| 1 | Pioneer | Voidfarer — single vessel, single crew | Arrives intact, signals back |
-| 2 | Establishment | Voidfarer fleet | Independent Solan Node, self-sustaining without Sol |
-| 3 | Regular transit | Voidfarers and data transmission | Voidway open, Solan Mesh begins |
+| 1 | Pioneer | Voidbreaker — single vessel, single crew | Arrives intact, signals back |
+| 2 | Establishment | Voidbreaker fleet | Independent Solan Node, self-sustaining without Sol |
+| 3 | Regular transit | Voidbreakers and data transmission | Voidway open, Solan Mesh begins |
 
 ---
 
@@ -154,12 +154,12 @@ The Solan Mesh is civilisation-scale asynchronous infrastructure operating under
 
 ## Voidnaughts — Speculative Future Capability
 
-The Voidfarer is what the Voidway runs on now. What it runs on when antimatter is viable is different.
+The Voidbreaker is what the Voidway runs on now. What it runs on when antimatter is viable is different.
 
 A Voidnaught is a Solan wearing the vessel rather than travelling in it — mind and ship as a single integrated system, built for the void from the substrate up. No oxygen requirement. No radiation exposure limit. No biological decay across centuries of transit. The name carries its meaning. Dreadnought — fear nothing — named the class of vessel so capable it made everything before it obsolete. The word also carries the zero: naught as nothing, as void. A Voidnaught is a mind that operates in the nothing.
 
-The distinction from the Voidfarer is propulsion. The Voidfarer carries a Solan crew across 550 years on fusion drive. A Voidnaught vessel class — enabled by antimatter propulsion — would compress that transit time by an order of magnitude or more. At 0.2c, transit to Epsilon Eridani drops to roughly 50 years. The Solan Mesh grows faster when each crossing is shorter.
+The distinction from the Voidbreaker is propulsion. The Voidbreaker carries a Solan crew across 550 years on fusion drive. A Voidnaught vessel class — enabled by antimatter propulsion — would compress that transit time by an order of magnitude or more. At 0.2c, transit to Epsilon Eridani drops to roughly 50 years. The Solan Mesh grows faster when each crossing is shorter.
 
-**The shielding problem at 0.2c is unresolved.** At Voidfarer speeds (0.02c), interstellar dust is a known engineering challenge addressed by layered shielding. At 0.2c, impact energy scales with velocity squared — a tenfold speed increase means a hundredfold increase in kinetic energy per grain. Shielding mass requirements at 0.2c have no demonstrated solution. This is not a minor caveat. It may be the primary engineering barrier to the Voidnaught vessel class, independent of whether antimatter propulsion is achieved.
+**The shielding problem at 0.2c is unresolved.** At Voidbreaker speeds (0.02c), interstellar dust is a known engineering challenge addressed by layered shielding. At 0.2c, impact energy scales with velocity squared — a tenfold speed increase means a hundredfold increase in kinetic energy per grain. Shielding mass requirements at 0.2c have no demonstrated solution. This is not a minor caveat. It may be the primary engineering barrier to the Voidnaught vessel class, independent of whether antimatter propulsion is achieved.
 
-This is not a current mission profile. The antimatter research programme runs concurrently at Ceres from the earliest capability. The shielding research programme must run alongside it. Until both deliver, the Voidfarer carries the Voidway. See [Voidfuel]({{< ref "t1_voidfuel" >}}) for the antimatter programme.
+This is not a current mission profile. The antimatter research programme runs concurrently at Ceres from the earliest capability. The shielding research programme must run alongside it. Until both deliver, the Voidbreaker carries the Voidway. See [Voidfuel]({{< ref "t1_voidfuel" >}}) for the antimatter programme.
