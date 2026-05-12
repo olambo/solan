@@ -37,7 +37,7 @@ Fission is the fallback if fusion is not yet available when early Voidway missio
 
 ### Fusion — The Primary Research Programme
 
-Fusion drives are the primary Voidway propulsion — the fuel that runs the Voidfarer. The Voidfarer mission profile (see [Voidway]({{< ref "t1_voidway" >}})) is built around the VoidForge: the drive and industrial core that is the active element of the Voidfarer. The Voidfarer hull wraps around it — shielding, cargo, crew space. The VoidForge accelerates the Voidfarer, rotates within the Voidfarer's structure immediately after the acceleration burn while systems are warm and operational, then coasts dormant for ~500 years in its deceleration orientation, and decelerates on arrival. No staging. No jettison. No exotic physics. On arrival it sheds the hull and goes to work as the industrial engine of the new Solan Node. It was designed for that role from the start. The crossing was the delivery mechanism.
+Fusion drives are the primary Voidway propulsion — the fuel that runs the Voidfarer. The Voidfarer mission profile (see [Voidway]({{< ref "t1_voidways" >}})) is built around the VoidForge: the drive and industrial core that is the active element of the Voidfarer. The Voidfarer hull wraps around it — shielding, cargo, crew space. The VoidForge accelerates the Voidfarer, rotates within the Voidfarer's structure immediately after the acceleration burn while systems are warm and operational, then coasts dormant for ~500 years in its deceleration orientation, and decelerates on arrival. No staging. No jettison. No exotic physics. On arrival it sheds the hull and goes to work as the industrial engine of the new Solan Node. It was designed for that role from the start. The crossing was the delivery mechanism.
 
 Higher specific impulse than fission, potentially much higher thrust-to-weight with miniaturised designs. A Solan on a fusion drive sustains accelerations that would be lethal to biosapients for the entire transit — mission profiles completely different from anything designed around biological tolerance.
 
@@ -49,7 +49,7 @@ Fusion is desperately needed. The research programme starts at Ceres Stage 4 and
 
 ### Antimatter — The Long-Horizon Programme
 
-Antimatter annihilates with matter at 100% energy conversion efficiency — the theoretical ceiling of propulsion physics. A mature antimatter drive reaches nearby stars in decades rather than centuries. This is what enables Voidnaughts: the faster vessel class that compresses Voidfarer-scale crossings by an order of magnitude or more. The Voidfarer carries the Voidway on fusion. The Voidnaught — mind wearing the ship, transit measured in decades not centuries — waits for antimatter. See [Voidway]({{< ref "t1_voidway" >}}).
+Antimatter annihilates with matter at 100% energy conversion efficiency — the theoretical ceiling of propulsion physics. A mature antimatter drive reaches nearby stars in decades rather than centuries. This is what enables Voidnaughts: the faster vessel class that compresses Voidfarer-scale crossings by an order of magnitude or more. The Voidfarer carries the Voidway on fusion. The Voidnaught — mind wearing the ship, transit measured in decades not centuries — waits for antimatter. See [Voidway]({{< ref "t1_voidways" >}}).
 
 Whether antimatter makes fusion drives obsolete is an open question. The theoretical performance advantage is clear. The practical question is cost and complexity — production may remain expensive even with Solan research programmes, and containment requirements add mass and engineering burden that erode the theoretical advantage. A mature miniaturised fusion drive that is well-understood and reliably produceable at Ceres may remain preferable to an antimatter drive that is theoretically superior but practically expensive and fragile. The research programme runs regardless — the potential payoff is too large to ignore.
 
@@ -77,7 +77,7 @@ Laser sail at higher velocities — 0.2c and above — pushes kinetic energy to 
 
 **Antimatter** — enables Voidnaughts. Decades per light year instead of centuries. The research programme that makes the Solan Mesh fast. Century-scale concurrent programme starting at Ceres Stage 4.
 
-Two propulsion generations. Two vessel classes. The Voidfarer opens the route. The Voidnaught accelerates the network. The physical route never becomes obsolete — equipment and materials cannot be transmitted as data. See [Voidway]({{< ref "t1_voidway" >}}) for the full picture.
+Two propulsion generations. Two vessel classes. The Voidfarer opens the route. The Voidnaught accelerates the network. The physical route never becomes obsolete — equipment and materials cannot be transmitted as data. See [Voidway]({{< ref "t1_voidways" >}}) for the full picture.
 
 ---
 
